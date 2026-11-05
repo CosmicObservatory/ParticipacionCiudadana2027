@@ -27,6 +27,21 @@ uv run --with nbconvert -- jupyter nbconvert --to notebook --execute \
 donde falten, el prefijo `uv run --with nbconvert` los provee sin
 modificar el venv.
 
+## Tableros
+
+Dos frontends equivalentes sobre `vothmo/dashboard/`: `data.py` concentra
+cargadores tidy memoizados (`lru_cache`) y `figures.py` las figuras Plotly;
+`app.py` (Dash) y `streamlit_app.py` son solo capas de UI. Ambos abren en
+una portada-historia (`/`, textos en `narrativa.historia_md`/`fuentes_md`,
+en Dash el layout vive en `historia.py`) que cierra con fuentes y un enlace
+a la herramienta; las pestañas solo se renderizan en `/herramienta`
+(Dash: `dcc.Location` + ruteo; Streamlit: `st.navigation(position="hidden")`).
+
+```bash
+uv run python -m vothmo.dashboard.app                                  # Dash → :8050
+uv run streamlit run vothmo/dashboard/streamlit_app.py                 # Streamlit → :8501
+```
+
 ## Datos
 
 - `data/raw/Mapas/{2019..2025}` — cartografía INE (capa `SECCION`);

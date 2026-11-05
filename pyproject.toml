@@ -19,6 +19,7 @@ dependencies = [
     "bs4>=0.0.2",
     "cchardet>=2.4.0",
     "dash>=4.4.1",
+    "dash-mantine-components>=2.8.1",
     "geopandas>=1.2.0",
     "ipykernel>=7.4.0",
     "jupyter>=1.1.1",
@@ -35,6 +36,7 @@ dependencies = [
     "requests>=2.34.2",
     "ruff",
     "shapely>=2.1.2",
+    "streamlit>=1.66.1",
     "yarl>=1.25.1",
 ]
 requires-python = "~=3.14.0"
