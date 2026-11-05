@@ -1,10 +1,10 @@
-# VotacionHMO
+# Participacion Ciudadana 2027
 
 <a target="_blank" href="https://cookiecutter-data-science.drivendata.org/">
     <img src="https://img.shields.io/badge/CCDS-Project%20template-328F97?logo=cookiecutter" />
 </a>
 
-Visualización de Datos de Votantes
+Estimación de Personas Votantes para las elecciones de 2027.
 
 ## Project Organization
 
@@ -27,7 +27,7 @@ Visualización de Datos de Votantes
 │                         `1.0-jqp-initial-data-exploration`.
 │
 ├── pyproject.toml     <- Project configuration file with package metadata for 
-│                         vothmo and configuration for tools like black
+│                         partciud and configuration for tools like black
 │
 ├── references         <- Data dictionaries, manuals, and all other explanatory materials.
 │
@@ -39,9 +39,9 @@ Visualización de Datos de Votantes
 │
 ├── setup.cfg          <- Configuration file for flake8
 │
-└── vothmo   <- Source code for use in this project.
+└── partciud   <- Source code for use in this project.
     │
-    ├── __init__.py             <- Makes vothmo a Python module
+    ├── __init__.py             <- Makes partciud a Python module
     │
     ├── config.py               <- Store useful variables and configuration
     │

@@ -2,7 +2,7 @@
 # GLOBALS                                                                       #
 #################################################################################
 
-PROJECT_NAME = Votacion2026
+PROJECT_NAME = ParticipacionCiudadana2027
 PYTHON_VERSION = 3.14
 PYTHON_INTERPRETER = python
 
