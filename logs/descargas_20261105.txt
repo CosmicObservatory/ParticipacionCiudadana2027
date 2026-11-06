@@ -1,0 +1,136 @@
+2026-11-05 12:58:46 | INFO    | === INICIO lote: 63 archivos ===
+2026-11-05 12:59:00 | INFO    | === INICIO lote: 63 archivos ===
+2026-11-05 13:00:12 | INFO    | === INICIO lote: 63 archivos ===
+2026-11-05 13:01:15 | INFO    | === INICIO lote: 63 archivos ===
+2026-11-05 13:02:41 | INFO    | === INICIO lote: 63 archivos ===
+2026-11-05 13:02:41 | ERROR   | FALLO | url=cob_2019/ENTIDAD.zip | 0.00 s | Invalid URL 'cob_2019/ENTIDAD.zip': No scheme supplied. Perhaps you meant https://cob_2019/ENTIDAD.zip?
+2026-11-05 13:02:41 | ERROR   | FALLO | url=cob_2019/MUNICIPIO.zip | 0.00 s | Invalid URL 'cob_2019/MUNICIPIO.zip': No scheme supplied. Perhaps you meant https://cob_2019/MUNICIPIO.zip?
+2026-11-05 13:02:41 | ERROR   | FALLO | url=cob_2019/DISTRITO_FEDERAL.zip | 0.00 s | Invalid URL 'cob_2019/DISTRITO_FEDERAL.zip': No scheme supplied. Perhaps you meant https://cob_2019/DISTRITO_FEDERAL.zip?
+2026-11-05 13:02:41 | ERROR   | FALLO | url=cob_2019/DISTRITO_LOCAL.zip | 0.00 s | Invalid URL 'cob_2019/DISTRITO_LOCAL.zip': No scheme supplied. Perhaps you meant https://cob_2019/DISTRITO_LOCAL.zip?
+2026-11-05 13:02:41 | ERROR   | FALLO | url=cob_2019/SECCION.zip | 0.00 s | Invalid URL 'cob_2019/SECCION.zip': No scheme supplied. Perhaps you meant https://cob_2019/SECCION.zip?
+2026-11-05 13:02:41 | ERROR   | FALLO | url=cob_2019/LOCALIDAD.zip | 0.00 s | Invalid URL 'cob_2019/LOCALIDAD.zip': No scheme supplied. Perhaps you meant https://cob_2019/LOCALIDAD.zip?
+2026-11-05 13:02:41 | ERROR   | FALLO | url=cob_2019/MANZANAS.zip | 0.00 s | Invalid URL 'cob_2019/MANZANAS.zip': No scheme supplied. Perhaps you meant https://cob_2019/MANZANAS.zip?
+2026-11-05 13:02:41 | ERROR   | FALLO | url=cob_2019/LOCALIDADES_URBANAS.zip | 0.00 s | Invalid URL 'cob_2019/LOCALIDADES_URBANAS.zip': No scheme supplied. Perhaps you meant https://cob_2019/LOCALIDADES_URBANAS.zip?
+2026-11-05 13:02:41 | ERROR   | FALLO | url=cob_2019/LOCALIDADES_RURALES.zip | 0.00 s | Invalid URL 'cob_2019/LOCALIDADES_RURALES.zip': No scheme supplied. Perhaps you meant https://cob_2019/LOCALIDADES_RURALES.zip?
+2026-11-05 13:02:41 | ERROR   | FALLO | url=cob_2020/ENTIDAD.zip | 0.00 s | Invalid URL 'cob_2020/ENTIDAD.zip': No scheme supplied. Perhaps you meant https://cob_2020/ENTIDAD.zip?
+2026-11-05 13:02:41 | ERROR   | FALLO | url=cob_2020/MUNICIPIO.zip | 0.00 s | Invalid URL 'cob_2020/MUNICIPIO.zip': No scheme supplied. Perhaps you meant https://cob_2020/MUNICIPIO.zip?
+2026-11-05 13:02:41 | ERROR   | FALLO | url=cob_2020/DISTRITO_FEDERAL.zip | 0.00 s | Invalid URL 'cob_2020/DISTRITO_FEDERAL.zip': No scheme supplied. Perhaps you meant https://cob_2020/DISTRITO_FEDERAL.zip?
+2026-11-05 13:02:41 | ERROR   | FALLO | url=cob_2020/DISTRITO_LOCAL.zip | 0.00 s | Invalid URL 'cob_2020/DISTRITO_LOCAL.zip': No scheme supplied. Perhaps you meant https://cob_2020/DISTRITO_LOCAL.zip?
+2026-11-05 13:02:41 | ERROR   | FALLO | url=cob_2020/SECCION.zip | 0.00 s | Invalid URL 'cob_2020/SECCION.zip': No scheme supplied. Perhaps you meant https://cob_2020/SECCION.zip?
+2026-11-05 13:02:41 | ERROR   | FALLO | url=cob_2020/LOCALIDAD.zip | 0.00 s | Invalid URL 'cob_2020/LOCALIDAD.zip': No scheme supplied. Perhaps you meant https://cob_2020/LOCALIDAD.zip?
+2026-11-05 13:02:41 | ERROR   | FALLO | url=cob_2020/MANZANAS.zip | 0.00 s | Invalid URL 'cob_2020/MANZANAS.zip': No scheme supplied. Perhaps you meant https://cob_2020/MANZANAS.zip?
+2026-11-05 13:02:41 | ERROR   | FALLO | url=cob_2019/LOCALIDADES_URBANAS.zip | 0.00 s | Invalid URL 'cob_2019/LOCALIDADES_URBANAS.zip': No scheme supplied. Perhaps you meant https://cob_2019/LOCALIDADES_URBANAS.zip?
+2026-11-05 13:02:41 | ERROR   | FALLO | url=cob_2019/LOCALIDADES_RURALES.zip | 0.00 s | Invalid URL 'cob_2019/LOCALIDADES_RURALES.zip': No scheme supplied. Perhaps you meant https://cob_2019/LOCALIDADES_RURALES.zip?
+2026-11-05 13:02:41 | ERROR   | FALLO | url=cob_2021/ENTIDAD.zip | 0.00 s | Invalid URL 'cob_2021/ENTIDAD.zip': No scheme supplied. Perhaps you meant https://cob_2021/ENTIDAD.zip?
+2026-11-05 13:02:41 | ERROR   | FALLO | url=cob_2021/MUNICIPIO.zip | 0.00 s | Invalid URL 'cob_2021/MUNICIPIO.zip': No scheme supplied. Perhaps you meant https://cob_2021/MUNICIPIO.zip?
+2026-11-05 13:02:41 | ERROR   | FALLO | url=cob_2021/DISTRITO_FEDERAL.zip | 0.00 s | Invalid URL 'cob_2021/DISTRITO_FEDERAL.zip': No scheme supplied. Perhaps you meant https://cob_2021/DISTRITO_FEDERAL.zip?
+2026-11-05 13:02:41 | ERROR   | FALLO | url=cob_2021/DISTRITO_LOCAL.zip | 0.00 s | Invalid URL 'cob_2021/DISTRITO_LOCAL.zip': No scheme supplied. Perhaps you meant https://cob_2021/DISTRITO_LOCAL.zip?
+2026-11-05 13:02:41 | ERROR   | FALLO | url=cob_2021/SECCION.zip | 0.00 s | Invalid URL 'cob_2021/SECCION.zip': No scheme supplied. Perhaps you meant https://cob_2021/SECCION.zip?
+2026-11-05 13:02:41 | ERROR   | FALLO | url=cob_2021/LOCALIDAD.zip | 0.00 s | Invalid URL 'cob_2021/LOCALIDAD.zip': No scheme supplied. Perhaps you meant https://cob_2021/LOCALIDAD.zip?
+2026-11-05 13:02:41 | ERROR   | FALLO | url=cob_2021/MANZANAS.zip | 0.00 s | Invalid URL 'cob_2021/MANZANAS.zip': No scheme supplied. Perhaps you meant https://cob_2021/MANZANAS.zip?
+2026-11-05 13:02:41 | ERROR   | FALLO | url=cob_2019/LOCALIDADES_URBANAS.zip | 0.00 s | Invalid URL 'cob_2019/LOCALIDADES_URBANAS.zip': No scheme supplied. Perhaps you meant https://cob_2019/LOCALIDADES_URBANAS.zip?
+2026-11-05 13:02:41 | ERROR   | FALLO | url=cob_2019/LOCALIDADES_RURALES.zip | 0.00 s | Invalid URL 'cob_2019/LOCALIDADES_RURALES.zip': No scheme supplied. Perhaps you meant https://cob_2019/LOCALIDADES_RURALES.zip?
+2026-11-05 13:02:41 | ERROR   | FALLO | url=cob_2022/ENTIDAD.zip | 0.00 s | Invalid URL 'cob_2022/ENTIDAD.zip': No scheme supplied. Perhaps you meant https://cob_2022/ENTIDAD.zip?
+2026-11-05 13:02:41 | ERROR   | FALLO | url=cob_2022/MUNICIPIO.zip | 0.00 s | Invalid URL 'cob_2022/MUNICIPIO.zip': No scheme supplied. Perhaps you meant https://cob_2022/MUNICIPIO.zip?
+2026-11-05 13:02:41 | ERROR   | FALLO | url=cob_2022/DISTRITO_FEDERAL.zip | 0.00 s | Invalid URL 'cob_2022/DISTRITO_FEDERAL.zip': No scheme supplied. Perhaps you meant https://cob_2022/DISTRITO_FEDERAL.zip?
+2026-11-05 13:02:41 | ERROR   | FALLO | url=cob_2022/DISTRITO_LOCAL.zip | 0.00 s | Invalid URL 'cob_2022/DISTRITO_LOCAL.zip': No scheme supplied. Perhaps you meant https://cob_2022/DISTRITO_LOCAL.zip?
+2026-11-05 13:02:41 | ERROR   | FALLO | url=cob_2022/SECCION.zip | 0.00 s | Invalid URL 'cob_2022/SECCION.zip': No scheme supplied. Perhaps you meant https://cob_2022/SECCION.zip?
+2026-11-05 13:02:41 | ERROR   | FALLO | url=cob_2022/LOCALIDAD.zip | 0.00 s | Invalid URL 'cob_2022/LOCALIDAD.zip': No scheme supplied. Perhaps you meant https://cob_2022/LOCALIDAD.zip?
+2026-11-05 13:02:41 | ERROR   | FALLO | url=cob_2022/MANZANAS.zip | 0.00 s | Invalid URL 'cob_2022/MANZANAS.zip': No scheme supplied. Perhaps you meant https://cob_2022/MANZANAS.zip?
+2026-11-05 13:02:41 | ERROR   | FALLO | url=cob_2019/LOCALIDADES_URBANAS.zip | 0.00 s | Invalid URL 'cob_2019/LOCALIDADES_URBANAS.zip': No scheme supplied. Perhaps you meant https://cob_2019/LOCALIDADES_URBANAS.zip?
+2026-11-05 13:02:41 | ERROR   | FALLO | url=cob_2019/LOCALIDADES_RURALES.zip | 0.00 s | Invalid URL 'cob_2019/LOCALIDADES_RURALES.zip': No scheme supplied. Perhaps you meant https://cob_2019/LOCALIDADES_RURALES.zip?
+2026-11-05 13:02:41 | ERROR   | FALLO | url=cob_2023/ENTIDAD.zip | 0.00 s | Invalid URL 'cob_2023/ENTIDAD.zip': No scheme supplied. Perhaps you meant https://cob_2023/ENTIDAD.zip?
+2026-11-05 13:02:41 | ERROR   | FALLO | url=cob_2023/MUNICIPIO.zip | 0.00 s | Invalid URL 'cob_2023/MUNICIPIO.zip': No scheme supplied. Perhaps you meant https://cob_2023/MUNICIPIO.zip?
+2026-11-05 13:02:41 | ERROR   | FALLO | url=cob_2023/DISTRITO_FEDERAL.zip | 0.00 s | Invalid URL 'cob_2023/DISTRITO_FEDERAL.zip': No scheme supplied. Perhaps you meant https://cob_2023/DISTRITO_FEDERAL.zip?
+2026-11-05 13:02:41 | ERROR   | FALLO | url=cob_2023/DISTRITO_LOCAL.zip | 0.00 s | Invalid URL 'cob_2023/DISTRITO_LOCAL.zip': No scheme supplied. Perhaps you meant https://cob_2023/DISTRITO_LOCAL.zip?
+2026-11-05 13:02:41 | ERROR   | FALLO | url=cob_2023/SECCION.zip | 0.00 s | Invalid URL 'cob_2023/SECCION.zip': No scheme supplied. Perhaps you meant https://cob_2023/SECCION.zip?
+2026-11-05 13:02:41 | ERROR   | FALLO | url=cob_2023/LOCALIDAD.zip | 0.00 s | Invalid URL 'cob_2023/LOCALIDAD.zip': No scheme supplied. Perhaps you meant https://cob_2023/LOCALIDAD.zip?
+2026-11-05 13:02:41 | ERROR   | FALLO | url=cob_2023/MANZANAS.zip | 0.00 s | Invalid URL 'cob_2023/MANZANAS.zip': No scheme supplied. Perhaps you meant https://cob_2023/MANZANAS.zip?
+2026-11-05 13:02:41 | ERROR   | FALLO | url=cob_2019/LOCALIDADES_URBANAS.zip | 0.00 s | Invalid URL 'cob_2019/LOCALIDADES_URBANAS.zip': No scheme supplied. Perhaps you meant https://cob_2019/LOCALIDADES_URBANAS.zip?
+2026-11-05 13:02:41 | ERROR   | FALLO | url=cob_2019/LOCALIDADES_RURALES.zip | 0.00 s | Invalid URL 'cob_2019/LOCALIDADES_RURALES.zip': No scheme supplied. Perhaps you meant https://cob_2019/LOCALIDADES_RURALES.zip?
+2026-11-05 13:02:41 | ERROR   | FALLO | url=cob_2024/ENTIDAD.zip | 0.00 s | Invalid URL 'cob_2024/ENTIDAD.zip': No scheme supplied. Perhaps you meant https://cob_2024/ENTIDAD.zip?
+2026-11-05 13:02:41 | ERROR   | FALLO | url=cob_2024/MUNICIPIO.zip | 0.00 s | Invalid URL 'cob_2024/MUNICIPIO.zip': No scheme supplied. Perhaps you meant https://cob_2024/MUNICIPIO.zip?
+2026-11-05 13:02:41 | ERROR   | FALLO | url=cob_2024/DISTRITO_FEDERAL.zip | 0.00 s | Invalid URL 'cob_2024/DISTRITO_FEDERAL.zip': No scheme supplied. Perhaps you meant https://cob_2024/DISTRITO_FEDERAL.zip?
+2026-11-05 13:02:41 | ERROR   | FALLO | url=cob_2024/DISTRITO_LOCAL.zip | 0.00 s | Invalid URL 'cob_2024/DISTRITO_LOCAL.zip': No scheme supplied. Perhaps you meant https://cob_2024/DISTRITO_LOCAL.zip?
+2026-11-05 13:02:41 | ERROR   | FALLO | url=cob_2024/SECCION.zip | 0.00 s | Invalid URL 'cob_2024/SECCION.zip': No scheme supplied. Perhaps you meant https://cob_2024/SECCION.zip?
+2026-11-05 13:02:41 | ERROR   | FALLO | url=cob_2024/LOCALIDAD.zip | 0.00 s | Invalid URL 'cob_2024/LOCALIDAD.zip': No scheme supplied. Perhaps you meant https://cob_2024/LOCALIDAD.zip?
+2026-11-05 13:02:41 | ERROR   | FALLO | url=cob_2024/MANZANAS.zip | 0.00 s | Invalid URL 'cob_2024/MANZANAS.zip': No scheme supplied. Perhaps you meant https://cob_2024/MANZANAS.zip?
+2026-11-05 13:02:41 | ERROR   | FALLO | url=cob_2019/LOCALIDADES_URBANAS.zip | 0.00 s | Invalid URL 'cob_2019/LOCALIDADES_URBANAS.zip': No scheme supplied. Perhaps you meant https://cob_2019/LOCALIDADES_URBANAS.zip?
+2026-11-05 13:02:41 | ERROR   | FALLO | url=cob_2019/LOCALIDADES_RURALES.zip | 0.00 s | Invalid URL 'cob_2019/LOCALIDADES_RURALES.zip': No scheme supplied. Perhaps you meant https://cob_2019/LOCALIDADES_RURALES.zip?
+2026-11-05 13:02:41 | ERROR   | FALLO | url=cob_2025/ENTIDAD.zip | 0.00 s | Invalid URL 'cob_2025/ENTIDAD.zip': No scheme supplied. Perhaps you meant https://cob_2025/ENTIDAD.zip?
+2026-11-05 13:02:41 | ERROR   | FALLO | url=cob_2025/MUNICIPIO.zip | 0.00 s | Invalid URL 'cob_2025/MUNICIPIO.zip': No scheme supplied. Perhaps you meant https://cob_2025/MUNICIPIO.zip?
+2026-11-05 13:02:41 | ERROR   | FALLO | url=cob_2025/DISTRITO_FEDERAL.zip | 0.00 s | Invalid URL 'cob_2025/DISTRITO_FEDERAL.zip': No scheme supplied. Perhaps you meant https://cob_2025/DISTRITO_FEDERAL.zip?
+2026-11-05 13:02:41 | ERROR   | FALLO | url=cob_2025/DISTRITO_LOCAL.zip | 0.00 s | Invalid URL 'cob_2025/DISTRITO_LOCAL.zip': No scheme supplied. Perhaps you meant https://cob_2025/DISTRITO_LOCAL.zip?
+2026-11-05 13:02:41 | ERROR   | FALLO | url=cob_2025/SECCION.zip | 0.00 s | Invalid URL 'cob_2025/SECCION.zip': No scheme supplied. Perhaps you meant https://cob_2025/SECCION.zip?
+2026-11-05 13:02:41 | ERROR   | FALLO | url=cob_2025/LOCALIDAD.zip | 0.00 s | Invalid URL 'cob_2025/LOCALIDAD.zip': No scheme supplied. Perhaps you meant https://cob_2025/LOCALIDAD.zip?
+2026-11-05 13:02:41 | ERROR   | FALLO | url=cob_2025/MANZANAS.zip | 0.00 s | Invalid URL 'cob_2025/MANZANAS.zip': No scheme supplied. Perhaps you meant https://cob_2025/MANZANAS.zip?
+2026-11-05 13:02:41 | ERROR   | FALLO | url=cob_2019/LOCALIDADES_URBANAS.zip | 0.00 s | Invalid URL 'cob_2019/LOCALIDADES_URBANAS.zip': No scheme supplied. Perhaps you meant https://cob_2019/LOCALIDADES_URBANAS.zip?
+2026-11-05 13:02:41 | ERROR   | FALLO | url=cob_2019/LOCALIDADES_RURALES.zip | 0.00 s | Invalid URL 'cob_2019/LOCALIDADES_RURALES.zip': No scheme supplied. Perhaps you meant https://cob_2019/LOCALIDADES_RURALES.zip?
+2026-11-05 13:02:41 | INFO    | === FIN lote | total 0.0 s ===
+2026-11-05 13:03:36 | INFO    | === INICIO lote: 63 archivos ===
+2026-11-05 13:03:43 | INFO    | OK | url=https://pautas.ine.mx/transparencia/mapas/cob_2019/ENTIDAD.zip | archivo=ENTIDAD.zip | 7.78 s | 5256.7 KB
+2026-11-05 13:06:07 | INFO    | === INICIO lote: 63 archivos ===
+2026-11-05 13:06:11 | INFO    | OK | url=https://pautas.ine.mx/transparencia/mapas/cob_2019/ENTIDAD.zip | archivo=ENTIDAD.zip | 3.38 s | 5256.7 KB
+2026-11-05 13:06:24 | INFO    | OK | url=https://pautas.ine.mx/transparencia/mapas/cob_2019/MUNICIPIO.zip | archivo=MUNICIPIO.zip | 13.51 s | 27613.9 KB
+2026-11-05 13:06:29 | INFO    | OK | url=https://pautas.ine.mx/transparencia/mapas/cob_2019/DISTRITO_FEDERAL.zip | archivo=DISTRITO_FEDERAL.zip | 5.36 s | 11273.5 KB
+2026-11-05 13:06:37 | INFO    | OK | url=https://pautas.ine.mx/transparencia/mapas/cob_2019/DISTRITO_LOCAL.zip | archivo=DISTRITO_LOCAL.zip | 7.38 s | 14577.4 KB
+2026-11-05 13:07:50 | INFO    | OK | url=https://pautas.ine.mx/transparencia/mapas/cob_2019/SECCION.zip | archivo=SECCION.zip | 73.27 s | 95018.3 KB
+2026-11-05 13:07:56 | INFO    | OK | url=https://pautas.ine.mx/transparencia/mapas/cob_2019/LOCALIDAD.zip | archivo=LOCALIDAD.zip | 6.23 s | 10912.8 KB
+2026-11-05 13:11:47 | INFO    | OK | url=https://pautas.ine.mx/transparencia/mapas/cob_2019/MANZANAS.zip | archivo=MANZANAS.zip | 231.04 s | 373873.5 KB
+2026-11-05 13:11:58 | INFO    | OK | url=https://pautas.ine.mx/transparencia/mapas/cob_2019/LOCALIDADES_URBANAS.zip | archivo=LOCALIDADES_URBANAS.zip | 10.20 s | 15803.9 KB
+2026-11-05 13:12:16 | INFO    | OK | url=https://pautas.ine.mx/transparencia/mapas/cob_2019/LOCALIDADES_RURALES.zip | archivo=LOCALIDADES_RURALES.zip | 18.12 s | 33904.3 KB
+2026-11-05 13:12:22 | INFO    | OK | url=https://pautas.ine.mx/transparencia/mapas/cob_2020/ENTIDAD.zip | archivo=ENTIDAD.zip | 6.64 s | 5163.6 KB
+2026-11-05 13:12:36 | INFO    | OK | url=https://pautas.ine.mx/transparencia/mapas/cob_2020/MUNICIPIO.zip | archivo=MUNICIPIO.zip | 13.87 s | 27681.0 KB
+2026-11-05 13:12:41 | INFO    | OK | url=https://pautas.ine.mx/transparencia/mapas/cob_2020/DISTRITO_FEDERAL.zip | archivo=DISTRITO_FEDERAL.zip | 4.73 s | 11375.7 KB
+2026-11-05 13:12:46 | INFO    | OK | url=https://pautas.ine.mx/transparencia/mapas/cob_2020/DISTRITO_LOCAL.zip | archivo=DISTRITO_LOCAL.zip | 5.51 s | 15071.5 KB
+2026-11-05 13:13:44 | INFO    | OK | url=https://pautas.ine.mx/transparencia/mapas/cob_2020/SECCION.zip | archivo=SECCION.zip | 57.74 s | 111311.9 KB
+2026-11-05 13:13:49 | INFO    | OK | url=https://pautas.ine.mx/transparencia/mapas/cob_2020/LOCALIDAD.zip | archivo=LOCALIDAD.zip | 4.70 s | 9646.3 KB
+2026-11-05 13:17:21 | INFO    | OK | url=https://pautas.ine.mx/transparencia/mapas/cob_2020/MANZANAS.zip | archivo=MANZANAS.zip | 211.60 s | 392812.9 KB
+2026-11-05 13:17:32 | INFO    | OK | url=https://pautas.ine.mx/transparencia/mapas/cob_2019/LOCALIDADES_URBANAS.zip | archivo=LOCALIDADES_URBANAS.zip | 11.41 s | 15803.9 KB
+2026-11-05 13:17:54 | INFO    | OK | url=https://pautas.ine.mx/transparencia/mapas/cob_2019/LOCALIDADES_RURALES.zip | archivo=LOCALIDADES_RURALES.zip | 22.30 s | 33904.3 KB
+2026-11-05 13:17:59 | INFO    | OK | url=https://pautas.ine.mx/transparencia/mapas/cob_2021/ENTIDAD.zip | archivo=ENTIDAD.zip | 4.74 s | 5281.3 KB
+2026-11-05 13:18:15 | INFO    | OK | url=https://pautas.ine.mx/transparencia/mapas/cob_2021/MUNICIPIO.zip | archivo=MUNICIPIO.zip | 15.63 s | 28149.5 KB
+2026-11-05 13:18:23 | INFO    | OK | url=https://pautas.ine.mx/transparencia/mapas/cob_2021/DISTRITO_FEDERAL.zip | archivo=DISTRITO_FEDERAL.zip | 8.11 s | 11495.9 KB
+2026-11-05 13:18:35 | INFO    | OK | url=https://pautas.ine.mx/transparencia/mapas/cob_2021/DISTRITO_LOCAL.zip | archivo=DISTRITO_LOCAL.zip | 11.90 s | 14973.8 KB
+2026-11-05 13:19:41 | INFO    | OK | url=https://pautas.ine.mx/transparencia/mapas/cob_2021/SECCION.zip | archivo=SECCION.zip | 65.93 s | 94276.1 KB
+2026-11-05 13:19:46 | INFO    | OK | url=https://pautas.ine.mx/transparencia/mapas/cob_2021/LOCALIDAD.zip | archivo=LOCALIDAD.zip | 5.11 s | 8499.0 KB
+2026-11-05 13:22:44 | INFO    | OK | url=https://pautas.ine.mx/transparencia/mapas/cob_2021/MANZANAS.zip | archivo=MANZANAS.zip | 178.25 s | 380567.2 KB
+2026-11-05 13:22:50 | INFO    | OK | url=https://pautas.ine.mx/transparencia/mapas/cob_2019/LOCALIDADES_URBANAS.zip | archivo=LOCALIDADES_URBANAS.zip | 6.42 s | 15803.9 KB
+2026-11-05 13:23:05 | INFO    | OK | url=https://pautas.ine.mx/transparencia/mapas/cob_2019/LOCALIDADES_RURALES.zip | archivo=LOCALIDADES_RURALES.zip | 14.55 s | 33904.3 KB
+2026-11-05 13:23:08 | INFO    | OK | url=https://pautas.ine.mx/transparencia/mapas/cob_2022/ENTIDAD.zip | archivo=ENTIDAD.zip | 3.39 s | 5358.1 KB
+2026-11-05 13:23:26 | INFO    | OK | url=https://pautas.ine.mx/transparencia/mapas/cob_2022/MUNICIPIO.zip | archivo=MUNICIPIO.zip | 17.49 s | 27696.8 KB
+2026-11-05 13:23:31 | INFO    | OK | url=https://pautas.ine.mx/transparencia/mapas/cob_2022/DISTRITO_FEDERAL.zip | archivo=DISTRITO_FEDERAL.zip | 5.31 s | 11396.5 KB
+2026-11-05 13:23:38 | INFO    | OK | url=https://pautas.ine.mx/transparencia/mapas/cob_2022/DISTRITO_LOCAL.zip | archivo=DISTRITO_LOCAL.zip | 6.65 s | 14771.4 KB
+2026-11-05 13:24:51 | INFO    | OK | url=https://pautas.ine.mx/transparencia/mapas/cob_2022/SECCION.zip | archivo=SECCION.zip | 72.90 s | 89307.9 KB
+2026-11-05 13:24:55 | INFO    | OK | url=https://pautas.ine.mx/transparencia/mapas/cob_2022/LOCALIDAD.zip | archivo=LOCALIDAD.zip | 4.38 s | 7767.8 KB
+2026-11-05 13:27:39 | INFO    | OK | url=https://pautas.ine.mx/transparencia/mapas/cob_2022/MANZANAS.zip | archivo=MANZANAS.zip | 163.87 s | 389320.7 KB
+2026-11-05 13:27:46 | INFO    | OK | url=https://pautas.ine.mx/transparencia/mapas/cob_2019/LOCALIDADES_URBANAS.zip | archivo=LOCALIDADES_URBANAS.zip | 7.56 s | 15803.9 KB
+2026-11-05 13:28:01 | INFO    | OK | url=https://pautas.ine.mx/transparencia/mapas/cob_2019/LOCALIDADES_RURALES.zip | archivo=LOCALIDADES_RURALES.zip | 14.96 s | 33904.3 KB
+2026-11-05 13:28:04 | INFO    | OK | url=https://pautas.ine.mx/transparencia/mapas/cob_2023/ENTIDAD.zip | archivo=ENTIDAD.zip | 3.06 s | 5506.5 KB
+2026-11-05 13:28:17 | INFO    | OK | url=https://pautas.ine.mx/transparencia/mapas/cob_2023/MUNICIPIO.zip | archivo=MUNICIPIO.zip | 12.38 s | 28537.3 KB
+2026-11-05 13:28:22 | INFO    | OK | url=https://pautas.ine.mx/transparencia/mapas/cob_2023/DISTRITO_FEDERAL.zip | archivo=DISTRITO_FEDERAL.zip | 4.73 s | 11662.5 KB
+2026-11-05 13:28:30 | INFO    | OK | url=https://pautas.ine.mx/transparencia/mapas/cob_2023/DISTRITO_LOCAL.zip | archivo=DISTRITO_LOCAL.zip | 8.02 s | 15387.9 KB
+2026-11-05 13:29:06 | INFO    | OK | url=https://pautas.ine.mx/transparencia/mapas/cob_2023/SECCION.zip | archivo=SECCION.zip | 36.88 s | 90867.1 KB
+2026-11-05 13:29:10 | INFO    | OK | url=https://pautas.ine.mx/transparencia/mapas/cob_2023/LOCALIDAD.zip | archivo=LOCALIDAD.zip | 3.91 s | 9251.1 KB
+2026-11-05 13:32:08 | INFO    | OK | url=https://pautas.ine.mx/transparencia/mapas/cob_2023/MANZANAS.zip | archivo=MANZANAS.zip | 177.31 s | 430070.3 KB
+2026-11-05 13:32:16 | INFO    | OK | url=https://pautas.ine.mx/transparencia/mapas/cob_2019/LOCALIDADES_URBANAS.zip | archivo=LOCALIDADES_URBANAS.zip | 8.51 s | 15803.9 KB
+2026-11-05 13:32:39 | INFO    | OK | url=https://pautas.ine.mx/transparencia/mapas/cob_2019/LOCALIDADES_RURALES.zip | archivo=LOCALIDADES_RURALES.zip | 22.78 s | 33904.3 KB
+2026-11-05 13:32:41 | INFO    | OK | url=https://pautas.ine.mx/transparencia/mapas/cob_2024/ENTIDAD.zip | archivo=ENTIDAD.zip | 2.44 s | 5613.0 KB
+2026-11-05 13:32:57 | INFO    | OK | url=https://pautas.ine.mx/transparencia/mapas/cob_2024/MUNICIPIO.zip | archivo=MUNICIPIO.zip | 15.07 s | 28400.9 KB
+2026-11-05 13:33:02 | INFO    | OK | url=https://pautas.ine.mx/transparencia/mapas/cob_2024/DISTRITO_FEDERAL.zip | archivo=DISTRITO_FEDERAL.zip | 5.43 s | 11814.2 KB
+2026-11-05 13:33:13 | INFO    | OK | url=https://pautas.ine.mx/transparencia/mapas/cob_2024/DISTRITO_LOCAL.zip | archivo=DISTRITO_LOCAL.zip | 11.54 s | 15856.8 KB
+2026-11-05 13:33:59 | INFO    | OK | url=https://pautas.ine.mx/transparencia/mapas/cob_2024/SECCION.zip | archivo=SECCION.zip | 45.83 s | 100197.6 KB
+2026-11-05 13:34:03 | INFO    | OK | url=https://pautas.ine.mx/transparencia/mapas/cob_2024/LOCALIDAD.zip | archivo=LOCALIDAD.zip | 4.06 s | 8348.7 KB
+2026-11-05 13:37:00 | INFO    | OK | url=https://pautas.ine.mx/transparencia/mapas/cob_2024/MANZANAS.zip | archivo=MANZANAS.zip | 176.92 s | 406200.3 KB
+2026-11-05 13:37:07 | INFO    | OK | url=https://pautas.ine.mx/transparencia/mapas/cob_2019/LOCALIDADES_URBANAS.zip | archivo=LOCALIDADES_URBANAS.zip | 6.49 s | 15803.9 KB
+2026-11-05 13:37:20 | INFO    | OK | url=https://pautas.ine.mx/transparencia/mapas/cob_2019/LOCALIDADES_RURALES.zip | archivo=LOCALIDADES_RURALES.zip | 13.42 s | 33904.3 KB
+2026-11-05 13:37:23 | INFO    | OK | url=https://pautas.ine.mx/transparencia/mapas/cob_2025/ENTIDAD.zip | archivo=ENTIDAD.zip | 2.67 s | 5741.1 KB
+2026-11-05 13:37:35 | INFO    | OK | url=https://pautas.ine.mx/transparencia/mapas/cob_2025/MUNICIPIO.zip | archivo=MUNICIPIO.zip | 12.19 s | 28799.0 KB
+2026-11-05 13:37:40 | INFO    | OK | url=https://pautas.ine.mx/transparencia/mapas/cob_2025/DISTRITO_FEDERAL.zip | archivo=DISTRITO_FEDERAL.zip | 5.14 s | 11802.4 KB
+2026-11-05 13:37:46 | INFO    | OK | url=https://pautas.ine.mx/transparencia/mapas/cob_2025/DISTRITO_LOCAL.zip | archivo=DISTRITO_LOCAL.zip | 5.84 s | 15917.6 KB
+2026-11-05 13:38:32 | INFO    | OK | url=https://pautas.ine.mx/transparencia/mapas/cob_2025/SECCION.zip | archivo=SECCION.zip | 45.76 s | 111185.7 KB
+2026-11-05 13:38:35 | INFO    | OK | url=https://pautas.ine.mx/transparencia/mapas/cob_2025/LOCALIDAD.zip | archivo=LOCALIDAD.zip | 3.22 s | 9070.2 KB
+2026-11-05 13:41:36 | INFO    | OK | url=https://pautas.ine.mx/transparencia/mapas/cob_2025/MANZANAS.zip | archivo=MANZANAS.zip | 180.91 s | 441346.0 KB
+2026-11-05 13:41:46 | INFO    | OK | url=https://pautas.ine.mx/transparencia/mapas/cob_2019/LOCALIDADES_URBANAS.zip | archivo=LOCALIDADES_URBANAS.zip | 9.64 s | 15803.9 KB
+2026-11-05 13:42:03 | INFO    | OK | url=https://pautas.ine.mx/transparencia/mapas/cob_2019/LOCALIDADES_RURALES.zip | archivo=LOCALIDADES_RURALES.zip | 17.45 s | 33904.3 KB
+2026-11-05 13:42:03 | INFO    | === FIN lote | total 2155.8 s ===
