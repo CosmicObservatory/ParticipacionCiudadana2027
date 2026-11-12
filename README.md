@@ -6,6 +6,19 @@
 
 Estimación de Personas Votantes para las elecciones de 2027.
 
+## Tablero Streamlit
+
+El análisis electoral y poblacional de Sonora está disponible como un
+tablero interactivo Streamlit:
+
+```bash
+uv run streamlit run partciud/streamlit/app.py
+```
+
+La app vive en `partciud/streamlit/` y es autocontenida (incluye sus
+datos procesados). Ver `partciud/streamlit/README.md` para instrucciones
+de ejecución y despliegue en Streamlit Community Cloud.
+
 ## Project Organization
 
 ```

@@ -1,0 +1,3313 @@
+mpiocve,nom_mun,anio,pob,escenario
+1,Aconchi,2025,2603.0,base
+1,Aconchi,2026,2603.0,base
+1,Aconchi,2027,2600.0,base
+1,Aconchi,2028,2596.0,base
+1,Aconchi,2029,2591.0,base
+1,Aconchi,2030,2587.0,base
+1,Aconchi,2031,2582.0,base
+1,Aconchi,2032,2573.0,base
+1,Aconchi,2033,2563.0,base
+1,Aconchi,2034,2554.0,base
+1,Aconchi,2035,2545.0,base
+1,Aconchi,2036,2538.0,base
+1,Aconchi,2037,2527.0,base
+1,Aconchi,2038,2515.0,base
+1,Aconchi,2039,2505.0,base
+1,Aconchi,2040,2491.0,base
+2,Agua Prieta,2025,99702.0,base
+2,Agua Prieta,2026,100844.0,base
+2,Agua Prieta,2027,101941.0,base
+2,Agua Prieta,2028,102991.0,base
+2,Agua Prieta,2029,104007.0,base
+2,Agua Prieta,2030,104996.0,base
+2,Agua Prieta,2031,105962.0,base
+2,Agua Prieta,2032,106912.0,base
+2,Agua Prieta,2033,107835.0,base
+2,Agua Prieta,2034,108741.0,base
+2,Agua Prieta,2035,109642.0,base
+2,Agua Prieta,2036,110529.0,base
+2,Agua Prieta,2037,111387.0,base
+2,Agua Prieta,2038,112225.0,base
+2,Agua Prieta,2039,113034.0,base
+2,Agua Prieta,2040,113797.0,base
+3,Alamos,2025,25078.0,base
+3,Alamos,2026,25010.0,base
+3,Alamos,2027,24927.0,base
+3,Alamos,2028,24832.0,base
+3,Alamos,2029,24726.0,base
+3,Alamos,2030,24607.0,base
+3,Alamos,2031,24475.0,base
+3,Alamos,2032,24345.0,base
+3,Alamos,2033,24201.0,base
+3,Alamos,2034,24056.0,base
+3,Alamos,2035,23904.0,base
+3,Alamos,2036,23743.0,base
+3,Alamos,2037,23583.0,base
+3,Alamos,2038,23409.0,base
+3,Alamos,2039,23241.0,base
+3,Alamos,2040,23072.0,base
+4,Altar,2025,9727.0,base
+4,Altar,2026,9741.0,base
+4,Altar,2027,9747.0,base
+4,Altar,2028,9749.0,base
+4,Altar,2029,9740.0,base
+4,Altar,2030,9737.0,base
+4,Altar,2031,9718.0,base
+4,Altar,2032,9713.0,base
+4,Altar,2033,9691.0,base
+4,Altar,2034,9667.0,base
+4,Altar,2035,9649.0,base
+4,Altar,2036,9622.0,base
+4,Altar,2037,9593.0,base
+4,Altar,2038,9562.0,base
+4,Altar,2039,9525.0,base
+4,Altar,2040,9490.0,base
+5,Arivechi,2025,1233.0,base
+5,Arivechi,2026,1239.0,base
+5,Arivechi,2027,1249.0,base
+5,Arivechi,2028,1254.0,base
+5,Arivechi,2029,1258.0,base
+5,Arivechi,2030,1261.0,base
+5,Arivechi,2031,1263.0,base
+5,Arivechi,2032,1264.0,base
+5,Arivechi,2033,1273.0,base
+5,Arivechi,2034,1276.0,base
+5,Arivechi,2035,1278.0,base
+5,Arivechi,2036,1280.0,base
+5,Arivechi,2037,1279.0,base
+5,Arivechi,2038,1282.0,base
+5,Arivechi,2039,1281.0,base
+5,Arivechi,2040,1280.0,base
+6,Arizpe,2025,3013.0,base
+6,Arizpe,2026,3052.0,base
+6,Arizpe,2027,3077.0,base
+6,Arizpe,2028,3110.0,base
+6,Arizpe,2029,3137.0,base
+6,Arizpe,2030,3167.0,base
+6,Arizpe,2031,3199.0,base
+6,Arizpe,2032,3220.0,base
+6,Arizpe,2033,3244.0,base
+6,Arizpe,2034,3277.0,base
+6,Arizpe,2035,3297.0,base
+6,Arizpe,2036,3325.0,base
+6,Arizpe,2037,3348.0,base
+6,Arizpe,2038,3368.0,base
+6,Arizpe,2039,3391.0,base
+6,Arizpe,2040,3409.0,base
+7,Atil,2025,703.0,base
+7,Atil,2026,706.0,base
+7,Atil,2027,723.0,base
+7,Atil,2028,733.0,base
+7,Atil,2029,748.0,base
+7,Atil,2030,761.0,base
+7,Atil,2031,775.0,base
+7,Atil,2032,784.0,base
+7,Atil,2033,795.0,base
+7,Atil,2034,809.0,base
+7,Atil,2035,816.0,base
+7,Atil,2036,827.0,base
+7,Atil,2037,835.0,base
+7,Atil,2038,844.0,base
+7,Atil,2039,861.0,base
+7,Atil,2040,871.0,base
+8,Bacadéhuachi,2025,911.0,base
+8,Bacadéhuachi,2026,892.0,base
+8,Bacadéhuachi,2027,877.0,base
+8,Bacadéhuachi,2028,857.0,base
+8,Bacadéhuachi,2029,847.0,base
+8,Bacadéhuachi,2030,832.0,base
+8,Bacadéhuachi,2031,809.0,base
+8,Bacadéhuachi,2032,796.0,base
+8,Bacadéhuachi,2033,778.0,base
+8,Bacadéhuachi,2034,766.0,base
+8,Bacadéhuachi,2035,745.0,base
+8,Bacadéhuachi,2036,733.0,base
+8,Bacadéhuachi,2037,713.0,base
+8,Bacadéhuachi,2038,700.0,base
+8,Bacadéhuachi,2039,686.0,base
+8,Bacadéhuachi,2040,674.0,base
+9,Bacanora,2025,758.0,base
+9,Bacanora,2026,755.0,base
+9,Bacanora,2027,752.0,base
+9,Bacanora,2028,749.0,base
+9,Bacanora,2029,747.0,base
+9,Bacanora,2030,738.0,base
+9,Bacanora,2031,735.0,base
+9,Bacanora,2032,733.0,base
+9,Bacanora,2033,731.0,base
+9,Bacanora,2034,718.0,base
+9,Bacanora,2035,714.0,base
+9,Bacanora,2036,707.0,base
+9,Bacanora,2037,704.0,base
+9,Bacanora,2038,697.0,base
+9,Bacanora,2039,690.0,base
+9,Bacanora,2040,693.0,base
+10,Bacerac,2025,1197.0,base
+10,Bacerac,2026,1183.0,base
+10,Bacerac,2027,1174.0,base
+10,Bacerac,2028,1168.0,base
+10,Bacerac,2029,1147.0,base
+10,Bacerac,2030,1146.0,base
+10,Bacerac,2031,1132.0,base
+10,Bacerac,2032,1118.0,base
+10,Bacerac,2033,1105.0,base
+10,Bacerac,2034,1096.0,base
+10,Bacerac,2035,1087.0,base
+10,Bacerac,2036,1071.0,base
+10,Bacerac,2037,1066.0,base
+10,Bacerac,2038,1051.0,base
+10,Bacerac,2039,1039.0,base
+10,Bacerac,2040,1031.0,base
+11,Bacoachi,2025,1472.0,base
+11,Bacoachi,2026,1466.0,base
+11,Bacoachi,2027,1465.0,base
+11,Bacoachi,2028,1458.0,base
+11,Bacoachi,2029,1454.0,base
+11,Bacoachi,2030,1445.0,base
+11,Bacoachi,2031,1440.0,base
+11,Bacoachi,2032,1429.0,base
+11,Bacoachi,2033,1420.0,base
+11,Bacoachi,2034,1412.0,base
+11,Bacoachi,2035,1403.0,base
+11,Bacoachi,2036,1397.0,base
+11,Bacoachi,2037,1380.0,base
+11,Bacoachi,2038,1372.0,base
+11,Bacoachi,2039,1363.0,base
+11,Bacoachi,2040,1356.0,base
+12,Bácum,2025,24071.0,base
+12,Bácum,2026,24167.0,base
+12,Bácum,2027,24249.0,base
+12,Bácum,2028,24323.0,base
+12,Bácum,2029,24370.0,base
+12,Bácum,2030,24415.0,base
+12,Bácum,2031,24444.0,base
+12,Bácum,2032,24474.0,base
+12,Bácum,2033,24494.0,base
+12,Bácum,2034,24507.0,base
+12,Bácum,2035,24511.0,base
+12,Bácum,2036,24511.0,base
+12,Bácum,2037,24505.0,base
+12,Bácum,2038,24487.0,base
+12,Bácum,2039,24464.0,base
+12,Bácum,2040,24421.0,base
+13,Banámichi,2025,2150.0,base
+13,Banámichi,2026,2210.0,base
+13,Banámichi,2027,2274.0,base
+13,Banámichi,2028,2333.0,base
+13,Banámichi,2029,2391.0,base
+13,Banámichi,2030,2452.0,base
+13,Banámichi,2031,2517.0,base
+13,Banámichi,2032,2583.0,base
+13,Banámichi,2033,2649.0,base
+13,Banámichi,2034,2710.0,base
+13,Banámichi,2035,2777.0,base
+13,Banámichi,2036,2845.0,base
+13,Banámichi,2037,2912.0,base
+13,Banámichi,2038,2978.0,base
+13,Banámichi,2039,3049.0,base
+13,Banámichi,2040,3123.0,base
+14,Baviácora,2025,3174.0,base
+14,Baviácora,2026,3155.0,base
+14,Baviácora,2027,3149.0,base
+14,Baviácora,2028,3125.0,base
+14,Baviácora,2029,3111.0,base
+14,Baviácora,2030,3086.0,base
+14,Baviácora,2031,3062.0,base
+14,Baviácora,2032,3044.0,base
+14,Baviácora,2033,3018.0,base
+14,Baviácora,2034,2999.0,base
+14,Baviácora,2035,2969.0,base
+14,Baviácora,2036,2947.0,base
+14,Baviácora,2037,2922.0,base
+14,Baviácora,2038,2893.0,base
+14,Baviácora,2039,2869.0,base
+14,Baviácora,2040,2846.0,base
+15,Bavispe,2025,1167.0,base
+15,Bavispe,2026,1160.0,base
+15,Bavispe,2027,1159.0,base
+15,Bavispe,2028,1154.0,base
+15,Bavispe,2029,1153.0,base
+15,Bavispe,2030,1142.0,base
+15,Bavispe,2031,1144.0,base
+15,Bavispe,2032,1134.0,base
+15,Bavispe,2033,1134.0,base
+15,Bavispe,2034,1118.0,base
+15,Bavispe,2035,1116.0,base
+15,Bavispe,2036,1116.0,base
+15,Bavispe,2037,1106.0,base
+15,Bavispe,2038,1100.0,base
+15,Bavispe,2039,1088.0,base
+15,Bavispe,2040,1086.0,base
+16,Benjamín Hill,2025,4906.0,base
+16,Benjamín Hill,2026,4876.0,base
+16,Benjamín Hill,2027,4841.0,base
+16,Benjamín Hill,2028,4801.0,base
+16,Benjamín Hill,2029,4772.0,base
+16,Benjamín Hill,2030,4725.0,base
+16,Benjamín Hill,2031,4686.0,base
+16,Benjamín Hill,2032,4647.0,base
+16,Benjamín Hill,2033,4604.0,base
+16,Benjamín Hill,2034,4557.0,base
+16,Benjamín Hill,2035,4515.0,base
+16,Benjamín Hill,2036,4463.0,base
+16,Benjamín Hill,2037,4423.0,base
+16,Benjamín Hill,2038,4377.0,base
+16,Benjamín Hill,2039,4333.0,base
+16,Benjamín Hill,2040,4289.0,base
+17,Caborca,2025,96250.0,base
+17,Caborca,2026,97322.0,base
+17,Caborca,2027,98348.0,base
+17,Caborca,2028,99329.0,base
+17,Caborca,2029,100264.0,base
+17,Caborca,2030,101167.0,base
+17,Caborca,2031,102034.0,base
+17,Caborca,2032,102880.0,base
+17,Caborca,2033,103697.0,base
+17,Caborca,2034,104501.0,base
+17,Caborca,2035,105279.0,base
+17,Caborca,2036,106039.0,base
+17,Caborca,2037,106773.0,base
+17,Caborca,2038,107468.0,base
+17,Caborca,2039,108127.0,base
+17,Caborca,2040,108678.0,base
+18,Cajeme,2025,453062.0,base
+18,Cajeme,2026,454674.0,base
+18,Cajeme,2027,456017.0,base
+18,Cajeme,2028,457085.0,base
+18,Cajeme,2029,457937.0,base
+18,Cajeme,2030,458576.0,base
+18,Cajeme,2031,459057.0,base
+18,Cajeme,2032,459370.0,base
+18,Cajeme,2033,459563.0,base
+18,Cajeme,2034,459619.0,base
+18,Cajeme,2035,459577.0,base
+18,Cajeme,2036,459400.0,base
+18,Cajeme,2037,459102.0,base
+18,Cajeme,2038,458652.0,base
+18,Cajeme,2039,457997.0,base
+18,Cajeme,2040,457103.0,base
+19,Cananea,2025,44128.0,base
+19,Cananea,2026,44912.0,base
+19,Cananea,2027,45686.0,base
+19,Cananea,2028,46446.0,base
+19,Cananea,2029,47197.0,base
+19,Cananea,2030,47937.0,base
+19,Cananea,2031,48675.0,base
+19,Cananea,2032,49413.0,base
+19,Cananea,2033,50146.0,base
+19,Cananea,2034,50882.0,base
+19,Cananea,2035,51613.0,base
+19,Cananea,2036,52348.0,base
+19,Cananea,2037,53080.0,base
+19,Cananea,2038,53797.0,base
+19,Cananea,2039,54512.0,base
+19,Cananea,2040,55230.0,base
+20,Carbó,2025,5236.0,base
+20,Carbó,2026,5280.0,base
+20,Carbó,2027,5315.0,base
+20,Carbó,2028,5347.0,base
+20,Carbó,2029,5381.0,base
+20,Carbó,2030,5404.0,base
+20,Carbó,2031,5436.0,base
+20,Carbó,2032,5462.0,base
+20,Carbó,2033,5478.0,base
+20,Carbó,2034,5507.0,base
+20,Carbó,2035,5522.0,base
+20,Carbó,2036,5548.0,base
+20,Carbó,2037,5564.0,base
+20,Carbó,2038,5578.0,base
+20,Carbó,2039,5590.0,base
+20,Carbó,2040,5599.0,base
+21,La Colorada,2025,1786.0,base
+21,La Colorada,2026,1770.0,base
+21,La Colorada,2027,1752.0,base
+21,La Colorada,2028,1735.0,base
+21,La Colorada,2029,1718.0,base
+21,La Colorada,2030,1696.0,base
+21,La Colorada,2031,1678.0,base
+21,La Colorada,2032,1659.0,base
+21,La Colorada,2033,1636.0,base
+21,La Colorada,2034,1620.0,base
+21,La Colorada,2035,1599.0,base
+21,La Colorada,2036,1575.0,base
+21,La Colorada,2037,1560.0,base
+21,La Colorada,2038,1536.0,base
+21,La Colorada,2039,1512.0,base
+21,La Colorada,2040,1503.0,base
+22,Cucurpe,2025,874.0,base
+22,Cucurpe,2026,877.0,base
+22,Cucurpe,2027,872.0,base
+22,Cucurpe,2028,874.0,base
+22,Cucurpe,2029,873.0,base
+22,Cucurpe,2030,873.0,base
+22,Cucurpe,2031,869.0,base
+22,Cucurpe,2032,870.0,base
+22,Cucurpe,2033,867.0,base
+22,Cucurpe,2034,868.0,base
+22,Cucurpe,2035,859.0,base
+22,Cucurpe,2036,861.0,base
+22,Cucurpe,2037,857.0,base
+22,Cucurpe,2038,856.0,base
+22,Cucurpe,2039,851.0,base
+22,Cucurpe,2040,848.0,base
+23,Cumpas,2025,5769.0,base
+23,Cumpas,2026,5743.0,base
+23,Cumpas,2027,5711.0,base
+23,Cumpas,2028,5676.0,base
+23,Cumpas,2029,5641.0,base
+23,Cumpas,2030,5602.0,base
+23,Cumpas,2031,5560.0,base
+23,Cumpas,2032,5525.0,base
+23,Cumpas,2033,5480.0,base
+23,Cumpas,2034,5434.0,base
+23,Cumpas,2035,5388.0,base
+23,Cumpas,2036,5349.0,base
+23,Cumpas,2037,5304.0,base
+23,Cumpas,2038,5256.0,base
+23,Cumpas,2039,5205.0,base
+23,Cumpas,2040,5170.0,base
+24,Divisaderos,2025,818.0,base
+24,Divisaderos,2026,831.0,base
+24,Divisaderos,2027,835.0,base
+24,Divisaderos,2028,849.0,base
+24,Divisaderos,2029,860.0,base
+24,Divisaderos,2030,871.0,base
+24,Divisaderos,2031,881.0,base
+24,Divisaderos,2032,891.0,base
+24,Divisaderos,2033,895.0,base
+24,Divisaderos,2034,905.0,base
+24,Divisaderos,2035,913.0,base
+24,Divisaderos,2036,922.0,base
+24,Divisaderos,2037,932.0,base
+24,Divisaderos,2038,942.0,base
+24,Divisaderos,2039,950.0,base
+24,Divisaderos,2040,957.0,base
+25,Empalme,2025,52096.0,base
+25,Empalme,2026,52092.0,base
+25,Empalme,2027,52061.0,base
+25,Empalme,2028,52003.0,base
+25,Empalme,2029,51916.0,base
+25,Empalme,2030,51808.0,base
+25,Empalme,2031,51681.0,base
+25,Empalme,2032,51547.0,base
+25,Empalme,2033,51394.0,base
+25,Empalme,2034,51228.0,base
+25,Empalme,2035,51063.0,base
+25,Empalme,2036,50872.0,base
+25,Empalme,2037,50677.0,base
+25,Empalme,2038,50472.0,base
+25,Empalme,2039,50240.0,base
+25,Empalme,2040,50034.0,base
+26,Etchojoa,2025,62543.0,base
+26,Etchojoa,2026,62577.0,base
+26,Etchojoa,2027,62587.0,base
+26,Etchojoa,2028,62563.0,base
+26,Etchojoa,2029,62502.0,base
+26,Etchojoa,2030,62419.0,base
+26,Etchojoa,2031,62314.0,base
+26,Etchojoa,2032,62194.0,base
+26,Etchojoa,2033,62055.0,base
+26,Etchojoa,2034,61906.0,base
+26,Etchojoa,2035,61741.0,base
+26,Etchojoa,2036,61560.0,base
+26,Etchojoa,2037,61376.0,base
+26,Etchojoa,2038,61165.0,base
+26,Etchojoa,2039,60933.0,base
+26,Etchojoa,2040,60735.0,base
+27,Fronteras,2025,9788.0,base
+27,Fronteras,2026,9899.0,base
+27,Fronteras,2027,10010.0,base
+27,Fronteras,2028,10118.0,base
+27,Fronteras,2029,10217.0,base
+27,Fronteras,2030,10312.0,base
+27,Fronteras,2031,10405.0,base
+27,Fronteras,2032,10499.0,base
+27,Fronteras,2033,10589.0,base
+27,Fronteras,2034,10676.0,base
+27,Fronteras,2035,10753.0,base
+27,Fronteras,2036,10838.0,base
+27,Fronteras,2037,10920.0,base
+27,Fronteras,2038,11002.0,base
+27,Fronteras,2039,11072.0,base
+27,Fronteras,2040,11131.0,base
+28,Granados,2025,1015.0,base
+28,Granados,2026,1013.0,base
+28,Granados,2027,1015.0,base
+28,Granados,2028,1014.0,base
+28,Granados,2029,1009.0,base
+28,Granados,2030,1007.0,base
+28,Granados,2031,1000.0,base
+28,Granados,2032,997.0,base
+28,Granados,2033,993.0,base
+28,Granados,2034,991.0,base
+28,Granados,2035,989.0,base
+28,Granados,2036,985.0,base
+28,Granados,2037,977.0,base
+28,Granados,2038,969.0,base
+28,Granados,2039,964.0,base
+28,Granados,2040,962.0,base
+29,Guaymas,2025,161039.0,base
+29,Guaymas,2026,161283.0,base
+29,Guaymas,2027,161435.0,base
+29,Guaymas,2028,161479.0,base
+29,Guaymas,2029,161452.0,base
+29,Guaymas,2030,161354.0,base
+29,Guaymas,2031,161195.0,base
+29,Guaymas,2032,160977.0,base
+29,Guaymas,2033,160718.0,base
+29,Guaymas,2034,160415.0,base
+29,Guaymas,2035,160067.0,base
+29,Guaymas,2036,159682.0,base
+29,Guaymas,2037,159252.0,base
+29,Guaymas,2038,158773.0,base
+29,Guaymas,2039,158231.0,base
+29,Guaymas,2040,157651.0,base
+30,Hermosillo,2025,1028894.0,base
+30,Hermosillo,2026,1043797.0,base
+30,Hermosillo,2027,1058275.0,base
+30,Hermosillo,2028,1072287.0,base
+30,Hermosillo,2029,1085958.0,base
+30,Hermosillo,2030,1099323.0,base
+30,Hermosillo,2031,1112412.0,base
+30,Hermosillo,2032,1125283.0,base
+30,Hermosillo,2033,1137981.0,base
+30,Hermosillo,2034,1150509.0,base
+30,Hermosillo,2035,1162905.0,base
+30,Hermosillo,2036,1175085.0,base
+30,Hermosillo,2037,1187093.0,base
+30,Hermosillo,2038,1198800.0,base
+30,Hermosillo,2039,1210124.0,base
+30,Hermosillo,2040,1220389.0,base
+31,Huachinera,2025,1187.0,base
+31,Huachinera,2026,1180.0,base
+31,Huachinera,2027,1179.0,base
+31,Huachinera,2028,1171.0,base
+31,Huachinera,2029,1160.0,base
+31,Huachinera,2030,1153.0,base
+31,Huachinera,2031,1150.0,base
+31,Huachinera,2032,1143.0,base
+31,Huachinera,2033,1137.0,base
+31,Huachinera,2034,1130.0,base
+31,Huachinera,2035,1120.0,base
+31,Huachinera,2036,1115.0,base
+31,Huachinera,2037,1103.0,base
+31,Huachinera,2038,1097.0,base
+31,Huachinera,2039,1092.0,base
+31,Huachinera,2040,1079.0,base
+32,Huásabas,2025,872.0,base
+32,Huásabas,2026,869.0,base
+32,Huásabas,2027,867.0,base
+32,Huásabas,2028,863.0,base
+32,Huásabas,2029,851.0,base
+32,Huásabas,2030,847.0,base
+32,Huásabas,2031,837.0,base
+32,Huásabas,2032,831.0,base
+32,Huásabas,2033,827.0,base
+32,Huásabas,2034,815.0,base
+32,Huásabas,2035,806.0,base
+32,Huásabas,2036,799.0,base
+32,Huásabas,2037,792.0,base
+32,Huásabas,2038,785.0,base
+32,Huásabas,2039,779.0,base
+32,Huásabas,2040,768.0,base
+33,Huatabampo,2025,78401.0,base
+33,Huatabampo,2026,78290.0,base
+33,Huatabampo,2027,78143.0,base
+33,Huatabampo,2028,77951.0,base
+33,Huatabampo,2029,77722.0,base
+33,Huatabampo,2030,77464.0,base
+33,Huatabampo,2031,77187.0,base
+33,Huatabampo,2032,76888.0,base
+33,Huatabampo,2033,76573.0,base
+33,Huatabampo,2034,76243.0,base
+33,Huatabampo,2035,75896.0,base
+33,Huatabampo,2036,75537.0,base
+33,Huatabampo,2037,75161.0,base
+33,Huatabampo,2038,74773.0,base
+33,Huatabampo,2039,74353.0,base
+33,Huatabampo,2040,74013.0,base
+34,Huépac,2025,997.0,base
+34,Huépac,2026,1001.0,base
+34,Huépac,2027,1006.0,base
+34,Huépac,2028,1014.0,base
+34,Huépac,2029,1022.0,base
+34,Huépac,2030,1021.0,base
+34,Huépac,2031,1023.0,base
+34,Huépac,2032,1029.0,base
+34,Huépac,2033,1030.0,base
+34,Huépac,2034,1036.0,base
+34,Huépac,2035,1037.0,base
+34,Huépac,2036,1039.0,base
+34,Huépac,2037,1048.0,base
+34,Huépac,2038,1047.0,base
+34,Huépac,2039,1050.0,base
+34,Huépac,2040,1048.0,base
+35,Imuris,2025,12679.0,base
+35,Imuris,2026,12657.0,base
+35,Imuris,2027,12629.0,base
+35,Imuris,2028,12603.0,base
+35,Imuris,2029,12563.0,base
+35,Imuris,2030,12521.0,base
+35,Imuris,2031,12472.0,base
+35,Imuris,2032,12420.0,base
+35,Imuris,2033,12364.0,base
+35,Imuris,2034,12307.0,base
+35,Imuris,2035,12249.0,base
+35,Imuris,2036,12187.0,base
+35,Imuris,2037,12113.0,base
+35,Imuris,2038,12047.0,base
+35,Imuris,2039,11969.0,base
+35,Imuris,2040,11895.0,base
+36,Magdalena,2025,35668.0,base
+36,Magdalena,2026,36054.0,base
+36,Magdalena,2027,36427.0,base
+36,Magdalena,2028,36787.0,base
+36,Magdalena,2029,37130.0,base
+36,Magdalena,2030,37458.0,base
+36,Magdalena,2031,37780.0,base
+36,Magdalena,2032,38094.0,base
+36,Magdalena,2033,38396.0,base
+36,Magdalena,2034,38698.0,base
+36,Magdalena,2035,38985.0,base
+36,Magdalena,2036,39271.0,base
+36,Magdalena,2037,39556.0,base
+36,Magdalena,2038,39826.0,base
+36,Magdalena,2039,40076.0,base
+36,Magdalena,2040,40314.0,base
+37,Mazatán,2025,1004.0,base
+37,Mazatán,2026,984.0,base
+37,Mazatán,2027,967.0,base
+37,Mazatán,2028,944.0,base
+37,Mazatán,2029,926.0,base
+37,Mazatán,2030,903.0,base
+37,Mazatán,2031,883.0,base
+37,Mazatán,2032,864.0,base
+37,Mazatán,2033,847.0,base
+37,Mazatán,2034,828.0,base
+37,Mazatán,2035,806.0,base
+37,Mazatán,2036,786.0,base
+37,Mazatán,2037,766.0,base
+37,Mazatán,2038,754.0,base
+37,Mazatán,2039,732.0,base
+37,Mazatán,2040,724.0,base
+38,Moctezuma,2025,5590.0,base
+38,Moctezuma,2026,5654.0,base
+38,Moctezuma,2027,5718.0,base
+38,Moctezuma,2028,5771.0,base
+38,Moctezuma,2029,5830.0,base
+38,Moctezuma,2030,5874.0,base
+38,Moctezuma,2031,5932.0,base
+38,Moctezuma,2032,5982.0,base
+38,Moctezuma,2033,6029.0,base
+38,Moctezuma,2034,6076.0,base
+38,Moctezuma,2035,6122.0,base
+38,Moctezuma,2036,6170.0,base
+38,Moctezuma,2037,6215.0,base
+38,Moctezuma,2038,6253.0,base
+38,Moctezuma,2039,6295.0,base
+38,Moctezuma,2040,6330.0,base
+39,Naco,2025,5822.0,base
+39,Naco,2026,5815.0,base
+39,Naco,2027,5808.0,base
+39,Naco,2028,5791.0,base
+39,Naco,2029,5778.0,base
+39,Naco,2030,5758.0,base
+39,Naco,2031,5740.0,base
+39,Naco,2032,5721.0,base
+39,Naco,2033,5696.0,base
+39,Naco,2034,5672.0,base
+39,Naco,2035,5645.0,base
+39,Naco,2036,5627.0,base
+39,Naco,2037,5590.0,base
+39,Naco,2038,5562.0,base
+39,Naco,2039,5529.0,base
+39,Naco,2040,5508.0,base
+40,Nácori Chico,2025,1480.0,base
+40,Nácori Chico,2026,1459.0,base
+40,Nácori Chico,2027,1456.0,base
+40,Nácori Chico,2028,1442.0,base
+40,Nácori Chico,2029,1428.0,base
+40,Nácori Chico,2030,1415.0,base
+40,Nácori Chico,2031,1406.0,base
+40,Nácori Chico,2032,1385.0,base
+40,Nácori Chico,2033,1377.0,base
+40,Nácori Chico,2034,1360.0,base
+40,Nácori Chico,2035,1344.0,base
+40,Nácori Chico,2036,1325.0,base
+40,Nácori Chico,2037,1316.0,base
+40,Nácori Chico,2038,1302.0,base
+40,Nácori Chico,2039,1283.0,base
+40,Nácori Chico,2040,1273.0,base
+41,Nacozari de García,2025,15474.0,base
+41,Nacozari de García,2026,15634.0,base
+41,Nacozari de García,2027,15792.0,base
+41,Nacozari de García,2028,15943.0,base
+41,Nacozari de García,2029,16087.0,base
+41,Nacozari de García,2030,16220.0,base
+41,Nacozari de García,2031,16353.0,base
+41,Nacozari de García,2032,16480.0,base
+41,Nacozari de García,2033,16600.0,base
+41,Nacozari de García,2034,16721.0,base
+41,Nacozari de García,2035,16835.0,base
+41,Nacozari de García,2036,16949.0,base
+41,Nacozari de García,2037,17058.0,base
+41,Nacozari de García,2038,17158.0,base
+41,Nacozari de García,2039,17253.0,base
+41,Nacozari de García,2040,17334.0,base
+42,Navojoa,2025,170577.0,base
+42,Navojoa,2026,171196.0,base
+42,Navojoa,2027,171726.0,base
+42,Navojoa,2028,172160.0,base
+42,Navojoa,2029,172505.0,base
+42,Navojoa,2030,172798.0,base
+42,Navojoa,2031,173029.0,base
+42,Navojoa,2032,173209.0,base
+42,Navojoa,2033,173342.0,base
+42,Navojoa,2034,173441.0,base
+42,Navojoa,2035,173494.0,base
+42,Navojoa,2036,173519.0,base
+42,Navojoa,2037,173496.0,base
+42,Navojoa,2038,173431.0,base
+42,Navojoa,2039,173296.0,base
+42,Navojoa,2040,173135.0,base
+43,Nogales,2025,291698.0,base
+43,Nogales,2026,295890.0,base
+43,Nogales,2027,299973.0,base
+43,Nogales,2028,303947.0,base
+43,Nogales,2029,307840.0,base
+43,Nogales,2030,311658.0,base
+43,Nogales,2031,315429.0,base
+43,Nogales,2032,319145.0,base
+43,Nogales,2033,322841.0,base
+43,Nogales,2034,326506.0,base
+43,Nogales,2035,330163.0,base
+43,Nogales,2036,333770.0,base
+43,Nogales,2037,337351.0,base
+43,Nogales,2038,340873.0,base
+43,Nogales,2039,344308.0,base
+43,Nogales,2040,347676.0,base
+44,Onavas,2025,349.0,base
+44,Onavas,2026,350.0,base
+44,Onavas,2027,348.0,base
+44,Onavas,2028,352.0,base
+44,Onavas,2029,347.0,base
+44,Onavas,2030,342.0,base
+44,Onavas,2031,340.0,base
+44,Onavas,2032,337.0,base
+44,Onavas,2033,335.0,base
+44,Onavas,2034,328.0,base
+44,Onavas,2035,328.0,base
+44,Onavas,2036,324.0,base
+44,Onavas,2037,320.0,base
+44,Onavas,2038,318.0,base
+44,Onavas,2039,313.0,base
+44,Onavas,2040,308.0,base
+45,Opodepe,2025,2350.0,base
+45,Opodepe,2026,2326.0,base
+45,Opodepe,2027,2301.0,base
+45,Opodepe,2028,2279.0,base
+45,Opodepe,2029,2247.0,base
+45,Opodepe,2030,2223.0,base
+45,Opodepe,2031,2193.0,base
+45,Opodepe,2032,2170.0,base
+45,Opodepe,2033,2143.0,base
+45,Opodepe,2034,2111.0,base
+45,Opodepe,2035,2084.0,base
+45,Opodepe,2036,2061.0,base
+45,Opodepe,2037,2029.0,base
+45,Opodepe,2038,2003.0,base
+45,Opodepe,2039,1969.0,base
+45,Opodepe,2040,1954.0,base
+46,Oquitoa,2025,689.0,base
+46,Oquitoa,2026,727.0,base
+46,Oquitoa,2027,775.0,base
+46,Oquitoa,2028,824.0,base
+46,Oquitoa,2029,874.0,base
+46,Oquitoa,2030,921.0,base
+46,Oquitoa,2031,973.0,base
+46,Oquitoa,2032,1025.0,base
+46,Oquitoa,2033,1092.0,base
+46,Oquitoa,2034,1151.0,base
+46,Oquitoa,2035,1215.0,base
+46,Oquitoa,2036,1287.0,base
+46,Oquitoa,2037,1360.0,base
+46,Oquitoa,2038,1428.0,base
+46,Oquitoa,2039,1511.0,base
+46,Oquitoa,2040,1632.0,base
+47,Pitiquito,2025,9154.0,base
+47,Pitiquito,2026,9131.0,base
+47,Pitiquito,2027,9097.0,base
+47,Pitiquito,2028,9061.0,base
+47,Pitiquito,2029,9022.0,base
+47,Pitiquito,2030,8982.0,base
+47,Pitiquito,2031,8932.0,base
+47,Pitiquito,2032,8891.0,base
+47,Pitiquito,2033,8834.0,base
+47,Pitiquito,2034,8783.0,base
+47,Pitiquito,2035,8725.0,base
+47,Pitiquito,2036,8667.0,base
+47,Pitiquito,2037,8608.0,base
+47,Pitiquito,2038,8548.0,base
+47,Pitiquito,2039,8483.0,base
+47,Pitiquito,2040,8429.0,base
+48,Puerto Peñasco,2025,65454.0,base
+48,Puerto Peñasco,2026,65765.0,base
+48,Puerto Peñasco,2027,66041.0,base
+48,Puerto Peñasco,2028,66278.0,base
+48,Puerto Peñasco,2029,66475.0,base
+48,Puerto Peñasco,2030,66648.0,base
+48,Puerto Peñasco,2031,66793.0,base
+48,Puerto Peñasco,2032,66912.0,base
+48,Puerto Peñasco,2033,67026.0,base
+48,Puerto Peñasco,2034,67115.0,base
+48,Puerto Peñasco,2035,67182.0,base
+48,Puerto Peñasco,2036,67237.0,base
+48,Puerto Peñasco,2037,67271.0,base
+48,Puerto Peñasco,2038,67286.0,base
+48,Puerto Peñasco,2039,67269.0,base
+48,Puerto Peñasco,2040,67205.0,base
+49,Quiriego,2025,3498.0,base
+49,Quiriego,2026,3567.0,base
+49,Quiriego,2027,3636.0,base
+49,Quiriego,2028,3706.0,base
+49,Quiriego,2029,3772.0,base
+49,Quiriego,2030,3839.0,base
+49,Quiriego,2031,3911.0,base
+49,Quiriego,2032,3975.0,base
+49,Quiriego,2033,4044.0,base
+49,Quiriego,2034,4117.0,base
+49,Quiriego,2035,4180.0,base
+49,Quiriego,2036,4249.0,base
+49,Quiriego,2037,4312.0,base
+49,Quiriego,2038,4383.0,base
+49,Quiriego,2039,4453.0,base
+49,Quiriego,2040,4513.0,base
+50,Rayón,2025,1610.0,base
+50,Rayón,2026,1620.0,base
+50,Rayón,2027,1635.0,base
+50,Rayón,2028,1655.0,base
+50,Rayón,2029,1668.0,base
+50,Rayón,2030,1679.0,base
+50,Rayón,2031,1694.0,base
+50,Rayón,2032,1702.0,base
+50,Rayón,2033,1722.0,base
+50,Rayón,2034,1736.0,base
+50,Rayón,2035,1741.0,base
+50,Rayón,2036,1750.0,base
+50,Rayón,2037,1766.0,base
+50,Rayón,2038,1776.0,base
+50,Rayón,2039,1787.0,base
+50,Rayón,2040,1789.0,base
+51,Rosario,2025,4794.0,base
+51,Rosario,2026,4769.0,base
+51,Rosario,2027,4740.0,base
+51,Rosario,2028,4715.0,base
+51,Rosario,2029,4678.0,base
+51,Rosario,2030,4649.0,base
+51,Rosario,2031,4615.0,base
+51,Rosario,2032,4580.0,base
+51,Rosario,2033,4544.0,base
+51,Rosario,2034,4504.0,base
+51,Rosario,2035,4460.0,base
+51,Rosario,2036,4423.0,base
+51,Rosario,2037,4386.0,base
+51,Rosario,2038,4343.0,base
+51,Rosario,2039,4301.0,base
+51,Rosario,2040,4264.0,base
+52,Sahuaripa,2025,5058.0,base
+52,Sahuaripa,2026,5006.0,base
+52,Sahuaripa,2027,4943.0,base
+52,Sahuaripa,2028,4888.0,base
+52,Sahuaripa,2029,4827.0,base
+52,Sahuaripa,2030,4772.0,base
+52,Sahuaripa,2031,4704.0,base
+52,Sahuaripa,2032,4645.0,base
+52,Sahuaripa,2033,4579.0,base
+52,Sahuaripa,2034,4513.0,base
+52,Sahuaripa,2035,4447.0,base
+52,Sahuaripa,2036,4385.0,base
+52,Sahuaripa,2037,4319.0,base
+52,Sahuaripa,2038,4251.0,base
+52,Sahuaripa,2039,4187.0,base
+52,Sahuaripa,2040,4137.0,base
+53,San Felipe de Jesús,2025,361.0,base
+53,San Felipe de Jesús,2026,362.0,base
+53,San Felipe de Jesús,2027,350.0,base
+53,San Felipe de Jesús,2028,348.0,base
+53,San Felipe de Jesús,2029,342.0,base
+53,San Felipe de Jesús,2030,343.0,base
+53,San Felipe de Jesús,2031,340.0,base
+53,San Felipe de Jesús,2032,336.0,base
+53,San Felipe de Jesús,2033,333.0,base
+53,San Felipe de Jesús,2034,331.0,base
+53,San Felipe de Jesús,2035,326.0,base
+53,San Felipe de Jesús,2036,323.0,base
+53,San Felipe de Jesús,2037,322.0,base
+53,San Felipe de Jesús,2038,321.0,base
+53,San Felipe de Jesús,2039,313.0,base
+53,San Felipe de Jesús,2040,313.0,base
+54,San Javier,2025,537.0,base
+54,San Javier,2026,537.0,base
+54,San Javier,2027,532.0,base
+54,San Javier,2028,529.0,base
+54,San Javier,2029,527.0,base
+54,San Javier,2030,521.0,base
+54,San Javier,2031,523.0,base
+54,San Javier,2032,513.0,base
+54,San Javier,2033,506.0,base
+54,San Javier,2034,499.0,base
+54,San Javier,2035,501.0,base
+54,San Javier,2036,498.0,base
+54,San Javier,2037,497.0,base
+54,San Javier,2038,487.0,base
+54,San Javier,2039,484.0,base
+54,San Javier,2040,481.0,base
+55,San Luis Río Colorado,2025,213148.0,base
+55,San Luis Río Colorado,2026,215195.0,base
+55,San Luis Río Colorado,2027,217127.0,base
+55,San Luis Río Colorado,2028,218931.0,base
+55,San Luis Río Colorado,2029,220650.0,base
+55,San Luis Río Colorado,2030,222287.0,base
+55,San Luis Río Colorado,2031,223849.0,base
+55,San Luis Río Colorado,2032,225342.0,base
+55,San Luis Río Colorado,2033,226790.0,base
+55,San Luis Río Colorado,2034,228170.0,base
+55,San Luis Río Colorado,2035,229514.0,base
+55,San Luis Río Colorado,2036,230799.0,base
+55,San Luis Río Colorado,2037,232030.0,base
+55,San Luis Río Colorado,2038,233180.0,base
+55,San Luis Río Colorado,2039,234249.0,base
+55,San Luis Río Colorado,2040,235070.0,base
+56,San Miguel de Horcasitas,2025,12418.0,base
+56,San Miguel de Horcasitas,2026,12718.0,base
+56,San Miguel de Horcasitas,2027,13018.0,base
+56,San Miguel de Horcasitas,2028,13312.0,base
+56,San Miguel de Horcasitas,2029,13611.0,base
+56,San Miguel de Horcasitas,2030,13905.0,base
+56,San Miguel de Horcasitas,2031,14209.0,base
+56,San Miguel de Horcasitas,2032,14510.0,base
+56,San Miguel de Horcasitas,2033,14815.0,base
+56,San Miguel de Horcasitas,2034,15120.0,base
+56,San Miguel de Horcasitas,2035,15434.0,base
+56,San Miguel de Horcasitas,2036,15746.0,base
+56,San Miguel de Horcasitas,2037,16066.0,base
+56,San Miguel de Horcasitas,2038,16377.0,base
+56,San Miguel de Horcasitas,2039,16693.0,base
+56,San Miguel de Horcasitas,2040,17042.0,base
+57,San Pedro de la Cueva,2025,1482.0,base
+57,San Pedro de la Cueva,2026,1487.0,base
+57,San Pedro de la Cueva,2027,1480.0,base
+57,San Pedro de la Cueva,2028,1481.0,base
+57,San Pedro de la Cueva,2029,1480.0,base
+57,San Pedro de la Cueva,2030,1477.0,base
+57,San Pedro de la Cueva,2031,1469.0,base
+57,San Pedro de la Cueva,2032,1469.0,base
+57,San Pedro de la Cueva,2033,1464.0,base
+57,San Pedro de la Cueva,2034,1455.0,base
+57,San Pedro de la Cueva,2035,1448.0,base
+57,San Pedro de la Cueva,2036,1450.0,base
+57,San Pedro de la Cueva,2037,1441.0,base
+57,San Pedro de la Cueva,2038,1436.0,base
+57,San Pedro de la Cueva,2039,1421.0,base
+57,San Pedro de la Cueva,2040,1414.0,base
+58,Santa Ana,2025,16541.0,base
+58,Santa Ana,2026,16554.0,base
+58,Santa Ana,2027,16551.0,base
+58,Santa Ana,2028,16536.0,base
+58,Santa Ana,2029,16521.0,base
+58,Santa Ana,2030,16493.0,base
+58,Santa Ana,2031,16467.0,base
+58,Santa Ana,2032,16430.0,base
+58,Santa Ana,2033,16389.0,base
+58,Santa Ana,2034,16351.0,base
+58,Santa Ana,2035,16301.0,base
+58,Santa Ana,2036,16256.0,base
+58,Santa Ana,2037,16200.0,base
+58,Santa Ana,2038,16145.0,base
+58,Santa Ana,2039,16081.0,base
+58,Santa Ana,2040,16025.0,base
+59,Santa Cruz,2025,1974.0,base
+59,Santa Cruz,2026,2003.0,base
+59,Santa Cruz,2027,2017.0,base
+59,Santa Cruz,2028,2037.0,base
+59,Santa Cruz,2029,2055.0,base
+59,Santa Cruz,2030,2070.0,base
+59,Santa Cruz,2031,2088.0,base
+59,Santa Cruz,2032,2101.0,base
+59,Santa Cruz,2033,2116.0,base
+59,Santa Cruz,2034,2135.0,base
+59,Santa Cruz,2035,2148.0,base
+59,Santa Cruz,2036,2162.0,base
+59,Santa Cruz,2037,2179.0,base
+59,Santa Cruz,2038,2186.0,base
+59,Santa Cruz,2039,2199.0,base
+59,Santa Cruz,2040,2209.0,base
+60,Sáric,2025,2820.0,base
+60,Sáric,2026,2984.0,base
+60,Sáric,2027,3151.0,base
+60,Sáric,2028,3333.0,base
+60,Sáric,2029,3514.0,base
+60,Sáric,2030,3706.0,base
+60,Sáric,2031,3915.0,base
+60,Sáric,2032,4132.0,base
+60,Sáric,2033,4352.0,base
+60,Sáric,2034,4590.0,base
+60,Sáric,2035,4836.0,base
+60,Sáric,2036,5093.0,base
+60,Sáric,2037,5364.0,base
+60,Sáric,2038,5650.0,base
+60,Sáric,2039,5947.0,base
+60,Sáric,2040,6378.0,base
+61,Soyopa,2025,1364.0,base
+61,Soyopa,2026,1355.0,base
+61,Soyopa,2027,1344.0,base
+61,Soyopa,2028,1345.0,base
+61,Soyopa,2029,1330.0,base
+61,Soyopa,2030,1327.0,base
+61,Soyopa,2031,1313.0,base
+61,Soyopa,2032,1305.0,base
+61,Soyopa,2033,1297.0,base
+61,Soyopa,2034,1283.0,base
+61,Soyopa,2035,1275.0,base
+61,Soyopa,2036,1263.0,base
+61,Soyopa,2037,1248.0,base
+61,Soyopa,2038,1241.0,base
+61,Soyopa,2039,1231.0,base
+61,Soyopa,2040,1223.0,base
+62,Suaqui Grande,2025,1128.0,base
+62,Suaqui Grande,2026,1122.0,base
+62,Suaqui Grande,2027,1123.0,base
+62,Suaqui Grande,2028,1125.0,base
+62,Suaqui Grande,2029,1117.0,base
+62,Suaqui Grande,2030,1115.0,base
+62,Suaqui Grande,2031,1108.0,base
+62,Suaqui Grande,2032,1105.0,base
+62,Suaqui Grande,2033,1100.0,base
+62,Suaqui Grande,2034,1097.0,base
+62,Suaqui Grande,2035,1093.0,base
+62,Suaqui Grande,2036,1078.0,base
+62,Suaqui Grande,2037,1080.0,base
+62,Suaqui Grande,2038,1078.0,base
+62,Suaqui Grande,2039,1074.0,base
+62,Suaqui Grande,2040,1071.0,base
+63,Tepache,2025,1164.0,base
+63,Tepache,2026,1156.0,base
+63,Tepache,2027,1152.0,base
+63,Tepache,2028,1147.0,base
+63,Tepache,2029,1134.0,base
+63,Tepache,2030,1125.0,base
+63,Tepache,2031,1114.0,base
+63,Tepache,2032,1107.0,base
+63,Tepache,2033,1095.0,base
+63,Tepache,2034,1083.0,base
+63,Tepache,2035,1079.0,base
+63,Tepache,2036,1067.0,base
+63,Tepache,2037,1053.0,base
+63,Tepache,2038,1043.0,base
+63,Tepache,2039,1035.0,base
+63,Tepache,2040,1025.0,base
+64,Trincheras,2025,1295.0,base
+64,Trincheras,2026,1274.0,base
+64,Trincheras,2027,1255.0,base
+64,Trincheras,2028,1236.0,base
+64,Trincheras,2029,1215.0,base
+64,Trincheras,2030,1196.0,base
+64,Trincheras,2031,1169.0,base
+64,Trincheras,2032,1160.0,base
+64,Trincheras,2033,1134.0,base
+64,Trincheras,2034,1112.0,base
+64,Trincheras,2035,1095.0,base
+64,Trincheras,2036,1075.0,base
+64,Trincheras,2037,1054.0,base
+64,Trincheras,2038,1036.0,base
+64,Trincheras,2039,1016.0,base
+64,Trincheras,2040,1005.0,base
+65,Tubutama,2025,1898.0,base
+65,Tubutama,2026,1982.0,base
+65,Tubutama,2027,2070.0,base
+65,Tubutama,2028,2165.0,base
+65,Tubutama,2029,2261.0,base
+65,Tubutama,2030,2352.0,base
+65,Tubutama,2031,2453.0,base
+65,Tubutama,2032,2561.0,base
+65,Tubutama,2033,2671.0,base
+65,Tubutama,2034,2776.0,base
+65,Tubutama,2035,2895.0,base
+65,Tubutama,2036,3016.0,base
+65,Tubutama,2037,3138.0,base
+65,Tubutama,2038,3266.0,base
+65,Tubutama,2039,3398.0,base
+65,Tubutama,2040,3573.0,base
+66,Ures,2025,8677.0,base
+66,Ures,2026,8677.0,base
+66,Ures,2027,8665.0,base
+66,Ures,2028,8645.0,base
+66,Ures,2029,8626.0,base
+66,Ures,2030,8603.0,base
+66,Ures,2031,8576.0,base
+66,Ures,2032,8545.0,base
+66,Ures,2033,8520.0,base
+66,Ures,2034,8487.0,base
+66,Ures,2035,8449.0,base
+66,Ures,2036,8409.0,base
+66,Ures,2037,8368.0,base
+66,Ures,2038,8325.0,base
+66,Ures,2039,8280.0,base
+66,Ures,2040,8236.0,base
+67,Villa Hidalgo,2025,1382.0,base
+67,Villa Hidalgo,2026,1373.0,base
+67,Villa Hidalgo,2027,1352.0,base
+67,Villa Hidalgo,2028,1340.0,base
+67,Villa Hidalgo,2029,1323.0,base
+67,Villa Hidalgo,2030,1308.0,base
+67,Villa Hidalgo,2031,1291.0,base
+67,Villa Hidalgo,2032,1272.0,base
+67,Villa Hidalgo,2033,1255.0,base
+67,Villa Hidalgo,2034,1240.0,base
+67,Villa Hidalgo,2035,1228.0,base
+67,Villa Hidalgo,2036,1207.0,base
+67,Villa Hidalgo,2037,1190.0,base
+67,Villa Hidalgo,2038,1173.0,base
+67,Villa Hidalgo,2039,1159.0,base
+67,Villa Hidalgo,2040,1146.0,base
+68,Villa Pesqueira,2025,955.0,base
+68,Villa Pesqueira,2026,935.0,base
+68,Villa Pesqueira,2027,918.0,base
+68,Villa Pesqueira,2028,900.0,base
+68,Villa Pesqueira,2029,882.0,base
+68,Villa Pesqueira,2030,862.0,base
+68,Villa Pesqueira,2031,846.0,base
+68,Villa Pesqueira,2032,825.0,base
+68,Villa Pesqueira,2033,806.0,base
+68,Villa Pesqueira,2034,789.0,base
+68,Villa Pesqueira,2035,767.0,base
+68,Villa Pesqueira,2036,754.0,base
+68,Villa Pesqueira,2037,731.0,base
+68,Villa Pesqueira,2038,718.0,base
+68,Villa Pesqueira,2039,700.0,base
+68,Villa Pesqueira,2040,689.0,base
+69,Yécora,2025,4743.0,base
+69,Yécora,2026,4733.0,base
+69,Yécora,2027,4712.0,base
+69,Yécora,2028,4692.0,base
+69,Yécora,2029,4670.0,base
+69,Yécora,2030,4647.0,base
+69,Yécora,2031,4614.0,base
+69,Yécora,2032,4587.0,base
+69,Yécora,2033,4568.0,base
+69,Yécora,2034,4533.0,base
+69,Yécora,2035,4502.0,base
+69,Yécora,2036,4472.0,base
+69,Yécora,2037,4439.0,base
+69,Yécora,2038,4406.0,base
+69,Yécora,2039,4366.0,base
+69,Yécora,2040,4334.0,base
+70,General Plutarco Elías Calles,2025,12807.0,base
+70,General Plutarco Elías Calles,2026,12631.0,base
+70,General Plutarco Elías Calles,2027,12456.0,base
+70,General Plutarco Elías Calles,2028,12277.0,base
+70,General Plutarco Elías Calles,2029,12095.0,base
+70,General Plutarco Elías Calles,2030,11906.0,base
+70,General Plutarco Elías Calles,2031,11725.0,base
+70,General Plutarco Elías Calles,2032,11535.0,base
+70,General Plutarco Elías Calles,2033,11346.0,base
+70,General Plutarco Elías Calles,2034,11160.0,base
+70,General Plutarco Elías Calles,2035,10974.0,base
+70,General Plutarco Elías Calles,2036,10792.0,base
+70,General Plutarco Elías Calles,2037,10606.0,base
+70,General Plutarco Elías Calles,2038,10416.0,base
+70,General Plutarco Elías Calles,2039,10234.0,base
+70,General Plutarco Elías Calles,2040,10100.0,base
+71,Benito Juárez,2025,21933.0,base
+71,Benito Juárez,2026,21902.0,base
+71,Benito Juárez,2027,21856.0,base
+71,Benito Juárez,2028,21809.0,base
+71,Benito Juárez,2029,21744.0,base
+71,Benito Juárez,2030,21673.0,base
+71,Benito Juárez,2031,21597.0,base
+71,Benito Juárez,2032,21517.0,base
+71,Benito Juárez,2033,21426.0,base
+71,Benito Juárez,2034,21336.0,base
+71,Benito Juárez,2035,21242.0,base
+71,Benito Juárez,2036,21144.0,base
+71,Benito Juárez,2037,21038.0,base
+71,Benito Juárez,2038,20930.0,base
+71,Benito Juárez,2039,20813.0,base
+71,Benito Juárez,2040,20718.0,base
+72,San Ignacio Río Muerto,2025,14567.0,base
+72,San Ignacio Río Muerto,2026,14571.0,base
+72,San Ignacio Río Muerto,2027,14577.0,base
+72,San Ignacio Río Muerto,2028,14569.0,base
+72,San Ignacio Río Muerto,2029,14556.0,base
+72,San Ignacio Río Muerto,2030,14534.0,base
+72,San Ignacio Río Muerto,2031,14504.0,base
+72,San Ignacio Río Muerto,2032,14476.0,base
+72,San Ignacio Río Muerto,2033,14436.0,base
+72,San Ignacio Río Muerto,2034,14400.0,base
+72,San Ignacio Río Muerto,2035,14366.0,base
+72,San Ignacio Río Muerto,2036,14325.0,base
+72,San Ignacio Río Muerto,2037,14278.0,base
+72,San Ignacio Río Muerto,2038,14225.0,base
+72,San Ignacio Río Muerto,2039,14168.0,base
+72,San Ignacio Río Muerto,2040,14122.0,base
+1,Aconchi,2026,2589.641788615425,bajo
+2,Agua Prieta,2026,100930.92923297315,bajo
+3,Alamos,2026,25006.972784643607,bajo
+4,Altar,2026,9727.52520790262,bajo
+5,Arivechi,2026,1237.545508171374,bajo
+6,Arizpe,2026,3036.2368913547043,bajo
+7,Atil,2026,711.7780232212921,bajo
+8,Bacadéhuachi,2026,899.0374433685997,bajo
+9,Bacanora,2026,754.2404397896473,bajo
+10,Bacerac,2026,1184.5755246254664,bajo
+11,Bacoachi,2026,1464.628129135777,bajo
+12,Bácum,2026,24121.261117963993,bajo
+13,Banámichi,2026,2193.5529147138614,bajo
+14,Baviácora,2026,3160.693414362192,bajo
+15,Bavispe,2026,1147.5537466198514,bajo
+16,Benjamín Hill,2026,4877.755042004639,bajo
+17,Caborca,2026,96970.69272481035,bajo
+18,Cajeme,2026,454068.04012020153,bajo
+19,Cananea,2026,44748.73089821772,bajo
+20,Carbó,2026,5260.6822171852,bajo
+21,La Colorada,2026,1765.0465298844888,bajo
+22,Cucurpe,2026,867.0705324689126,bajo
+23,Cumpas,2026,5738.769881275783,bajo
+24,Divisaderos,2026,824.6836196697072,bajo
+25,Empalme,2026,51763.64317762641,bajo
+26,Etchojoa,2026,62430.27924172313,bajo
+27,Fronteras,2026,9864.761028466399,bajo
+28,Granados,2026,1010.5701435307237,bajo
+29,Guaymas,2026,161088.15987151893,bajo
+30,Hermosillo,2026,1039220.1965853954,bajo
+31,Huachinera,2026,1182.6208451855043,bajo
+32,Huásabas,2026,869.4313695700951,bajo
+33,Huatabampo,2026,78167.88945890426,bajo
+34,Huépac,2026,1001.255206188293,bajo
+35,Imuris,2026,12655.838328838161,bajo
+36,Magdalena,2026,35979.902844064134,bajo
+37,Mazatán,2026,988.0319410235134,bajo
+38,Moctezuma,2026,5632.055059534956,bajo
+39,Naco,2026,5792.385338582264,bajo
+40,Nácori Chico,2026,1446.110909217581,bajo
+41,Nacozari de García,2026,15583.49921158793,bajo
+42,Navojoa,2026,170910.4559085556,bajo
+43,Nogales,2026,296075.1447429696,bajo
+44,Onavas,2026,341.87054880575783,bajo
+45,Opodepe,2026,2327.381905728063,bajo
+46,Oquitoa,2026,720.1096113198566,bajo
+47,Pitiquito,2026,9118.930714975038,bajo
+48,Puerto Peñasco,2026,65629.450097647,bajo
+49,Quiriego,2026,3548.0184978641837,bajo
+50,Rayón,2026,1620.7038807616811,bajo
+51,Rosario,2026,4772.38239001148,bajo
+52,Sahuaripa,2026,5013.399970029519,bajo
+53,San Felipe de Jesús,2026,357.3809325859607,bajo
+54,San Javier,2026,534.8872577151126,bajo
+55,San Luis Río Colorado,2026,214489.65663132627,bajo
+56,San Miguel de Horcasitas,2026,12689.875355313245,bajo
+57,San Pedro de la Cueva,2026,1480.6589422601157,bajo
+58,Santa Ana,2026,16544.380059588875,bajo
+59,Santa Cruz,2026,1987.6415920891495,bajo
+60,Sáric,2026,2940.9612899001213,bajo
+61,Soyopa,2026,1358.4681458481593,bajo
+62,Suaqui Grande,2026,1126.0743288746,bajo
+63,Tepache,2026,1158.0075839597787,bajo
+64,Trincheras,2026,1275.2109983626174,bajo
+65,Tubutama,2026,1961.7140629255296,bajo
+66,Ures,2026,8665.70850639004,bajo
+67,Villa Hidalgo,2026,1370.6407990568066,bajo
+68,Villa Pesqueira,2026,939.355909150221,bajo
+69,Yécora,2026,4659.076624492775,bajo
+70,General Plutarco Elías Calles,2026,12540.534381628031,bajo
+71,Benito Juárez,2026,21907.4201436756,bajo
+72,San Ignacio Río Muerto,2026,14552.851301910741,bajo
+1,Aconchi,2027,2576.352129597886,bajo
+2,Agua Prieta,2027,102175.00627701987,bajo
+3,Alamos,2027,24936.14673625911,bajo
+4,Altar,2027,9728.050444163762,bajo
+5,Arivechi,2027,1242.1077735564838,bajo
+6,Arizpe,2027,3059.652990515525,bajo
+7,Atil,2027,720.665653400868,bajo
+8,Bacadéhuachi,2027,887.2319698998333,bajo
+9,Bacanora,2027,750.4995264038002,bajo
+10,Bacerac,2027,1172.2800113130315,bajo
+11,Bacoachi,2027,1457.2931770759285,bajo
+12,Bácum,2027,24171.627182958815,bajo
+13,Banámichi,2027,2237.988088209152,bajo
+14,Baviácora,2027,3147.4426148684724,bajo
+15,Bavispe,2027,1128.4315350310696,bajo
+16,Benjamín Hill,2027,4849.672696657497,bajo
+17,Caborca,2027,97696.78179251519,bajo
+18,Cajeme,2027,455076.3141879058,bajo
+19,Cananea,2027,45378.19336931439,bajo
+20,Carbó,2027,5285.480784990181,bajo
+21,La Colorada,2027,1744.3388872661117,bajo
+22,Cucurpe,2027,860.196004892361,bajo
+23,Cumpas,2027,5708.698171301449,bajo
+24,Divisaderos,2027,831.4218490850005,bajo
+25,Empalme,2027,51433.4066918886,bajo
+26,Etchojoa,2027,62317.76163918466,bajo
+27,Fronteras,2027,9942.124044620909,bajo
+28,Granados,2027,1006.1596206854261,bajo
+29,Guaymas,2027,161137.33474991797,bajo
+30,Hermosillo,2027,1049650.0290515716,bajo
+31,Huachinera,2027,1178.2578462234849,bajo
+32,Huásabas,2027,866.870305496022,bajo
+33,Huatabampo,2027,77935.47202790112,bajo
+34,Huépac,2027,1005.5285736400813,bajo
+35,Imuris,2027,12632.718968821602,bajo
+36,Magdalena,2027,36294.53315768461,bajo
+37,Mazatán,2027,972.3178451022821,bajo
+38,Moctezuma,2027,5674.426510488962,bajo
+39,Naco,2027,5762.921317523663,bajo
+40,Nácori Chico,2027,1412.9978119987154,bajo
+41,Nacozari de García,2027,15693.773276306169,bajo
+42,Navojoa,2027,171244.56368015808,bajo
+43,Nogales,2027,300517.9717878436,bajo
+44,Onavas,2027,334.88673965830964,bajo
+45,Opodepe,2027,2304.981504302293,bajo
+46,Oquitoa,2027,752.6238785417054,bajo
+47,Pitiquito,2027,9083.995781572556,bajo
+48,Puerto Peñasco,2027,65805.37049102482,bajo
+49,Quiriego,2027,3598.7522187496907,bajo
+50,Rayón,2027,1631.4789249167538,bajo
+51,Rosario,2027,4750.862260427971,bajo
+52,Sahuaripa,2027,4969.1932106548,bajo
+53,San Felipe de Jesús,2027,353.7981467479529,bajo
+54,San Javier,2027,532.7828276834138,bajo
+55,San Luis Río Colorado,2027,215839.75829857306,bajo
+56,San Miguel de Horcasitas,2027,12967.703054709811,bajo
+57,San Pedro de la Cueva,2027,1479.3190980397062,bajo
+58,Santa Ana,2027,16547.76080987377,bajo
+59,Santa Cruz,2027,2001.3774562323651,bajo
+60,Sáric,2027,3067.11110237269,bajo
+61,Soyopa,2027,1352.9587267479,bajo
+62,Suaqui Grande,2027,1124.151945168777,bajo
+63,Tepache,2027,1152.0460176188694,bajo
+64,Trincheras,2027,1255.7243940887902,bajo
+65,Tubutama,2027,2027.5669466173806,bajo
+66,Ures,2027,8654.431706548425,bajo
+67,Villa Hidalgo,2027,1359.3749638488287,bajo
+68,Villa Pesqueira,2027,923.9680880161658,bajo
+69,Yécora,2027,4576.638202170565,bajo
+70,General Plutarco Elías Calles,2027,12279.612913000292,bajo
+71,Benito Juárez,2027,21881.870120436033,bajo
+72,San Ignacio Río Muerto,2027,14538.716346229503,bajo
+1,Aconchi,2028,2563.130671146764,bajo
+2,Agua Prieta,2028,103434.41784442119,bajo
+3,Alamos,2028,24865.52128509096,bajo
+4,Altar,2028,9728.575708784956,bajo
+5,Arivechi,2028,1246.6868579315267,bajo
+6,Arizpe,2028,3083.249679570854,bajo
+7,Atil,2028,729.6642591481518,bajo
+8,Bacadéhuachi,2028,875.581516897511,bajo
+9,Bacanora,2028,746.777167357156,bajo
+10,Bacerac,2028,1160.1121214779298,bajo
+11,Bacoachi,2028,1449.9949589287023,bajo
+12,Bácum,2028,24222.098414117652,bajo
+13,Banámichi,2028,2283.3233925516683,bajo
+14,Baviácora,2028,3134.2473676426275,bajo
+15,Bavispe,2028,1109.6279655774586,bajo
+16,Benjamín Hill,2028,4821.752027760566,bajo
+17,Caborca,2028,98428.30760940092,bajo
+18,Cajeme,2028,456086.8271636717,bajo
+19,Cananea,2028,46016.5102368278,bajo
+20,Carbó,2028,5310.396251885392,bajo
+21,La Colorada,2028,1723.8741880804148,bajo
+22,Cucurpe,2028,853.3759816815225,bajo
+23,Cumpas,2028,5678.7840399998095,bajo
+24,Divisaderos,2028,838.2151344448647,bajo
+25,Empalme,2028,51105.27701567613,bajo
+26,Etchojoa,2028,62205.44682623859,bajo
+27,Fronteras,2028,10020.093769468234,bajo
+28,Granados,2028,1001.7683470846205,bajo
+29,Guaymas,2028,161186.52463977822,bajo
+30,Hermosillo,2028,1060184.5375100255,bajo
+31,Huachinera,2028,1173.9109435107578,bajo
+32,Huásabas,2028,864.3167854897397,bajo
+33,Huatabampo,2028,77703.74564615886,bajo
+34,Huépac,2028,1009.8201798678232,bajo
+35,Imuris,2028,12609.641842657411,bajo
+36,Magdalena,2028,36611.9147915262,bajo
+37,Mazatán,2028,956.8536730958243,bajo
+38,Moctezuma,2028,5717.11673315897,bajo
+39,Naco,2028,5733.607170564626,bajo
+40,Nácori Chico,2028,1380.6429396161586,bajo
+41,Nacozari de García,2028,15804.82767727523,bajo
+42,Navojoa,2028,171579.3245891152,bajo
+43,Nogales,2028,305027.4667462563,bajo
+44,Onavas,2028,328.0455973488747,bajo
+45,Opodepe,2028,2282.7967004897905,bajo
+46,Oquitoa,2028,786.6062244509585,bajo
+47,Pitiquito,2028,9049.194685086919,bajo
+48,Puerto Peñasco,2028,65981.76244076581,bajo
+49,Quiriego,2028,3650.2113897523373,bajo
+50,Rayón,2028,1642.3256055860113,bajo
+51,Rosario,2028,4729.439171680556,bajo
+52,Sahuaripa,2028,4925.376254125674,bajo
+53,San Felipe de Jesús,2028,350.25127875891405,bajo
+54,San Javier,2028,530.6866772016472,bajo
+55,San Luis Río Colorado,2028,217198.35815888207,bajo
+56,San Miguel de Horcasitas,2028,13251.613416732349,bajo
+57,San Pedro de la Cueva,2028,1477.980466240661,bajo
+58,Santa Ana,2028,16551.142250995817,bajo
+59,Santa Cruz,2028,2015.208243909337,bajo
+60,Sáric,2028,3198.671994291124,bajo
+61,Soyopa,2028,1347.4716517113684,bajo
+62,Suaqui Grande,2028,1122.2328432703962,bajo
+63,Tepache,2028,1146.1151421592024,bajo
+64,Trincheras,2028,1236.535566219505,bajo
+65,Tubutama,2028,2095.630449263589,bajo
+66,Ures,2028,8643.169581353963,bajo
+67,Villa Hidalgo,2028,1348.201726966408,bajo
+68,Villa Pesqueira,2028,908.8323385803316,bajo
+69,Yécora,2028,4495.658458042067,bajo
+70,General Plutarco Elías Calles,2028,12024.120241162154,bajo
+71,Benito Juárez,2028,21856.349895487787,bajo
+72,San Ignacio Río Muerto,2028,14524.595119608497,bajo
+1,Aconchi,2029,2549.977063266831,bajo
+2,Agua Prieta,2029,104709.35294887818,bajo
+3,Alamos,2029,24795.095862997285,bajo
+4,Altar,2029,9729.101001767734,bajo
+5,Arivechi,2029,1251.282823300442,bajo
+6,Arizpe,2029,3107.0283512680376,bajo
+7,Atil,2029,738.7752261617355,bajo
+8,Bacadéhuachi,2029,864.084048751195,bajo
+9,Bacanora,2029,743.0732706231246,bajo
+10,Bacerac,2029,1148.0705304294747,bajo
+11,Bacoachi,2029,1442.733290728297,bajo
+12,Bácum,2029,24272.67503103126,bajo
+13,Banámichi,2029,2329.5770618446763,bajo
+14,Baviácora,2029,3121.1074397889383,bajo
+15,Bavispe,2029,1091.1377285797566,bajo
+16,Benjamín Hill,2029,4793.992104505748,bajo
+17,Caborca,2029,99165.3108843047,bajo
+18,Cajeme,2029,457099.58401907363,bajo
+19,Cananea,2029,46663.80605200526,bajo
+20,Carbó,2029,5335.429168926741,bajo
+21,La Colorada,2029,1703.6495820989792,bajo
+22,Cucurpe,2029,846.6100307011197,bajo
+23,Cumpas,2029,5649.026661643355,bajo
+24,Divisaderos,2029,845.0639255940359,bajo
+25,Empalme,2029,50779.24070817742,bajo
+26,Etchojoa,2029,62093.33443739884,bajo
+27,Fronteras,2029,10098.674961036904,bajo
+28,Granados,2029,997.3962387170844,bajo
+29,Guaymas,2029,161235.72954568223,bajo
+30,Hermosillo,2029,1070824.7725110315,bajo
+31,Huachinera,2029,1169.5800776640313,bajo
+32,Huásabas,2029,861.7707873288606,bajo
+33,Huatabampo,2029,77472.70825897322,bajo
+34,Huépac,2029,1014.1301027148008,bajo
+35,Imuris,2029,12586.606873193874,bajo
+36,Magdalena,2029,36932.071804818515,bajo
+37,Mazatán,2029,941.6354501039298,bajo
+38,Moctezuma,2029,5760.128125749542,bajo
+39,Naco,2029,5704.442135343297,bajo
+40,Nácori Chico,2029,1349.0289302115925,bajo
+41,Nacozari de García,2029,15916.667936416032,bajo
+42,Navojoa,2029,171914.7399122257,bajo
+43,Nogales,2029,309604.630019675,bajo
+44,Onavas,2029,321.3442074469125,bajo
+45,Opodepe,2029,2260.8254192236864,bajo
+46,Oquitoa,2029,822.1229354878951,bajo
+47,Pitiquito,2029,9014.526912784355,bajo
+48,Puerto Peñasco,2029,66158.62721088153,bajo
+49,Quiriego,2029,3702.4063842069254,bajo
+50,Rayón,2029,1653.2443990357306,bajo
+51,Rosario,2029,4708.112686182471,bajo
+52,Sahuaripa,2029,4881.945663269624,bajo
+53,San Felipe de Jesús,2029,346.73996853818835,bajo
+54,San Javier,2029,528.598773695222,bajo
+55,San Luis Río Colorado,2029,218565.50970399176,bajo
+56,San Miguel de Horcasitas,2029,13541.739613072165,bajo
+57,San Pedro de la Cueva,2029,1476.6430457658635,bajo
+58,Santa Ana,2029,16554.524383096188,bajo
+59,Santa Cruz,2029,2029.1346111018913,bajo
+60,Sáric,2029,3335.876068899935,bajo
+61,Soyopa,2029,1342.006830119721,bajo
+62,Suaqui Grande,2029,1120.317017576902,bajo
+63,Tepache,2029,1140.2147995803232,bajo
+64,Trincheras,2029,1217.6399644090034,bajo
+65,Tubutama,2029,2165.978779249382,bajo
+66,Ures,2029,8631.922111710346,bajo
+67,Villa Hidalgo,2029,1337.1203273075282,bajo
+68,Villa Pesqueira,2029,893.9445315939779,bajo
+69,Yécora,2029,4416.111582029733,bajo
+70,General Plutarco Elías Calles,2029,11773.94341322117,bajo
+71,Benito Juárez,2029,21830.859434077935,bajo
+72,San Ignacio Río Muerto,2029,14510.487608712909,bajo
+1,Aconchi,2030,2536.8909577589798,bajo
+2,Agua Prieta,2030,106000.00293387927,bajo
+3,Alamos,2030,24724.869903445346,bajo
+4,Altar,2030,9729.626323113627,bajo
+5,Arivechi,2030,1255.895731895748,bajo
+6,Arizpe,2030,3130.9904090955847,bajo
+7,Atil,2030,747.9999574427642,bajo
+8,Bacadéhuachi,2030,852.7375565805299,bajo
+9,Bacanora,2030,739.3877446315529,bajo
+10,Bacerac,2030,1136.1539272268442,bajo
+11,Bacoachi,2030,1435.5079894302232,bajo
+12,Bácum,2030,24323.357253748905,bajo
+13,Banámichi,2030,2376.767699562764,bajo
+14,Baviácora,2030,3108.0225993880713,bajo
+15,Bavispe,2030,1072.9556028363106,bajo
+16,Benjamín Hill,2030,4766.392001443812,bajo
+17,Caborca,2030,99907.83263088003,bajo
+18,Cajeme,2030,458114.58973672515,bajo
+19,Cananea,2030,47320.20711810658,bajo
+20,Carbó,2030,5360.580089767785,bajo
+21,La Colorada,2030,1683.662252532454,bajo
+22,Cucurpe,2030,839.8977232420392,bajo
+23,Cumpas,2030,5619.425214831473,bajo
+24,Divisaderos,2030,851.9686760527895,bajo
+25,Empalme,2030,50455.28441432927,bajo
+26,Etchojoa,2030,61981.424107838015,bajo
+27,Fronteras,2030,10177.872414669624,bajo
+28,Granados,2030,993.0432119382542,bajo
+29,Guaymas,2030,161284.94947221383,bajo
+30,Hermosillo,2030,1081571.7951484073,bajo
+31,Huachinera,2030,1165.2651895190938,bajo
+32,Huásabas,2030,859.2322888564568,bajo
+33,Huatabampo,2030,77242.35781774923,bajo
+34,Huépac,2030,1018.4584203565324,bajo
+35,Imuris,2030,12563.613983420211,bajo
+36,Magdalena,2030,37255.02846717985,bajo
+37,Mazatán,2030,926.6592644449555,bajo
+38,Moctezuma,2030,5803.4631045075685,bajo
+39,Naco,2030,5675.425453375716,bajo
+40,Nácori Chico,2030,1318.138819479126,bajo
+41,Nacozari de García,2030,16029.299614724448,bajo
+42,Navojoa,2030,172250.81092878437,bajo
+43,Nogales,2030,314250.4770213332,bajo
+44,Onavas,2030,314.7797150585309,bajo
+45,Opodepe,2030,2239.065605409051,bajo
+46,Oquitoa,2030,859.2432910469196,bajo
+47,Pitiquito,2030,8979.991953895385,bajo
+48,Puerto Peñasco,2030,66335.96606877167,bajo
+49,Quiriego,2030,3755.347723778336,bajo
+50,Rayón,2030,1664.2357846985851,bajo
+51,Rosario,2030,4686.882368320166,bajo
+52,Sahuaripa,2030,4838.8980312221565,bajo
+53,San Felipe de Jesús,2030,343.26385961497067,bajo
+54,San Javier,2030,526.5190847177071,bajo
+55,San Luis Río Colorado,2030,219941.26676234358,bajo
+56,San Miguel de Horcasitas,2030,13838.217731035076,bajo
+57,San Pedro de la Cueva,2030,1475.3068355191897,bajo
+58,Santa Ana,2030,16557.90720631609,bajo
+59,Santa Cruz,2030,2043.1572183251067,bajo
+60,Sáric,2030,3478.965385297482,bajo
+61,Soyopa,2030,1336.56417172163,bajo
+62,Suaqui Grande,2030,1118.4044624953042,bajo
+63,Tepache,2030,1134.3448326951834,bajo
+64,Trincheras,2030,1199.0331078457352,bajo
+65,Tubutama,2030,2238.6886360652184,bajo
+66,Ures,2030,8620.689278546111,bajo
+67,Villa Hidalgo,2030,1326.1300100259689,bajo
+68,Villa Pesqueira,2030,879.3006054506069,bajo
+69,Yécora,2030,4337.972220743524,bajo
+70,General Plutarco Elías Calles,2030,11528.971826410789,bajo
+71,Benito Juárez,2030,21805.398701494072,bajo
+72,San Ignacio Río Muerto,2030,14496.393800220863,bajo
+1,Aconchi,2031,2523.8720082110112,bajo
+2,Agua Prieta,2031,107306.5615014174,bajo
+3,Alamos,2031,24654.84284150696,bajo
+4,Altar,2031,9730.15167282417,bajo
+5,Arivechi,2031,1260.525646179386,bajo
+6,Arizpe,2031,3155.137267366005,bajo
+7,Atil,2031,757.3398735109834,bajo
+8,Bacadéhuachi,2031,841.540057884244,bajo
+9,Bacanora,2031,735.7204982664616,bajo
+10,Bacerac,2031,1124.36101453636,bajo
+11,Bacoachi,2031,1428.318872906691,bajo
+12,Bácum,2031,24374.145302779314,bajo
+13,Banámichi,2031,2424.9142860342604,bajo
+14,Baviácora,2031,3094.9926154929867,bajo
+15,Bavispe,2031,1055.0764541487315,bajo
+16,Benjamín Hill,2031,4738.950798453555,bajo
+17,Caborca,2031,100655.91416987895,bajo
+18,Cajeme,2031,459131.8493103041,bajo
+19,Cananea,2031,47985.841515048895,bajo
+20,Carbó,2031,5385.849570671968,bajo
+21,La Colorada,2031,1663.9094156382473,bajo
+22,Cucurpe,2031,833.2386339941673,bajo
+23,Cumpas,2031,5589.978882467768,bajo
+24,Divisaderos,2031,858.9298430469715,bajo
+25,Empalme,2031,50133.394864269714,bajo
+26,Etchojoa,2031,61869.71547338627,bajo
+27,Fronteras,2031,10257.690963315908,bajo
+28,Granados,2031,988.7091834686231,bajo
+29,Guaymas,2031,161334.1844239584,bajo
+30,Hermosillo,2031,1092426.6771653318,bajo
+31,Huachinera,2031,1160.9662201300064,bajo
+32,Huásabas,2031,856.7012679808678,bajo
+33,Huatabampo,2031,77012.69227998305,bajo
+34,Huépac,2031,1022.8052113021895,bajo
+35,Imuris,2031,12540.66309646633,bajo
+36,Magdalena,2031,37580.80926045684,bajo
+37,Mazatán,2031,911.921266650369,bajo
+38,Moctezuma,2031,5847.124103858015,bajo
+39,Naco,2031,5646.556370036086,bajo
+40,Nácori Chico,2031,1287.9560315621268,bajo
+41,Nacozari de García,2031,16142.728312547832,bajo
+42,Navojoa,2031,172587.53892058687,bajo
+43,Nogales,2031,318966.0384014922,bajo
+44,Onavas,2031,308.34932361025795,bajo
+45,Opodepe,2031,2217.5152237306706,bajo
+46,Oquitoa,2031,898.0396986139212,bajo
+47,Pitiquito,2031,8945.589299607313,bajo
+48,Puerto Peñasco,2031,66513.7802852332,bajo
+49,Quiriego,2031,3809.04608058253,bajo
+50,Rayón,2031,1675.3002451946948,bajo
+51,Rosario,2031,4665.747784444402,bajo
+52,Sahuaripa,2031,4796.22998115956,bajo
+53,San Felipe de Jesús,2031,339.8225990921178,bajo
+54,San Javier,2031,524.4475779503265,bajo
+55,San Luis Río Colorado,2031,221325.6835012011,bajo
+56,San Miguel de Horcasitas,2031,14141.18683737484,bajo
+57,San Pedro de la Cueva,2031,1473.9718344055073,bajo
+58,Santa Ana,2031,16561.290720796736,bajo
+59,Santa Cruz,2031,2057.276730658639,bajo
+60,Sáric,2031,3628.1923854831048,bajo
+61,Soyopa,2031,1331.1435866317913,bajo
+62,Suaqui Grande,2031,1116.495172442161,bajo
+63,Tepache,2031,1128.5050851259525,bajo
+64,Trincheras,2031,1180.7105841898006,bajo
+65,Tubutama,2031,2313.839293930828,bajo
+66,Ures,2031,8609.471062814619,bajo
+67,Villa Hidalgo,2031,1315.2300264798878,bajo
+68,Villa Pesqueira,2031,864.8965650779002,bajo
+69,Yécora,2031,4261.215469400205,bajo
+70,General Plutarco Elías Calles,2031,11289.097179193051,bajo
+71,Benito Juárez,2031,21779.96766306429,bajo
+72,San Ignacio Río Muerto,2031,14482.313680823436,bajo
+1,Aconchi,2032,2510.9198699884623,bajo
+2,Agua Prieta,2032,108629.22474106077,bajo
+3,Alamos,2032,24585.014113853966,bajo
+4,Altar,2032,9730.67705090089,bajo
+5,Arivechi,2032,1265.1726288435668,bajo
+6,Arizpe,2032,3179.470351299281,bajo
+7,Atil,2032,766.7964126234866,bajo
+8,Bacadéhuachi,2032,830.4895961937588,bajo
+9,Bacanora,2032,732.0714408637922,bajo
+10,Bacerac,2032,1112.6905084902507,bajo
+11,Bacoachi,2032,1421.1657599420166,bajo
+12,Bácum,2032,24425.03939909166,bajo
+13,Banámichi,2032,2474.036186075225,bajo
+14,Baviácora,2032,3082.017258124858,bajo
+15,Bavispe,2032,1037.4952338721205,bajo
+16,Benjamín Hill,2032,4711.667580711116,bajo
+17,Caborca,2032,101409.59713145158,bajo
+18,Cajeme,2032,460151.3677445769,bajo
+19,Cananea,2032,48660.83912439828,bajo
+20,Carbó,2032,5411.238170524935,bajo
+21,La Colorada,2032,1644.3883203328196,bajo
+22,Cucurpe,2032,826.6323410194417,bajo
+23,Cumpas,2032,5560.686851737508,bajo
+24,Divisaderos,2032,865.9478875382763,bajo
+25,Empalme,2032,49813.55887279456,bajo
+26,Etchojoa,2032,61758.20817053009,bajo
+27,Fronteras,2032,10338.135477827005,bajo
+28,Granados,2032,984.3940703921489,bajo
+29,Guaymas,2032,161383.43440550257,bajo
+30,Hermosillo,2032,1103390.5010612234,bajo
+31,Huachinera,2032,1156.683110768297,bajo
+32,Huásabas,2032,854.1777026755078,bajo
+33,Huatabampo,2032,76783.70960924383,bajo
+34,Huépac,2032,1027.1705543960225,bajo
+35,Imuris,2032,12517.75413560256,bajo
+36,Magdalena,2032,37909.43888058043,bajo
+37,Mazatán,2032,897.4176684752838,bajo
+38,Moctezuma,2032,5891.113576540666,bajo
+39,Naco,2032,5617.834134537155,bajo
+40,Nácori Chico,2032,1258.4643701584964,bajo
+41,Nacozari de García,2032,16256.959669863467,bajo
+42,Navojoa,2032,172924.9251719346,bajo
+43,Nogales,2032,323752.36027608486,bajo
+44,Onavas,2032,302.0502936576594,bajo
+45,Opodepe,2032,2196.172258462672,bajo
+46,Oquitoa,2032,938.5878350053296,bajo
+47,Pitiquito,2032,8911.318443056716,bajo
+48,Puerto Peñasco,2032,66692.07113446954,bajo
+49,Quiriego,2032,3863.512279337875,bajo
+50,Rayón,2032,1686.4382663528186,bajo
+51,Rosario,2032,4644.708502861399,bajo
+52,Sahuaripa,2032,4753.93816603401,bajo
+53,San Felipe de Jesús,2032,336.4158376103216,bajo
+54,San Javier,2032,522.3842212014579,bajo
+55,San Luis Río Colorado,2032,222718.8144287829,bajo
+56,San Miguel de Horcasitas,2032,14450.78904352416,bajo
+57,San Pedro de la Cueva,2032,1472.6380413306754,bajo
+58,Santa Ana,2032,16564.67492667939,bajo
+59,Santa Cruz,2032,2071.493817778266,bajo
+60,Sáric,2032,3783.820339722053,bajo
+61,Soyopa,2032,1325.7449853294413,bajo
+62,Suaqui Grande,2032,1114.5891418435613,bajo
+63,Tepache,2032,1122.6954012998528,bajo
+64,Trincheras,2032,1162.6680485266293,bajo
+65,Tubutama,2032,2391.51268822644,bajo
+66,Ures,2032,8598.267445494012,bajo
+67,Villa Hidalgo,2032,1304.4196341808236,bajo
+68,Villa Pesqueira,2032,850.7284808478054,bajo
+69,Yécora,2032,4185.8168638856205,bajo
+70,General Plutarco Elías Calles,2032,11054.213423378658,bajo
+71,Benito Juárez,2032,21754.566284157107,bajo
+72,San Ignacio Río Muerto,2032,14468.247237224623,bajo
+1,Aconchi,2033,2498.034200225483,bajo
+2,Agua Prieta,2033,109968.19115938236,bajo
+3,Alamos,2033,24515.38315875369,bajo
+4,Altar,2033,9731.20245734532,bajo
+5,Arivechi,2033,1269.836742811618,bajo
+6,Arizpe,2033,3203.9910971069958,bajo
+7,Atil,2033,776.3710309961929,bajo
+8,Bacadéhuachi,2033,819.5842407313474,bajo
+9,Bacanora,2033,728.4404822091655,bajo
+10,Bacerac,2033,1101.1411385468803,bajo
+11,Bacoachi,2033,1414.0484702280576,bajo
+12,Bácum,2033,24476.039764116504,bajo
+13,Banámichi,2033,2524.153156778081,bajo
+14,Baviácora,2033,3069.096298269017,bajo
+15,Bavispe,2033,1020.2069774894524,bajo
+16,Benjamín Hill,2033,4684.5414386594875,bajo
+17,Caborca,2033,102168.92345746285,bajo
+18,Cajeme,2033,461173.15005542326,bajo
+19,Cananea,2033,49345.331654712725,bajo
+20,Carbó,2033,5436.7464508468875,bajo
+21,La Colorada,2033,1625.0962478085255,bajo
+22,Cucurpe,2033,820.0784257251155,bajo
+23,Cumpas,2033,5531.54831408519,bajo
+24,Divisaderos,2033,873.0232742547705,bajo
+25,Empalme,2033,49495.76333881725,bajo
+26,Etchojoa,2033,61646.90183641112,bajo
+27,Fronteras,2033,10419.210867253136,bajo
+28,Granados,2033,980.0977901546673,bajo
+29,Guaymas,2033,161432.69942143446,bajo
+30,Hermosillo,2033,1114464.3601996927,bajo
+31,Huachinera,2033,1152.415802922158,bajo
+32,Huásabas,2033,851.6615709786745,bajo
+33,Huatabampo,2033,76555.40777515563,bajo
+34,Huépac,2033,1031.554528818789,bajo
+35,Imuris,2033,12494.887024239393,bajo
+36,Magdalena,2033,38240.94223943791,bajo
+37,Mazatán,2033,883.1447419247315,bajo
+38,Moctezuma,2033,5935.43399374793,bajo
+39,Naco,2033,5589.257999910683,bajo
+40,Nácori Chico,2033,1229.6480098296174,bajo
+41,Nacozari de García,2033,16371.999366559014,bajo
+42,Navojoa,2033,173262.97096963951,bajo
+43,Nogales,2033,328610.50445878913,bajo
+44,Onavas,2033,295.8799417182932,bajo
+45,Opodepe,2033,2175.0347132799816,bajo
+46,Oquitoa,2033,980.9667939843739,bajo
+47,Pitiquito,2033,8877.178879321982,bajo
+48,Puerto Peñasco,2033,66870.83989409957,bajo
+49,Quiriego,2033,3918.7572995472256,bajo
+50,Rayón,2033,1697.650337231686,bajo
+51,Rosario,2033,4623.764093824015,bajo
+52,Sahuaripa,2033,4712.01926831101,bajo
+53,San Felipe de Jesús,2033,333.04322931264227,bajo
+54,San Javier,2033,520.3289824061313,bajo
+55,San Luis Río Colorado,2033,224120.71439640873,bajo
+56,San Miguel de Horcasitas,2033,14767.169572253815,bajo
+57,San Pedro de la Cueva,2033,1471.3054552015428,bajo
+58,Santa Ana,2033,16568.05982410533,bajo
+59,Santa Cruz,2033,2085.809153987652,bajo
+60,Sáric,2033,3946.1238110139307,bajo
+61,Soyopa,2033,1320.368278656878,bajo
+62,Suaqui Grande,2033,1112.6863651351105,bajo
+63,Tepache,2033,1116.9156264450144,bajo
+64,Trincheras,2033,1144.9012223366478,bajo
+65,Tubutama,2033,2471.7935048254185,bajo
+66,Ures,2033,8587.078407587185,bajo
+67,Villa Hidalgo,2033,1293.6980967431195,bajo
+68,Villa Pesqueira,2033,836.7924875044781,bajo
+69,Yécora,2033,4111.752372957443,bajo
+70,General Plutarco Elías Calles,2033,10824.216717243238,bajo
+71,Benito Juárez,2033,21729.194530181438,bajo
+72,San Ignacio Río Muerto,2033,14454.194456141337,bajo
+1,Aconchi,2034,2485.2146578157594,bajo
+2,Agua Prieta,2034,111323.6617097519,bajo
+3,Alamos,2034,24445.94941606443,bajo
+4,Altar,2034,9731.727892158991,bajo
+5,Arivechi,2034,1274.5180512388374,bajo
+6,Arizpe,2034,3228.7009520770966,bajo
+7,Atil,2034,786.0652030280891,bajo
+8,Bacadéhuachi,2034,808.8220860727833,bajo
+9,Bacanora,2034,724.8275325356514,bajo
+10,Bacerac,2034,1089.7116473524259,bajo
+11,Bacoachi,2034,1406.9668243596655,bajo
+12,Bácum,2034,24527.146619746753,bajo
+13,Banámichi,2034,2575.2853554580256,bajo
+14,Baviácora,2034,3056.2295078709085,bajo
+15,Bavispe,2034,1003.2068032097135,bajo
+16,Benjamín Hill,2034,4657.571467978187,bajo
+17,Caborca,2034,102933.93540382649,bajo
+18,Cajeme,2034,462197.2012698608,bajo
+19,Cananea,2034,50039.45266724175,bajo
+20,Carbó,2034,5462.374975804998,bajo
+21,La Colorada,2034,1606.0305111549503,bajo
+22,Cucurpe,2034,813.5764728372351,bajo
+23,Cumpas,2034,5502.562465192222,bajo
+24,Divisaderos,2034,880.1564717216672,bajo
+25,Empalme,2034,49179.99524483221,bajo
+26,Etchojoa,2034,61535.79610882498,bajo
+27,Fronteras,2034,10500.922079143065,bajo
+28,Granados,2034,975.8202605623127,bajo
+29,Guaymas,2034,161481.9794763436,bajo
+30,Hermosillo,2034,1125649.358917577,bajo
+31,Huachinera,2034,1148.1642382956477,bajo
+32,Huásabas,2034,849.1528509933574,bajo
+33,Huatabampo,2034,76327.78475337948,bajo
+34,Huépac,2034,1035.9572140891917,bajo
+35,Imuris,2034,12472.061685927241,bajo
+36,Magdalena,2034,38575.34446676136,bajo
+37,Mazatán,2034,869.0988182954205,bajo
+38,Moctezuma,2034,5980.08784526365,bajo
+39,Naco,2034,5560.827222988022,bajo
+40,Nácori Chico,2034,1201.4914875083086,bajo
+41,Nacozari de García,2034,16487.853122714907,bajo
+42,Navojoa,2034,173601.6776030293,bajo
+43,Nogales,2034,333541.54869658436,bajo
+44,Onavas,2034,289.8356391285059,bajo
+45,Opodepe,2034,2154.100611071598,bajo
+46,Oquitoa,2034,1025.2592405424869,bajo
+47,Pitiquito,2034,8843.170105415875,bajo
+48,Puerto Peñasco,2034,67050.08784516684,bajo
+49,Quiriego,2034,3974.7922777112217,bajo
+50,Rayón,2034,1708.9369501414722,bajo
+51,Rosario,2034,4602.914129522971,bajo
+52,Sahuaripa,2034,4670.46999970916,bajo
+53,San Felipe de Jesús,2034,329.7044318093962,bajo
+54,San Javier,2034,518.2818296255319,bajo
+55,San Luis Río Colorado,2034,225531.43860065893,bajo
+56,San Miguel de Horcasitas,2034,15090.476825791215,bajo
+57,San Pedro de la Cueva,2034,1469.9740749259474,bajo
+58,Santa Ana,2034,16571.445413215875,bajo
+59,Santa Cruz,2034,2100.223418250323,bajo
+60,Sáric,2034,4115.389139484082,bajo
+61,Soyopa,2034,1315.0133778179875,bajo
+62,Suaqui Grande,2034,1110.7868367619126,bajo
+63,Tepache,2034,1111.1656065863522,bajo
+64,Trincheras,2034,1127.4058924806932,bajo
+65,Tubutama,2034,2554.7692724257145,bajo
+66,Ures,2034,8575.903930121758,bajo
+67,Villa Hidalgo,2034,1283.064683833762,bajo
+68,Villa Pesqueira,2034,823.0847831097842,bajo
+69,Yécora,2034,4038.9983905858576,bajo
+70,General Plutarco Elías Calles,2034,10599.005379619095,bajo
+71,Benito Juárez,2034,21703.85236658654,bajo
+72,San Ignacio Río Muerto,2034,14440.155324303389,bajo
+1,Aconchi,2035,2472.460903403486,bajo
+2,Agua Prieta,2035,112695.83982249518,bajo
+3,Alamos,2035,24376.712327230936,bajo
+4,Altar,2035,9732.253355343439,bajo
+5,Arivechi,2035,1279.2166175133466,bajo
+6,Arizpe,2035,3253.6013746593226,bajo
+7,Atil,2035,795.8804215282744,bajo
+8,Bacadéhuachi,2035,798.2012518144157,bajo
+9,Bacanora,2035,721.2325025215495,bajo
+10,Bacerac,2035,1078.4007906039942,bajo
+11,Bacoachi,2035,1399.9206438301646,bajo
+12,Bácum,2035,24578.360188338636,bajo
+13,Banámichi,2035,2627.453347760407,bajo
+14,Baviácora,2035,3043.4166598320685,bajo
+15,Bavispe,2035,986.4899105894008,bajo
+16,Benjamín Hill,2035,4630.756769553108,bajo
+17,Caborca,2035,103704.67554285646,bajo
+18,Cajeme,2035,463223.52642606973,bajo
+19,Cananea,2035,50743.33760198749,bajo
+20,Carbó,2035,5488.124312225894,bajo
+21,La Colorada,2035,1587.1884549846902,bajo
+22,Cucurpe,2035,807.1260703743263,bajo
+23,Cumpas,2035,5473.728504954714,bajo
+24,Divisaderos,2035,887.3479522923507,bajo
+25,Empalme,2035,48866.24165638164,bajo
+26,Etchojoa,2035,61424.89062622009,bajo
+27,Fronteras,2035,10583.274099846023,bajo
+28,Granados,2035,971.5613997799453,bajo
+29,Guaymas,2035,161531.27457482085,bajo
+30,Hermosillo,2035,1136946.612635071,bajo
+31,Huachinera,2035,1143.9283588078936,bajo
+32,Huásabas,2035,846.6515208870477,bajo
+33,Huatabampo,2035,76100.8385255954,bajo
+34,Huépac,2035,1040.3786900653192,bajo
+35,Imuris,2035,12449.278044356171,bajo
+36,Magdalena,2035,38912.670912032656,bajo
+37,Mazatán,2035,855.2762872327351,bajo
+38,Moctezuma,2035,6025.077639602975,bajo
+39,Naco,2035,5532.541064380788,bajo
+40,Nácori Chico,2035,1173.9796942012324,bajo
+41,Nacozari de García,2035,16604.526698888803,bajo
+42,Navojoa,2035,173941.0463639519,bajo
+43,Nogales,2035,338546.58690884215,bajo
+44,Onavas,2035,283.91481092358134,bajo
+45,Opodepe,2035,2133.3679937556594,bajo
+46,Oquitoa,2035,1071.5515721467948,bajo
+47,Pitiquito,2035,8809.291620278116,bajo
+48,Puerto Peñasco,2035,67229.81627214876,bajo
+49,Quiriego,2035,4031.6285095732205,bajo
+50,Rayón,2035,1720.2986006654132,bajo
+51,Rosario,2035,4582.158184078107,bajo
+52,Sahuaripa,2035,4629.287100942204,bajo
+53,San Felipe de Jesús,2035,326.39910614339703,bajo
+54,San Javier,2035,516.2427310465026,bajo
+55,San Luis Río Colorado,2035,226951.04258554798,bajo
+56,San Miguel de Horcasitas,2035,15420.862455430308,bajo
+57,San Pedro de la Cueva,2035,1468.6438994127163,bajo
+58,Santa Ana,2035,16574.831694152363,bajo
+59,Santa Cruz,2035,2114.7372942218785,bajo
+60,Sáric,2035,4291.914947552503,bajo
+61,Soyopa,2035,1309.680194376779,bajo
+62,Suaqui Grande,2035,1108.8905511785556,bajo
+63,Tepache,2035,1105.4451885414635,bajo
+64,Trincheras,2035,1110.1779102009284,bajo
+65,Tubutama,2035,2640.530457980794,bajo
+66,Ures,2035,8564.74399415004,bajo
+67,Villa Hidalgo,2035,1272.5186711226313,bajo
+68,Villa Pesqueira,2035,809.6016280060774,bajo
+69,Yécora,2035,3967.531728429793,bajo
+70,General Plutarco Elías Calles,2035,10378.479844942118,bajo
+71,Benito Juárez,2035,21678.53975886196,bajo
+72,San Ignacio Río Muerto,2035,14426.129828453484,bajo
+1,Aconchi,2036,2459.7725993743807,bajo
+2,Agua Prieta,2036,114084.93143542497,bajo
+3,Alamos,2036,24307.671335279938,bajo
+4,Altar,2036,9732.77884690019,bajo
+5,Arivechi,2036,1283.932505256951,bajo
+6,Arizpe,2036,3278.693834551282,bajo
+7,Atil,2036,805.8181979458376,bajo
+8,Bacadéhuachi,2036,787.7198822446192,bajo
+9,Bacanora,2036,717.6553032881812,bajo
+10,Bacerac,2036,1067.2073369141556,bajo
+11,Bacoachi,2036,1392.9097510268523,bajo
+12,Bácum,2036,24629.68069271268,bajo
+13,Banámichi,2036,2680.678115932341,bajo
+14,Baviácora,2036,3030.6575280061115,bajo
+15,Bavispe,2036,970.0515791769915,bajo
+16,Benjamín Hill,2036,4604.0964494465525,bajo
+17,Caborca,2036,104481.18676563626,bajo
+18,Cajeme,2036,464252.13057341793,bajo
+19,Cananea,2036,51457.123804132316,bajo
+20,Carbó,2036,5513.995029608197,bajo
+21,La Colorada,2036,1568.5674550635222,bajo
+22,Cucurpe,2036,800.7268096212906,bajo
+23,Cumpas,2036,5445.045637461402,bajo
+24,Divisaderos,2036,894.5981921796559,bajo
+25,Empalme,2036,48554.48972152569,bajo
+26,Etchojoa,2036,61314.1850276965,bajo
+27,Fronteras,2036,10666.271954815986,bajo
+28,Granados,2036,967.3211263295864,bajo
+29,Guaymas,2036,161580.58472145852,bajo
+30,Hermosillo,2036,1148357.2479669603,bajo
+31,Huachinera,2036,1139.7081065922982,bajo
+32,Huásabas,2036,844.1575588915479,bajo
+33,Huatabampo,2036,75874.5670794845,bajo
+34,Huépac,2036,1044.8190369460956,bajo
+35,Imuris,2036,12426.536023355642,bajo
+36,Magdalena,2036,39252.94714640505,bajo
+37,Mazatán,2036,841.6735958027323,bajo
+38,Moctezuma,2036,6070.405904153286,bajo
+39,Naco,2036,5504.398788461626,bajo
+40,Nácori Chico,2036,1147.0978668812986,bajo
+41,Nacozari de García,2036,16722.025896401992,bajo
+42,Navojoa,2036,174281.07854678074,bajo
+43,Nogales,2036,343626.7294300057,bajo
+44,Onavas,2036,278.1149347407671,bajo
+45,Opodepe,2036,2112.834922096298,bajo
+46,Oquitoa,2036,1119.934087268229,bajo
+47,Pitiquito,2036,8775.542924768008,bajo
+48,Puerto Peñasco,2036,67410.02646296579,bajo
+49,Quiriego,2036,4089.27745239634,bajo
+50,Rayón,2036,1731.7357876815684,bajo
+51,Rosario,2036,4561.495833529692,bajo
+52,Sahuaripa,2036,4588.467341463362,bajo
+53,San Felipe de Jesús,2036,323.1269167555435,bajo
+54,San Javier,2036,514.2116549810506,bajo
+55,San Luis Río Colorado,2036,228379.58224471117,bajo
+56,San Miguel de Horcasitas,2036,15758.481432665512,bajo
+57,San Pedro de la Cueva,2036,1467.3149275716626,bajo
+58,Santa Ana,2036,16578.218667056168,bajo
+59,Santa Cruz,2036,2129.3514702824086,bajo
+60,Sáric,2036,4476.012666771496,bajo
+61,Soyopa,2036,1304.3686402559235,bajo
+62,Suaqui Grande,2036,1106.997502849093,bajo
+63,Tepache,2036,1099.7542199165484,bajo
+64,Trincheras,2036,1093.2131901370271,bajo
+65,Tubutama,2036,2729.170565334095,bajo
+66,Ures,2036,8553.59858074899,bajo
+67,Villa Hidalgo,2036,1262.0593402331613,bajo
+68,Villa Pesqueira,2036,796.3393437959663,bajo
+69,Yécora,2036,3897.329608446272,bajo
+70,General Plutarco Elías Calles,2036,10162.542619234027,bajo
+71,Benito Juárez,2036,21653.256672537496,bajo
+72,San Ignacio Río Muerto,2036,14412.1179553472,bajo
+1,Aconchi,2037,2447.1494098467474,bajo
+2,Agua Prieta,2037,115491.14502474846,bajo
+3,Alamos,2037,24238.825884815655,bajo
+4,Altar,2037,9733.30436683078,bajo
+5,Arivechi,2037,1288.6657783260007,bajo
+6,Arizpe,2037,3303.979812785204,bajo
+7,Atil,2037,815.8800626026062,bajo
+8,Bacadéhuachi,2037,777.3761460195575,bajo
+9,Bacanora,2037,714.0958463976921,bajo
+10,Bacerac,2037,1056.130067676886,bajo
+11,Bacoachi,2037,1385.9339692265216,bajo
+12,Bácum,2037,24681.108356154662,bajo
+13,Banámichi,2037,2734.981067261883,bajo
+14,Baviácora,2037,3017.9518871947444,bajo
+15,Bavispe,2037,953.88716718,bajo
+16,Benjamín Hill,2037,4577.589618867423,bajo
+17,Caborca,2037,105263.51228440556,bajo
+18,Cajeme,2037,465283.0187724854,bajo
+19,Cananea,2037,52180.95055083825,bajo
+20,Carbó,2037,5539.987700135106,bajo
+21,La Colorada,2037,1550.1649179449125,bajo
+22,Cucurpe,2037,794.3782851035081,bajo
+23,Cumpas,2037,5416.513070971675,bajo
+24,Divisaderos,2037,901.9076714874022,bajo
+25,Empalme,2037,48244.72667031604,bajo
+26,Etchojoa,2037,61203.67895300469,bajo
+27,Fronteras,2037,10749.920708918353,bajo
+28,Granados,2037,963.0993590888586,bajo
+29,Guaymas,2037,161629.90992085036,bajo
+30,Hermosillo,2037,1159882.4028349745,bajo
+31,Huachinera,2037,1135.5034239957492,bajo
+32,Huásabas,2037,841.6709433027828,bajo
+33,Huatabampo,2037,75648.96840871114,bajo
+34,Huépac,2037,1049.278335272735,bajo
+35,Imuris,2037,12403.835546894274,bajo
+36,Magdalena,2037,39596.19896464165,bajo
+37,Mazatán,2037,828.2872475788979,bajo
+38,Moctezuma,2037,6116.075185316169,bajo
+39,Naco,2037,5476.399663345088,bajo
+40,Nácori Chico,2037,1120.8315805657178,bajo
+41,Nacozari de García,2037,16840.356557627852,bajo
+42,Navojoa,2037,174621.77544841974,bajo
+43,Nogales,2037,348783.10325590917,bajo
+44,Onavas,2037,272.4335397447094,bajo
+45,Opodepe,2037,2092.499475522249,bajo
+46,Oquitoa,2037,1170.5011615189878,bajo
+47,Pitiquito,2037,8741.923521657074,bajo
+48,Puerto Peñasco,2037,67590.71970899071,bajo
+49,Quiriego,2037,4147.750727273052,bajo
+50,Rayón,2037,1743.2490133847232,bajo
+51,Rosario,2037,4540.926655829755,bajo
+52,Sahuaripa,2037,4548.00751921191,bajo
+53,San Felipe de Jesús,2037,319.88753145075407,bajo
+54,San Javier,2037,512.1885698658543,bajo
+55,San Luis Río Colorado,2037,229817.11382360538,bajo
+56,San Miguel de Horcasitas,2037,16103.492121883026,bajo
+57,San Pedro de la Cueva,2037,1465.9871583135873,bajo
+58,Santa Ana,2037,16581.60633206868,bajo
+59,Santa Cruz,2037,2144.066639569148,bajo
+60,Sáric,2037,4668.007087261553,bajo
+61,Soyopa,2037,1299.0786277353,bajo
+62,Suaqui Grande,2037,1105.1076862470306,bajo
+63,Tepache,2037,1094.0925491023484,bajo
+64,Trincheras,2037,1076.50770935739,bajo
+65,Tubutama,2037,2820.7862371645483,bajo
+66,Ures,2037,8542.467671020202,bajo
+67,Villa Hidalgo,2037,1251.6859786934053,bajo
+68,Villa Pesqueira,2037,783.2943123387961,bajo
+69,Yécora,2037,3828.36965563053,bajo
+70,General Plutarco Elías Calles,2037,9951.09823700043,bajo
+71,Benito Juárez,2037,21628.003073183154,bajo
+72,San Ignacio Río Muerto,2037,14398.119691752981,bajo
+1,Aconchi,2038,2434.5910006625863,bajo
+2,Agua Prieta,2038,116914.69163635561,bajo
+3,Alamos,2038,24170.175422015313,bajo
+4,Altar,2038,9733.82991513674,bajo
+5,Arivechi,2038,1293.4165008122545,bajo
+6,Arizpe,2038,3329.460801815349,bajo
+7,Atil,2038,826.067564928801,bajo
+8,Bacadéhuachi,2038,767.1682358432033,bajo
+9,Bacanora,2038,710.554043850865,bajo
+10,Bacerac,2038,1045.167776934901,bajo
+11,Bacoachi,2038,1378.9931225910068,bajo
+12,Bácum,2038,24732.64340241659,bajo
+13,Banámichi,2038,2790.3840426881534,bajo
+14,Baviácora,2038,3005.2995131437865,bajo
+15,Bavispe,2038,937.9921101542466,bajo
+16,Benjamín Hill,2038,4551.235394141596,bajo
+17,Caborca,2038,106051.69563496512,bajo
+18,Cajeme,2038,466316.19609508937,bajo
+19,Cananea,2038,52914.95907842337,bajo
+20,Carbó,2038,5566.102898687068,bajo
+21,La Colorada,2038,1531.9782806088135,bajo
+22,Cucurpe,2038,788.0800945611445,bajo
+23,Cumpas,2038,5388.1300178937145,bajo
+24,Divisaderos,2038,909.276874242186,bajo
+25,Empalme,2038,47936.9398142728,bajo
+26,Etchojoa,2038,61093.37204254442,bajo
+27,Fronteras,2038,10834.225466739035,bajo
+28,Granados,2038,958.8960172894344,bajo
+29,Guaymas,2038,161679.25017759143,bajo
+30,Hermosillo,2038,1171523.2265812638,bajo
+31,Huachinera,2038,1131.3142535778325,bajo
+32,Huásabas,2038,839.1916524806103,bajo
+33,Huatabampo,2038,75424.04051290509,bajo
+34,Huépac,2038,1053.7566659302015,bajo
+35,Imuris,2038,12381.176539079564,bajo
+36,Magdalena,2038,39942.45238707075,bajo
+37,Mazatán,2038,815.1138017434281,bajo
+38,Moctezuma,2038,6162.088048650469,bajo
+39,Naco,2038,5448.542960868591,bajo
+40,Nácori Chico,2038,1095.1667405754515,bajo
+41,Nacozari de García,2038,16959.52456628236,bajo
+42,Navojoa,2038,174963.13836830776,bajo
+43,Nogales,2038,354016.85229379503,bajo
+44,Onavas,2038,266.8682055748397,bajo
+45,Opodepe,2038,2072.35975194721,bajo
+46,Oquitoa,2038,1223.3514317429306,bajo
+47,Pitiquito,2038,8708.432915621746,bajo
+48,Puerto Peñasco,2038,67771.89730505776,bajo
+49,Quiriego,2038,4207.060121467814,bajo
+50,Rayón,2038,1754.8387833084428,bajo
+51,Rosario,2038,4520.450230833468,bajo
+52,Sahuaripa,2038,4507.904460362004,bajo
+53,San Felipe de Jesús,2038,316.6806213642419,bajo
+54,San Javier,2038,510.17344426177306,bajo
+55,San Luis Río Colorado,2038,231263.69392172358,bajo
+56,San Miguel de Horcasitas,2038,16456.056354643613,bajo
+57,San Pedro de la Cueva,2038,1464.6605905502759,bajo
+58,Santa Ana,2038,16584.994689331343,bajo
+59,Santa Cruz,2038,2158.8835000093486,bajo
+60,Sáric,2038,4868.236930714768,bajo
+61,Soyopa,2038,1293.8100694505456,bajo
+62,Suaqui Grande,2038,1103.2210958553076,bajo
+63,Tepache,2038,1088.4600252701082,bajo
+64,Trincheras,2038,1060.0575064051675,bajo
+65,Tubutama,2038,2915.477360354311,bajo
+66,Ures,2038,8531.351246089855,bajo
+67,Villa Hidalgo,2038,1241.3978798875037,bajo
+68,Villa Pesqueira,2038,770.4629747635676,bajo
+69,Yécora,2038,3760.6298908845997,bajo
+70,General Plutarco Elías Calles,2038,9744.053219025687,bajo
+71,Benito Juárez,2038,21602.778926409082,bajo
+72,San Ignacio Río Muerto,2038,14384.135024452122,bajo
+1,Aconchi,2039,2422.0970393787466,bajo
+2,Agua Prieta,2039,118355.784917493,bajo
+3,Alamos,2039,24101.71939462472,bajo
+4,Altar,2039,9734.355491819599,bajo
+5,Arivechi,2039,1298.1847370437483,bajo
+6,Arizpe,2039,3355.1383056060986,bajo
+7,Atil,2039,836.3822737016334,bajo
+8,Bacadéhuachi,2039,757.0943681515614,bajo
+9,Bacanora,2039,707.0298080849456,bajo
+10,Bacerac,2039,1034.3192712483649,bajo
+11,Bacoachi,2039,1372.087036162751,bajo
+12,Bácum,2039,24784.28605571767,bajo
+13,Banámichi,2039,2846.909325585882,bajo
+14,Baviácora,2039,2992.700182539215,bajo
+15,Bavispe,2039,922.3619197149666,bajo
+16,Benjamín Hill,2039,4525.032896682459,bajo
+17,Caborca,2039,106845.78067909935,bajo
+18,Cajeme,2039,467351.6676243093,bajo
+19,Cananea,2039,53659.29260992046,bajo
+20,Carbó,2039,5592.34120285448,bajo
+21,La Colorada,2039,1514.0050101046988,bajo
+22,Cucurpe,2039,781.8318389236642,bajo
+23,Cumpas,2039,5359.895694762766,bajo
+24,Divisaderos,2039,916.7062884254318,bajo
+25,Empalme,2039,47631.116545864745,bajo
+26,Etchojoa,2039,60983.26393736356,bajo
+27,Fronteras,2039,10919.191372895935,bajo
+28,Granados,2039,954.7110205154906,bajo
+29,Guaymas,2039,161728.60549627824,bajo
+30,Hermosillo,2039,1183280.8800830191,bajo
+31,Huachinera,2039,1127.1405381100456,bajo
+32,Huásabas,2039,836.7196648486333,bajo
+33,Huatabampo,2039,75199.78139764394,bajo
+34,Huépac,2039,1058.2541101486784,bajo
+35,Imuris,2039,12358.558924157658,bajo
+36,Magdalena,2039,40291.73366155835,bajo
+37,Mazatán,2039,802.1498722028033,bajo
+38,Moctezuma,2039,6208.447079016415,bajo
+39,Naco,2039,5420.827956573483,bajo
+40,Nácori Chico,2039,1070.0895749719061,bajo
+41,Nacozari de García,2039,17079.535847716645,bajo
+42,Navojoa,2039,175305.16860842422,bajo
+43,Nogales,2039,359329.13761608186,bajo
+44,Onavas,2039,261.41656131426436,bajo
+45,Opodepe,2039,2052.413867591929,bajo
+46,Oquitoa,2039,1278.5879884179851,bajo
+47,Pitiquito,2039,8675.070613236046,bajo
+48,Puerto Peñasco,2039,67953.5605494721,bajo
+49,Quiriego,2039,4267.217590793179,bajo
+50,Rayón,2039,1766.5056063472673,bajo
+51,Rosario,2039,4500.066140290566,bajo
+52,Sahuaripa,2039,4468.155019073705,bajo
+53,San Felipe de Jesús,2039,313.5058609281282,bajo
+54,San Javier,2039,508.1662468533587,bajo
+55,San Luis Río Colorado,2039,232719.37949482352,bajo
+56,San Miguel de Horcasitas,2039,16816.339505591714,bajo
+57,San Pedro de la Cueva,2039,1463.3352231944993,bajo
+58,Santa Ana,2039,16588.3837389856,bajo
+59,Santa Cruz,2039,2173.8027543533826,bajo
+60,Sáric,2039,5077.055447976706,bajo
+61,Soyopa,2039,1288.5628783916136,bajo
+62,Suaqui Grande,2039,1101.3377261662822,bajo
+63,Tepache,2039,1082.856498367558,bajo
+64,Trincheras,2039,1043.8586803588573,bajo
+65,Tubutama,2039,3013.3471748936,bajo
+66,Ures,2039,8520.24928710869,bajo
+67,Villa Hidalgo,2039,1231.1943430075496,bajo
+68,Villa Pesqueira,2039,757.841830498026,bajo
+69,Yécora,2039,3694.0887240120715,bajo
+70,General Plutarco Elías Calles,2039,9541.316031045906,bajo
+71,Benito Juárez,2039,21577.584197865555,bajo
+72,San Ignacio Río Muerto,2039,14370.163940238755,bajo
+1,Aconchi,2040,2409.667195258126,bajo
+2,Agua Prieta,2040,119814.64114882829,bajo
+3,Alamos,2040,24033.457251953798,bajo
+4,Altar,2040,9734.881096880894,bajo
+5,Arivechi,2040,1302.9705515856667,bajo
+6,Arizpe,2040,3381.013839720727,bajo
+7,Atil,2040,846.8257772868825,bajo
+8,Bacadéhuachi,2040,747.1527828010375,bajo
+9,Bacanora,2040,703.5230519714767,bajo
+10,Bacerac,2040,1023.5833695649638,bajo
+11,Bacoachi,2040,1365.2155358603964,bajo
+12,Bácum,2040,24836.03654074529,bajo
+13,Banámichi,2040,2904.5796507279,bajo
+14,Baviácora,2040,2980.1536730032226,bajo
+15,Bavispe,2040,906.992182269399,bajo
+16,Benjamín Hill,2040,4498.981252961623,bajo
+17,Caborca,2040,107645.81160701737,bajo
+18,Cajeme,2040,468389.4384545117,bajo
+19,Cananea,2040,54414.09638302333,bajo
+20,Carbó,2040,5618.703192950467,bajo
+21,La Colorada,2040,1496.2426031987843,bajo
+22,Cucurpe,2040,775.633122284543,bajo
+23,Cumpas,2040,5331.8093222195,bajo
+24,Divisaderos,2040,924.1964060057063,bajo
+25,Empalme,2040,47327.24433799293,bajo
+26,Etchojoa,2040,60873.35427915692,bajo
+27,Fronteras,2040,11004.823612352915,bajo
+28,Granados,2040,950.5442887021705,bajo
+29,Guaymas,2040,161777.97588150873,bajo
+30,Hermosillo,2040,1195156.5358682377,bajo
+31,Huachinera,2040,1122.982220575018,bajo
+32,Huásabas,2040,834.2549588940117,bajo
+33,Huatabampo,2040,74976.18907443523,bajo
+34,Huépac,2040,1062.7707495050383,bajo
+35,Imuris,2040,12335.982626513085,bajo
+36,Magdalena,2040,40644.06926549786,bajo
+37,Mazatán,2040,789.392126717429,bajo
+38,Moctezuma,2040,6255.1548807208255,bajo
+39,Naco,2040,5393.253929686207,bajo
+40,Nácori Chico,2040,1045.5866271668092,bajo
+41,Nacozari de García,2040,17200.396369211587,bajo
+42,Navojoa,2040,175647.86747329356,bajo
+43,Nogales,2040,364721.1377179408,bajo
+44,Onavas,2040,256.076284479718,bajo
+45,Opodepe,2040,2032.6599568080035,bajo
+46,Oquitoa,2040,1336.318576745882,bajo
+47,Pitiquito,2040,8641.836122964336,bajo
+48,Puerto Peñasco,2040,68135.7107440189,bajo
+49,Quiriego,2040,4328.235262019908,bajo
+50,Rayón,2040,1778.2499947790575,bajo
+51,Rosario,2040,4479.7739678368025,bajo
+52,Sahuaripa,2040,4428.756077246216,bajo
+53,San Felipe de Jesús,2040,310.3629278383905,bajo
+54,San Javier,2040,506.16694644836866,bajo
+55,San Luis Río Colorado,2040,234184.22785716967,bajo
+56,San Miguel de Horcasitas,2040,17184.510570026476,bajo
+57,San Pedro de la Cueva,2040,1462.0110551600117,bajo
+58,Santa Ana,2040,16591.773481172946,bajo
+59,Santa Cruz,2040,2188.825110208073,bajo
+60,Sáric,2040,5294.8310422609975,bajo
+61,Soyopa,2040,1283.3369679013363,bajo
+62,Suaqui Grande,2040,1099.4575716817146,bajo
+63,Tepache,2040,1077.2818191149158,bajo
+64,Trincheras,2040,1027.9073899072607,bajo
+65,Tubutama,2040,3114.5023864413542,bajo
+66,Ures,2040,8509.161775251981,bajo
+67,Villa Hidalgo,2040,1221.0746730058522,bajo
+68,Villa Pesqueira,2040,745.4274363136553,bajo
+69,Yécora,2040,3628.7249468368086,bajo
+70,General Plutarco Elías Calles,2040,9342.79704328179,bajo
+71,Benito Juárez,2040,21552.418853242885,bajo
+72,San Ignacio Río Muerto,2040,14356.206425919843,bajo
+1,Aconchi,2026,2580.736314359041,alto
+2,Agua Prieta,2026,101750.21538828856,alto
+3,Alamos,2026,24959.621307739344,alto
+4,Altar,2026,9727.875346504365,alto
+5,Arivechi,2026,1240.5758469522898,alto
+6,Arizpe,2026,3051.728152257839,alto
+7,Atil,2026,717.6300387021536,alto
+8,Bacadéhuachi,2026,891.0624056143329,alto
+9,Bacanora,2026,751.7340663160788,alto
+10,Bacerac,2026,1176.2925410424439,alto
+11,Bacoachi,2026,1459.7135485596284,alto
+12,Bácum,2026,24154.768529939993,alto
+13,Banámichi,2026,2222.588191189768,alto
+14,Baviácora,2026,3151.82235727032,alto
+15,Bavispe,2026,1134.5895776997525,alto
+16,Benjamín Hill,2026,4858.925070007732,alto
+17,Caborca,2026,97451.15454135058,alto
+18,Cajeme,2026,454738.73353366926,alto
+19,Cananea,2026,45162.55149702954,alto
+20,Carbó,2026,5277.137028642,alto
+21,La Colorada,2026,1751.0775498074815,alto
+22,Cucurpe,2026,862.4508874481876,alto
+23,Cumpas,2026,5718.616468792971,alto
+24,Divisaderos,2026,829.1393661161787,alto
+25,Empalme,2026,51542.071962710674,alto
+26,Etchojoa,2026,62355.13206953856,alto
+27,Fronteras,2026,9915.935047444,alto
+28,Granados,2026,1007.6169058845396,alto
+29,Guaymas,2026,161120.93311919822,alto
+30,Hermosillo,2026,1046104.3276423259,alto
+31,Huachinera,2026,1179.7014086425072,alto
+32,Huásabas,2026,867.7189492834917,alto
+33,Huatabampo,2026,78012.48243150709,alto
+34,Huépac,2026,1004.0920103138213,alto
+35,Imuris,2026,12640.397214730267,alto
+36,Magdalena,2026,36187.83807344022,alto
+37,Mazatán,2026,977.3865683725222,alto
+38,Moctezuma,2026,5660.091765891592,alto
+39,Naco,2026,5772.642230970439,alto
+40,Nácori Chico,2026,1423.5181820293014,alto
+41,Nacozari de García,2026,15656.498685979888,alto
+42,Navojoa,2026,171132.75984759265,alto
+43,Nogales,2026,298993.2412382827,alto
+44,Onavas,2026,337.11758134292984,alto
+45,Opodepe,2026,2312.303176213438,alto
+46,Oquitoa,2026,740.8493521997611,alto
+47,Pitiquito,2026,9095.551191625063,alto
+48,Puerto Peñasco,2026,65746.41682941168,alto
+49,Quiriego,2026,3581.3641631069722,alto
+50,Rayón,2026,1627.8398012694684,alto
+51,Rosario,2026,4757.970650019135,alto
+52,Sahuaripa,2026,4983.666616715865,alto
+53,San Felipe de Jesús,2026,354.9682209766011,alto
+54,San Javier,2026,533.4787628585209,alto
+55,San Luis Río Colorado,2026,215384.09438554378,alto
+56,San Miguel de Horcasitas,2026,12871.12559218874,alto
+57,San Pedro de la Cueva,2026,1479.7649037668596,alto
+58,Santa Ana,2026,16546.63343264813,alto
+59,Santa Cruz,2026,1996.7359868152496,alto
+60,Sáric,2026,3021.6021498335353,alto
+61,Soyopa,2026,1354.7802430802656,alto
+62,Suaqui Grande,2026,1124.7905481243333,alto
+63,Tepache,2026,1154.0126399329645,alto
+64,Trincheras,2026,1262.0183306043623,alto
+65,Tubutama,2026,2004.1901048758818,alto
+66,Ures,2026,8658.180843983399,alto
+67,Villa Hidalgo,2026,1363.0679984280107,alto
+68,Villa Pesqueira,2026,928.9265152503682,alto
+69,Yécora,2026,4603.127707487958,alto
+70,General Plutarco Elías Calles,2026,12362.890636046719,alto
+71,Benito Juárez,2026,21890.366906126004,alto
+72,San Ignacio Río Muerto,2026,14543.418836517905,alto
+1,Aconchi,2027,2558.6630519598493,alto
+2,Agua Prieta,2027,103840.50802955925,alto
+3,Alamos,2027,24841.801412622855,alto
+4,Altar,2027,9728.750771782401,alto
+5,Arivechi,2027,1248.198241720512,alto
+6,Arizpe,2027,3090.9541039771143,alto
+7,Atil,2027,732.5645411773178,alto
+8,Bacadéhuachi,2027,871.5611533470932,alto
+9,Bacanora,2027,745.5199293668956,alto
+10,Bacerac,2027,1155.9433100351625,alto
+11,Bacoachi,2027,1447.5296493536298,alto
+12,Bácum,2027,24238.828579410056,alto
+13,Banámichi,2027,2297.6271012168395,alto
+14,Baviácora,2027,3129.7996760519964,alto
+15,Bavispe,2027,1103.0792714866345,alto
+16,Benjamín Hill,2027,4812.301841816071,alto
+17,Caborca,2027,98667.29892407474,alto
+18,Cajeme,2027,456421.6724770682,alto
+19,Cananea,2027,46221.35736316727,alto
+20,Carbó,2027,5318.597253450059,alto
+21,La Colorada,2027,1716.8379537736687,alto
+22,Cucurpe,2027,851.054385881197,alto
+23,Cumpas,2027,5668.672961891177,alto
+24,Divisaderos,2027,840.4304259700962,alto
+25,Empalme,2027,50994.03374940966,alto
+26,Etchojoa,2027,62167.82846057266,alto
+27,Fronteras,2027,10045.542282910528,alto
+28,Granados,2027,1000.2875162801311,alto
+29,Guaymas,2027,161202.90792417453,alto
+30,Hermosillo,2027,1063602.5327312658,alto
+31,Huachinera,2027,1172.4476946530037,alto
+32,Huásabas,2027,863.4589162220719,alto
+33,Huatabampo,2027,77625.89016882697,alto
+34,Huépac,2027,1011.2344685817966,alto
+35,Imuris,2027,12601.911960419648,alto
+36,Magdalena,2027,36715.252451203596,alto
+37,Mazatán,2027,951.4785896763098,alto
+38,Moctezuma,2027,5731.0623968361015,alto
+39,Naco,2027,5723.702907382923,alto
+40,Nácori Chico,2027,1369.1919017351402,alto
+41,Nacozari de García,2027,15841.149741766189,alto
+42,Navojoa,2027,171690.33042587113,alto
+43,Nogales,2027,306470.9333151887,alto
+44,Onavas,2027,325.6397239269539,alto
+45,Opodepe,2027,2275.211054777342,alto
+46,Oquitoa,2027,796.6005263495003,alto
+47,Pitiquito,2027,9037.475582201456,alto
+48,Puerto Peñasco,2027,66040.14003585339,alto
+49,Quiriego,2027,3666.715056828732,alto
+50,Rayón,2027,1645.8772786316908,alto
+51,Rosario,2027,4722.212078941074,alto
+52,Sahuaripa,2027,4910.425651753291,alto
+53,San Felipe de Jesús,2027,349.0372241088452,alto
+54,San Javier,2027,529.9806153092328,alto
+55,San Luis Río Colorado,2027,217643.64720420004,alto
+56,San Miguel de Horcasitas,2027,13340.785473497821,alto
+57,San Pedro de la Cueva,2027,1477.533178421149,alto
+58,Santa Ana,2027,16552.268783896307,alto
+59,Santa Cruz,2027,2019.73384044735,alto
+60,Sáric,2027,3237.6168623683134,alto
+61,Soyopa,2027,1345.6228057482576,alto
+62,Suaqui Grande,2027,1121.5902279697145,alto
+63,Tepache,2027,1144.1109734751287,alto
+64,Trincheras,2027,1229.8766538852676,alto
+65,Tubutama,2027,2116.321378547101,alto
+66,Ures,2027,8639.40250398998,alto
+67,Villa Hidalgo,2027,1344.395346120509,alto
+68,Villa Pesqueira,2027,903.5648908221912,alto
+69,Yécora,2027,4467.380284934293,alto
+70,General Plutarco Elías Calles,2027,11934.181688049632,alto
+71,Benito Juárez,2027,21847.816681932094,alto
+72,San Ignacio Río Muerto,2027,14519.875846391418,alto
+1,Aconchi,2028,2536.7785840958577,alto
+2,Agua Prieta,2028,105973.74233252053,alto
+3,Alamos,2028,24724.537676893324,alto
+4,Altar,2028,9729.6262758412,alto
+5,Arivechi,2028,1255.8674703055826,alto
+6,Arizpe,2028,3130.6842537151897,alto
+7,Atil,2028,747.8098435802331,alto
+8,Bacadéhuachi,2028,852.4866936788841,alto
+9,Bacanora,2028,739.3571609797524,alto
+10,Bacerac,2028,1135.9461098264617,alto
+11,Bacoachi,2028,1435.4474464016723,alto
+12,Bácum,2028,24323.181162915716,alto
+13,Banámichi,2028,2375.19947112657,alto
+14,Baviácora,2028,3107.9308735847785,alto
+15,Bavispe,2028,1072.4440829523319,alto
+16,Benjamín Hill,2028,4766.125981174988,alto
+17,Caborca,2028,99898.62021431317,alto
+18,Cajeme,2028,458110.83979574795,alto
+19,Cananea,2028,47304.98622590299,alto
+20,Carbó,2028,5360.3832136392175,alto
+21,La Colorada,2028,1683.2678597483125,alto
+22,Cucurpe,2028,839.8084786841083,alto
+23,Cumpas,2028,5619.1656363446555,alto
+24,Divisaderos,2028,851.8752452977941,alto
+25,Empalme,2028,50451.82273458556,alto
+26,Etchojoa,2028,61981.08747798196,alto
+27,Fronteras,2028,10176.843562902852,alto
+28,Granados,2028,993.0114405410017,alto
+29,Guaymas,2028,161284.92443613778,alto
+30,Hermosillo,2028,1081393.4305978222,alto
+31,Huachinera,2028,1165.2385820908244,alto
+32,Huásabas,2028,859.2197976303656,alto
+33,Huatabampo,2028,77241.21367107196,alto
+34,Huépac,2028,1018.4277336578987,alto
+35,Imuris,2028,12563.543879230581,alto
+36,Magdalena,2028,37250.35355303451,alto
+37,Mazatán,2028,926.257364186908,alto
+38,Moctezuma,2028,5802.922912726825,alto
+39,Naco,2028,5675.178481739427,alto
+40,Nácori Chico,2028,1316.9388964913842,alto
+41,Nacozari de García,2028,16027.9785521761,alto
+42,Navojoa,2028,172249.71763440815,alto
+43,Nogales,2028,314135.63924754324,alto
+44,Onavas,2028,314.5526536373469,alto
+45,Opodepe,2028,2238.713935539393,alto
+46,Oquitoa,2028,856.5471464557564,alto
+47,Pitiquito,2028,8979.770788832735,alto
+48,Puerto Peñasco,2028,66335.17545558614,alto
+49,Quiriego,2028,3754.1000288310943,alto
+50,Rayón,2028,1664.114622460711,alto
+51,Rosario,2028,4686.7222517245455,alto
+52,Sahuaripa,2028,4838.261050713349,alto
+53,San Felipe de Jesús,2028,343.2053254751469,alto
+54,San Javier,2028,526.5054059481699,alto
+55,San Luis Río Colorado,2028,219926.90455384715,alto
+56,San Miguel de Horcasitas,2028,13827.582970513575,alto
+57,San Pedro de la Cueva,2028,1475.304818879024,alto
+58,Santa Ana,2028,16557.906054397954,alto
+59,Santa Cruz,2028,2042.9965770059741,alto
+60,Sáric,2028,3469.074493499788,alto
+61,Soyopa,2028,1336.5272667639103,alto
+62,Suaqui Grande,2028,1118.3990135540346,alto
+63,Tepache,2028,1134.2942653576522,alto
+64,Trincheras,2028,1198.5535765139496,alto
+65,Tubutama,2028,2234.7262200323426,alto
+66,Ures,2028,8620.664891495706,alto
+67,Villa Hidalgo,2028,1325.9784902550032,alto
+68,Villa Pesqueira,2028,878.895691449254,alto
+69,Yécora,2028,4335.6360888607405,alto
+70,General Plutarco Elías Calles,2028,11520.33911455212,alto
+71,Benito Juárez,2028,21805.349166337208,alto
+72,San Ignacio Río Muerto,2028,14496.370967825243,alto
+1,Aconchi,2029,2515.0812959909686,alto
+2,Agua Prieta,2029,108150.80046375154,alto
+3,Alamos,2029,24607.827475244867,alto
+4,Altar,2029,9730.501858687845,alto
+5,Arivechi,2029,1263.5838204656757,alto
+6,Arizpe,2029,3170.9250822744666,alto
+7,Atil,2029,763.3724139265065,alto
+8,Bacadéhuachi,2029,833.8296860853078,alto
+9,Bacanora,2029,733.2453365213996,alto
+10,Bacerac,2029,1116.2948504720532,alto
+11,Bacoachi,2029,1423.4660908680994,alto
+12,Bácum,2029,24407.827298493034,alto
+13,Banámichi,2029,2455.3908354633013,alto
+14,Baviácora,2029,3086.21487467397,alto
+15,Bavispe,2029,1042.6597079549997,alto
+16,Benjamín Hill,2029,4720.393195423227,alto
+17,Caborca,2029,101145.3078127036,alto
+18,Cajeme,2029,459806.2585402529,alto
+19,Cananea,2029,48414.02004381837,alto
+20,Carbó,2029,5402.497468374047,alto
+21,La Colorada,2029,1650.3541766616788,alto
+22,Cucurpe,2029,828.7111758897272,alto
+23,Cumpas,2029,5570.090682765832,alto
+24,Divisaderos,2029,863.475917966109,alto
+25,Empalme,2029,49915.37695861355,alto
+26,Etchojoa,2029,61794.90743173796,alto
+27,Fronteras,2029,10309.861029601887,alto
+28,Granados,2029,985.7882908629296,alto
+29,Guaymas,2029,161366.98267630755,alto
+30,Hermosillo,2029,1099481.917119123,alto
+31,Huachinera,2029,1158.0737967119994,alto
+32,Huásabas,2029,855.0014908295817,alto
+33,Huatabampo,2029,76858.44344463447,alto
+34,Huépac,2029,1025.672166948755,alto
+35,Imuris,2029,12525.292614414997,alto
+36,Magdalena,2029,37793.25340797386,alto
+37,Mazatán,2029,901.7046878609757,alto
+38,Moctezuma,2029,5875.684471633052,alto
+39,Naco,2029,5627.065436616923,alto
+40,Nácori Chico,2029,1266.6800430926282,alto
+41,Nacozari de García,2029,16217.010801412624,alto
+42,Navojoa,2029,172810.92739199783,alto
+43,Nogales,2029,321992.03617125534,alto
+44,Onavas,2029,303.84306532728573,alto
+45,Opodepe,2029,2202.8022739493717,alto
+46,Oquitoa,2029,921.0049326274327,alto
+47,Pitiquito,2029,8922.434443837397,alto
+48,Puerto Peñasco,2029,66631.52895094456,alto
+49,Quiriego,2029,3843.5675551671047,alto
+50,Rayón,2029,1682.5540474012794,alto
+51,Rosario,2029,4651.499148622649,alto
+52,Sahuaripa,2029,4767.156995135773,alto
+53,San Felipe de Jesús,2029,337.4708692897735,alto
+54,San Javier,2029,523.0529843641583,alto
+55,San Luis Río Colorado,2029,222234.11511412862,alto
+56,San Miguel de Horcasitas,2029,14332.143424858308,alto
+57,San Pedro de la Cueva,2029,1473.079820064307,alto
+58,Santa Ana,2029,16563.54524480673,alto
+59,Santa Cruz,2029,2066.5272473395144,alto
+60,Sáric,2029,3717.0790593941992,alto
+61,Soyopa,2029,1327.493207734467,alto
+62,Suaqui Grande,2029,1115.2168789691102,alto
+63,Tepache,2029,1124.5617866204525,alto
+64,Trincheras,2029,1168.028250017006,alto
+65,Tubutama,2029,2359.755625550845,alto
+66,Ures,2029,8601.967918168531,alto
+67,Villa Hidalgo,2029,1307.8139266790758,alto
+68,Villa Pesqueira,2029,854.9000124885009,alto
+69,Yécora,2029,4207.77706308657,alto
+70,General Plutarco Elías Calles,2029,11120.847393095897,alto
+71,Benito Juárez,2029,21762.964198573394,alto
+72,San Ignacio Río Muerto,2029,14472.904139124112,alto
+1,Aconchi,2030,2493.5695866804044,alto
+2,Agua Prieta,2030,110372.58271250867,alto
+3,Alamos,2030,24491.66819476416,alto
+4,Altar,2030,9731.377520329432,alto
+5,Arivechi,2030,1271.34758172702,alto
+6,Arizpe,2030,3211.6831537595403,alto
+7,Atil,2030,779.2588548367498,alto
+8,Bacadéhuachi,2030,815.5809944630279,alto
+9,Bacanora,2030,727.1840348687776,alto
+10,Bacerac,2030,1096.983547380423,alto
+11,Bacoachi,2030,1411.5847410022934,alto
+12,Bácum,2030,24492.768007720904,alto
+13,Banámichi,2030,2538.2896165843317,alto
+14,Baviácora,2030,3064.6506116375667,alto
+15,Bavispe,2030,1013.702517337798,alto
+16,Benjamín Hill,2030,4675.099233089242,alto
+17,Caborca,2030,102407.55348351432,alto
+18,Cajeme,2030,461507.9518464349,alto
+19,Cananea,2030,49549.05441912544,alto
+20,Carbó,2030,5444.942596925391,alto
+21,La Colorada,2030,1618.0840694195274,alto
+22,Cucurpe,2030,817.7605138264602,alto
+23,Cumpas,2030,5521.444325036397,alto
+24,Divisaderos,2030,875.2345663557521,alto
+25,Empalme,2030,49384.6351206751,alto
+26,Etchojoa,2030,61609.28663688871,alto
+27,Fronteras,2030,10444.617114600165,alto
+28,Granados,2030,978.617682262575,alto
+29,Guaymas,2030,161449.08266591423,alto
+30,Hermosillo,2030,1117872.970065717,alto
+31,Huachinera,2030,1150.9530659588224,alto
+32,Huásabas,2030,850.803893645027,alto
+33,Huatabampo,2030,76477.57004295262,alto
+34,Huépac,2030,1032.968132431804,alto
+35,Imuris,2030,12487.15781031098,alto
+36,Magdalena,2030,38344.06567781347,alto
+37,Mazatán,2030,877.8028391970671,alto
+38,Moctezuma,2030,5949.358371532618,alto
+39,Naco,2030,5579.360284412395,alto
+40,Nácori Chico,2030,1218.3392379432537,alto
+41,Nacozari de García,2030,16408.272476595477,alto
+42,Navojoa,2030,173373.96563671855,alto
+43,Nogales,2030,330044.91819538694,alto
+44,Onavas,2030,293.49810685087795,alto
+45,Opodepe,2030,2167.466678563113,alto
+46,Oquitoa,2030,990.3133638749174,alto
+47,Pitiquito,2030,8865.46419465171,alto
+48,Puerto Peñasco,2030,66929.20641045333,alto
+49,Quiriego,2030,3935.1672671687106,alto
+50,Rayón,2030,1701.1977926377879,alto
+51,Rosario,2030,4616.540765067909,alto
+52,Sahuaripa,2030,4697.097899031566,alto
+53,San Felipe de Jesús,2030,331.83222743273683,alto
+54,San Javier,2030,519.6232011323062,alto
+55,San Luis Río Colorado,2030,224565.53017353805,alto
+56,San Miguel de Horcasitas,2030,14855.114996506149,alto
+57,San Pedro de la Cueva,2030,1470.8581769084763,alto
+58,Santa Ana,2030,16569.186355776492,alto
+59,Santa Cruz,2030,2090.3289374351903,alto
+60,Sáric,2030,3982.8135024704707,alto
+61,Soyopa,2030,1318.5202130952366,alto
+62,Suaqui Grande,2030,1112.043798380473,alto
+63,Tepache,2030,1114.912814558075,alto
+64,Trincheras,2030,1138.2803568997656,alto
+65,Tubutama,2030,2491.780229006428,alto
+66,Ures,2030,8583.311495867987,alto
+67,Villa Hidalgo,2030,1289.8981992436504,alto
+68,Villa Pesqueira,2030,831.5594654329209,alto
+69,Yécora,2030,4083.688632938245,alto
+70,General Plutarco Elías Calles,2030,10735.208878036216,alto
+71,Benito Juárez,2030,21720.661618185208,alto
+72,San Ignacio Río Muerto,2030,14449.475298692629,alto
+1,Aconchi,2031,2472.2418688925795,alto
+2,Agua Prieta,2031,112640.00786302635,alto
+3,Alamos,2031,24376.0572348719,alto
+4,Altar,2031,9732.25326077305,alto
+5,Arivechi,2031,1279.1590453947636,alto
+6,Arizpe,2031,3252.9651166479366,alto
+7,Atil,2031,795.4759063378274,alto
+8,Bacadéhuachi,2031,797.7316826559336,alto
+9,Bacanora,2031,721.1728383799992,alto
+10,Bacerac,2031,1078.0063194902857,alto
+11,Bacoachi,2031,1399.8025620795393,alto
+12,Bácum,2031,24578.00431573337,alto
+13,Banámichi,2031,2623.9872221581113,alto
+14,Baviácora,2031,3043.237024253763,alto
+15,Bavispe,2031,985.5495381829204,alto
+16,Benjamín Hill,2031,4630.239883495972,alto
+17,Caborca,2031,103685.55138414109,alto
+18,Cajeme,2031,463215.9429357692,alto
+19,Cananea,2031,50710.69891753244,alto
+20,Carbó,2031,5487.721198828324,alto
+21,La Colorada,2031,1586.4449538979086,alto
+22,Cucurpe,2031,806.9545547708425,alto
+23,Cumpas,2031,5473.22282001675,alto
+24,Divisaderos,2031,887.153341749605,alto
+25,Empalme,2031,48859.536571753015,alto
+26,Etchojoa,2031,61424.223413543514,alto
+27,Fronteras,2031,10581.134542684636,alto
+28,Granados,2031,971.4992325569609,alto
+29,Guaymas,2031,161531.22442619907,alto
+30,Hermosillo,2031,1136571.6504714058,alto
+31,Huachinera,2031,1143.8761189494821,alto
+32,Huásabas,2031,846.6269044036312,alto
+33,Huatabampo,2031,76098.58406627714,alto
+34,Huépac,2031,1040.3159966735843,alto
+35,Imuris,2031,12449.139112339477,alto
+36,Magdalena,2031,38902.90568089243,alto
+37,Mazatán,2031,854.5345664446995,alto
+38,Moctezuma,2031,6023.956052066187,alto
+39,Naco,2031,5532.059567090044,alto
+40,Nácori Chico,2031,1171.8432818188817,alto
+41,Nacozari de García,2031,16601.78987133366,alto
+42,Navojoa,2031,173938.83832599554,alto
+43,Nogales,2031,338299.1993276012,alto
+44,Onavas,2031,283.50536363981877,alto
+45,Opodepe,2031,2132.6979085865005,alto
+46,Oquitoa,2031,1064.8374660399115,alto
+47,Pitiquito,2031,8808.857703733198,alto
+48,Puerto Peñasco,2031,67228.21374894425,alto
+49,Quiriego,2031,4028.9499789793085,alto
+50,Rayón,2031,1720.048122166183,alto
+51,Rosario,2031,4581.845111558197,alto
+52,Sahuaripa,2031,4628.068405466556,alto
+53,San Felipe de Jesús,2031,326.28779898753874,alto
+54,San Javier,2031,516.2159078075366,alto
+55,San Luis Río Colorado,2031,226921.40365678773,alto
+56,San Miguel de Horcasitas,2031,15397.16949641142,alto
+57,San Pedro de la Cueva,2031,1468.6398843506543,alto
+58,Santa Ana,2031,16574.829387961337,alto
+59,Santa Cruz,2031,2114.4047688237724,alto
+60,Sáric,2031,4267.545333847805,alto
+61,Soyopa,2031,1309.6078700904752,alto
+62,Suaqui Grande,2031,1108.8797460271612,alto
+63,Tepache,2031,1105.3466326660273,alto
+64,Trincheras,2031,1109.2900971230736,alto
+65,Tubutama,2031,2631.1914006849534,alto
+66,Ures,2031,8564.695536644771,alto
+67,Villa Hidalgo,2031,1272.2278991453966,alto
+68,Villa Pesqueira,2031,808.8561638199606,alto
+69,Yécora,2031,3963.259602578886,alto
+70,General Plutarco Elías Calles,2031,10362.943180626184,alto
+71,Benito Juárez,2031,21678.44126502908,alto
+72,San Ignacio Río Muerto,2031,14426.084385035118,alto
+1,Aconchi,2032,2451.0965689319796,alto
+2,Agua Prieta,2032,114954.01357446639,alto
+3,Alamos,2032,24260.992007264635,alto
+4,Altar,2032,9733.12908002579,alto
+5,Arivechi,2032,1287.018504563902,alto
+6,Arizpe,2032,3294.7777048746143,alto
+7,Atil,2032,812.030448722398,alto
+8,Bacadéhuachi,2032,780.2730100792161,alto
+9,Bacanora,2032,715.211332865574,alto
+10,Bacerac,2032,1059.3573874795661,alto
+11,Bacoachi,2032,1388.1187263423803,alto
+12,Bácum,2032,24663.537251232014,alto
+13,Banámichi,2032,2712.578145954168,alto
+14,Baviácora,2032,3021.9730597088246,alto
+15,Bavispe,2032,958.1784355862433,alto
+16,Benjamín Hill,2032,4585.8109763693965,alto
+17,Caborca,2032,104979.49809497227,alto
+18,Cajeme,2032,464930.25511567085,alto
+19,Cananea,2032,51899.57739560866,alto
+20,Carbó,2032,5530.83589404137,alto
+21,La Colorada,2032,1555.4244920358303,alto
+22,Cucurpe,2032,796.291386604657,alto
+23,Cumpas,2032,5425.422457257982,alto
+24,Divisaderos,2032,899.2344247263045,alto
+25,Empalme,2032,48340.02130770093,alto
+26,Etchojoa,2032,61239.716086857814,alto
+27,Fronteras,2032,10719.436335668874,alto
+28,Granados,2032,964.4325623431031,alto
+29,Guaymas,2032,161613.40797841403,alto
+30,Hermosillo,2032,1155583.1040259919,alto
+31,Huachinera,2032,1136.8426864677574,alto
+32,Huásabas,2032,842.470421931484,alto
+33,Huatabampo,2032,75721.47616143941,alto
+34,Huépac,2032,1047.7161288481507,alto
+35,Imuris,2032,12411.236167000989,alto
+36,Magdalena,2032,39469.89041624013,alto
+37,Mazatán,2032,831.8830751524761,alto
+38,Moctezuma,2032,6099.489096313532,alto
+39,Naco,2032,5485.159855930614,alto
+40,Nácori Chico,2032,1127.1217690257195,alto
+41,Nacozari de García,2032,16797.589589340165,alto
+42,Navojoa,2032,174505.551436664,alto
+43,Nogales,2032,346759.91647277435,alto
+44,Onavas,2032,273.8528438051676,alto
+45,Opodepe,2032,2098.48687145886,alto
+46,Oquitoa,2032,1144.969734272429,alto
+47,Pitiquito,2032,8752.612648464728,alto
+48,Puerto Peñasco,2032,67528.5569076737,alto
+49,Quiriego,2032,4124.9677157424485,alto
+50,Rayón,2032,1739.1073250688953,alto
+51,Rosario,2032,4547.410213543501,alto
+52,Sahuaripa,2032,4560.053383195156,alto
+53,San Felipe de Jesús,2032,320.8360097866411,alto
+54,San Javier,2032,512.8309569181619,alto
+55,San Luis Río Colorado,2032,229301.9921524652,alto
+56,San Miguel de Horcasitas,2032,15959.003249519152,alto
+57,San Pedro de la Cueva,2032,1466.4249373375962,alto
+58,Santa Ana,2032,16580.474342015583,alto
+59,Santa Cruz,2032,2138.757898988959,alto
+60,Sáric,2032,4572.632679172553,alto
+61,Soyopa,2032,1300.755768754401,alto
+62,Suaqui Grande,2032,1105.724696221509,alto
+63,Tepache,2032,1095.862530587573,alto
+64,Trincheras,2032,1081.038174924488,alto
+65,Tubutama,2032,2778.402407422179,alto
+66,Ures,2032,8546.119952740333,alto
+67,Villa Hidalgo,2032,1254.7996642781393,alto
+68,Villa Pesqueira,2032,786.7727095246669,alto
+69,Yécora,2032,3846.3820553655046,alto
+70,General Plutarco Elías Calles,2032,10003.586570597925,alto
+71,Benito Juárez,2032,21636.302979272736,alto
+72,San Ignacio Río Muerto,2032,14402.731336755445,alto
+1,Aconchi,2033,2430.1321265630463,alto
+2,Agua Prieta,2033,117315.55676867269,alto
+3,Alamos,2033,24146.469935856778,alto
+4,Altar,2033,9734.004978094747,alto
+5,Arivechi,2033,1294.9262541302776,alto
+6,Arizpe,2033,3337.1277389304123,alto
+7,Atil,2033,828.9295054679679,alto
+8,Bacadéhuachi,2033,763.1964274392129,alto
+9,Bacanora,2033,709.2991075598688,alto
+10,Bacerac,2033,1041.0310720053665,alto
+11,Bacoachi,2033,1376.5324129424646,alto
+12,Bácum,2033,24749.36784649835,alto
+13,Banámichi,2033,2804.160072035893,alto
+14,Baviácora,2033,3000.857672545327,alto
+15,Bavispe,2033,931.5674949381364,alto
+16,Benjamín Hill,2033,4541.808381450855,alto
+17,Caborca,2033,106289.59264962662,alto
+18,Cajeme,2033,466650.9117798137,alto
+19,Cananea,2033,53116.32833582411,alto
+20,Carbó,2033,5574.28932310695,alto
+21,La Colorada,2033,1525.010587023879,alto
+22,Cucurpe,2033,785.7691224765838,alto
+23,Cumpas,2033,5378.039558716368,alto
+24,Divisaderos,2033,911.4800255591867,alto
+25,Empalme,2033,47826.02996238653,alto
+26,Etchojoa,2033,61055.76298701795,alto
+27,Fronteras,2033,10859.545816275406,alto
+28,Granados,2033,957.4172949777891,alto
+29,Guaymas,2033,161695.63334382194,alto
+30,Hermosillo,2033,1174912.562491318,alto
+31,Huachinera,2033,1129.8525009527764,alto
+32,Huásabas,2033,838.3343455513844,alto
+33,Huatabampo,2033,75346.23702162057,alto
+34,Huépac,2033,1055.168900755621,alto
+35,Imuris,2033,12373.448621872298,alto
+36,Magdalena,2033,40045.13858807133,alto
+37,Mazatán,2033,809.8320160462745,alto
+38,Moctezuma,2033,6175.969232592089,alto
+39,Naco,2033,5438.657751282857,alto
+40,Nácori Chico,2033,1084.1069807899612,alto
+41,Nacozari de García,2033,16995.698548089298,alto
+42,Navojoa,2033,175074.11096503254,alto
+43,Nogales,2033,355432.23250660265,alto
+44,Onavas,2033,264.5289637463646,alto
+45,Opodepe,2033,2064.824620475116,alto
+46,Oquitoa,2033,1231.1322001800604,alto
+47,Pitiquito,2033,8696.726721059205,alto
+48,Puerto Peñasco,2033,67830.24185444073,alto
+49,Quiriego,2033,4223.27374246233,alto
+50,Rayón,2033,1758.3777157928118,alto
+51,Rosario,2033,4513.234111313564,alto
+52,Sahuaripa,2033,4493.037923343601,alto
+53,San Felipe de Jesús,2033,315.4753119645302,alto
+54,San Javier,2033,509.46820195950176,alto
+55,San Luis Río Colorado,2033,231707.55494097894,alto
+56,San Miguel de Horcasitas,2033,16541.337989266325,alto
+57,San Pedro de la Cueva,2033,1464.213330823678,alto
+58,Santa Ana,2033,16586.121218593773,alto
+59,Santa Cruz,2033,2163.391521781474,alto
+60,Sáric,2033,4899.530756662009,alto
+61,Soyopa,2033,1291.9635018923352,alto
+62,Suaqui Grande,2033,1102.5786233489387,alto
+63,Tepache,2033,1086.459804060983,alto
+64,Trincheras,2033,1053.5057859751269,alto
+65,Tubutama,2033,2933.8496376811695,alto
+66,Ures,2033,8527.584656586452,alto
+67,Villa Hidalgo,2033,1237.6101785931571,alto
+68,Villa Pesqueira,2033,765.2921794270566,alto
+69,Yécora,2033,3732.9512571447262,alto
+70,General Plutarco Elías Calles,2033,9656.691398495183,alto
+71,Benito Juárez,2033,21594.24660139458,alto
+72,San Ignacio Río Muerto,2033,14379.416092556863,alto
+1,Aconchi,2034,2409.3469948950496,alto
+2,Agua Prieta,2034,119725.61402589155,alto
+3,Alamos,2034,24032.488456722956,alto
+4,Altar,2034,9734.88095498701,alto
+5,Arivechi,2034,1302.8825908016427,alto
+6,Arizpe,2034,3380.022126974606,alto
+7,Atil,2034,846.1802462166925,alto
+8,Bacadéhuachi,2034,746.4935725469261,alto
+9,Bacanora,2034,703.4357550928048,alto
+10,Bacerac,2034,1023.0217919743791,alto
+11,Bacoachi,2034,1365.0428078828756,alto
+12,Bácum,2034,24835.497137406302,alto
+13,Banámichi,2034,2898.8339824710815,alto
+14,Baviácora,2034,2979.8898246107556,alto
+15,Bavispe,2034,905.6956046963809,alto
+16,Benjamín Hill,2034,4498.228008113087,alto
+17,Caborca,2034,107616.03656556846,alto
+18,Cajeme,2034,468377.9364084485,alto
+19,Cananea,2034,54361.605189444024,alto
+20,Carbó,2034,5618.084147313108,alto
+21,La Colorada,2034,1495.1913785869222,alto
+22,Cucurpe,2034,775.3859004683218,alto
+23,Cumpas,2034,5331.070478470361,alto
+24,Divisaderos,2034,923.892384620663,alto
+25,Empalme,2034,47317.503800907616,alto
+26,Etchojoa,2034,60872.3624492261,alto
+27,Fronteras,2034,11001.486612068773,alto
+28,Granados,2034,950.4530565575028,alto
+29,Guaymas,2034,161777.90054369642,alto
+30,Hermosillo,2034,1194565.3451409985,alto
+31,Huachinera,2034,1122.9052964888372,alto
+32,Huásabas,2034,834.2185750804024,alto
+33,Huatabampo,2034,74972.85738612192,alto
+34,Huépac,2034,1062.6746868408593,alto
+35,Imuris,2034,12335.776125603175,alto
+36,Magdalena,2034,40628.77063063805,alto
+37,Mazatán,2034,788.3654732287546,alto
+38,Moctezuma,2034,6253.408336278051,alto
+39,Naco,2034,5392.549882317099,alto
+40,Nácori Chico,2034,1042.7337827158112,alto
+41,Nacozari de García,2034,17196.143982517147,alto
+42,Navojoa,2034,175644.5229269462,alto
+43,Nogales,2034,364321.43942607776,alto
+44,Onavas,2034,255.52253425021772,alto
+45,Opodepe,2034,2031.7023524460922,alto
+46,Oquitoa,2034,1323.7786545365232,alto
+47,Pitiquito,2034,8641.197628464888,alto
+48,Puerto Peñasco,2034,68133.2745837056,alto
+49,Quiriego,2034,4323.9225935521035,alto
+50,Rayón,2034,1777.861634430331,alto
+51,Rosario,2034,4479.314859886344,alto
+52,Sahuaripa,2034,4427.007336141928,alto
+53,San Felipe de Jesús,2034,310.204183518248,alto
+54,San Javier,2034,506.12749738754206,alto
+55,San Luis Río Colorado,2034,234138.35402279816,alto
+56,San Miguel de Horcasitas,2034,17144.921784722956,alto
+57,San Pedro de la Cueva,2034,1462.0050597708857,alto
+58,Santa Ana,2034,16591.770018350657,alto
+59,Santa Cruz,2034,2188.3088678379304,alto
+60,Sáric,2034,5249.798818264346,alto
+61,Soyopa,2034,1283.2306650619714,alto
+62,Suaqui Grande,2034,1099.441501867753,alto
+63,Tepache,2034,1077.137754867239,alto
+64,Trincheras,2034,1026.6746048636032,alto
+65,Tubutama,2034,3097.9938951708596,alto
+66,Ures,2034,8509.089560804836,alto
+67,Villa Hidalgo,2034,1220.65617146824,alto
+68,Villa Pesqueira,2034,744.3981124434924,alto
+69,Yécora,2034,3622.8655624003577,alto
+70,General Plutarco Elías Calles,2034,9321.825538037712,alto
+71,Benito Juárez,2034,21552.271972183098,alto
+72,San Ignacio Río Muerto,2034,14356.13859124186,alto
+1,Aconchi,2035,2388.7396402679533,alto
+2,Agua Prieta,2035,122185.18198862177,alto
+3,Alamos,2035,23919.0450180406,alto
+4,Altar,2035,9735.757010709674,alto
+5,Arivechi,2035,1310.8878131087927,alto
+6,Arizpe,2035,3423.4678659617744,alto
+7,Atil,2035,863.7899898171876,alto
+8,Bacadéhuachi,2035,730.156266223163,alto
+9,Bacanora,2035,697.6208714617882,alto
+10,Bacerac,2035,1005.324062843222,alto
+11,Bacoachi,2035,1353.6491039609455,alto
+12,Bácum,2035,24921.9261634347,alto
+13,Banámichi,2035,2996.704268678992,alto
+14,Baviácora,2035,2959.0684850064627,alto
+15,Bavispe,2035,880.5422396375225,alto
+16,Benjamín Hill,2035,4455.065804979947,alto
+17,Caborca,2035,108959.0338751049,alto
+18,Cajeme,2035,470111.3525687242,alto
+19,Cananea,2035,55636.07672746224,alto
+20,Carbó,2035,5662.2230488564965,alto
+21,La Colorada,2035,1465.955238359047,alto
+22,Cucurpe,2035,765.1398832651215,alto
+23,Cumpas,2035,5284.511602440048,alto
+24,Divisaderos,2035,936.4737727921045,alto
+25,Empalme,2035,46814.38471288038,alto
+26,Etchojoa,2035,60689.51281368519,alto
+27,Fronteras,2035,11145.282659439998,alto
+28,Granados,2035,943.5394758984968,alto
+29,Guaymas,2035,161860.209599322,alto
+30,Hermosillo,2035,1214546.8602242284,alto
+31,Huachinera,2035,1116.0008087952936,alto
+32,Huásabas,2035,830.1230108274523,alto
+33,Huatabampo,2035,74601.32804013627,alto
+34,Huépac,2035,1070.2338642122857,alto
+35,Imuris,2035,12298.218327913124,alto
+36,Magdalena,2035,41220.90873344379,alto
+37,Mazatán,2035,767.4679526916653,alto
+38,Moctezuma,2035,6331.818431650311,alto
+39,Naco,2035,5346.832906780894,alto
+40,Nácori Chico,2035,1002.9395261568567,alto
+41,Nacozari de García,2035,17398.95344876572,alto
+42,Navojoa,2035,176216.79335785052,alto
+43,Nogales,2035,373432.961578755,alto
+44,Onavas,2035,246.82274706317867,alto
+45,Opodepe,2035,1999.1114053963458,alto
+46,Oquitoa,2035,1423.3970372558122,alto
+47,Pitiquito,2035,8586.0230922713,alto
+48,Puerto Peñasco,2035,68437.66111670896,alto
+49,Quiriego,2035,4426.970103086352,alto
+50,Rayón,2035,1797.561447003529,alto
+51,Rosario,2035,4445.650528897329,alto
+52,Sahuaripa,2035,4361.947147703985,alto
+53,San Felipe de Jesús,2035,305.02112787526755,alto
+54,San Javier,2035,502.80869861263545,alto
+55,San Luis Río Colorado,2035,236594.6541469881,alto
+56,San Miguel de Horcasitas,2035,17770.530001564006,alto
+57,San Pedro de la Cueva,2035,1459.8001191488033,alto
+58,Santa Ana,2035,16597.420741941227,alto
+59,Santa Cruz,2035,2213.513205004525,alto
+60,Sáric,2035,5625.107587042943,alto
+61,Soyopa,2035,1274.5568565547715,alto
+62,Suaqui Grande,2035,1096.3133063089274,alto
+63,Tepache,2035,1067.8956907781862,alto
+64,Trincheras,2035,1000.526772898732,alto
+65,Tubutama,2035,3271.3217648405307,alto
+66,Ures,2035,8490.6345782067,alto
+67,Villa Hidalgo,2035,1203.9344170853924,alto
+68,Villa Pesqueira,2035,724.074496912131,alto
+69,Yécora,2035,3516.0263231686763,alto
+70,General Plutarco Elías Calles,2035,8998.571847822877,alto
+71,Benito Juárez,2035,21510.378932736243,alto
+72,San Ignacio Río Muerto,2035,14332.898771711985,alto
+1,Aconchi,2036,2368.3085421392466,alto
+2,Agua Prieta,2036,124695.27777376083,alto
+3,Alamos,2036,23806.137080032808,alto
+4,Altar,2036,9736.633145269832,alto
+5,Arivechi,2036,1318.9422214167687,alto
+6,Arizpe,2036,3467.4720427831444,alto
+7,Atil,2036,881.766207429646,alto
+8,Bacadéhuachi,2036,714.1765082932942,alto
+9,Bacanora,2036,691.8540560038742,alto
+10,Bacerac,2036,987.9324949481764,alto
+11,Bacoachi,2036,1342.3505007115443,alto
+12,Bácum,2036,25008.655967679806,alto
+13,Banámichi,2036,3097.8788465366965,alto
+14,Baviácora,2036,2938.392630036983,alto
+15,Bavispe,2036,856.0874445733768,alto
+16,Benjamín Hill,2036,4412.317759549785,alto
+17,Caborca,2036,110318.79115676989,alto
+18,Cajeme,2036,471851.1839150093,alto
+19,Cananea,2036,56940.42739976207,alto
+20,Carbó,2036,5706.708731006649,alto
+21,La Colorada,2036,1437.2907653489376,alto
+22,Cucurpe,2036,755.0292578306712,alto
+23,Cumpas,2036,5238.359348109064,alto
+24,Divisaderos,2036,949.2264918793054,alto
+25,Empalme,2036,46316.61520579897,alto
+26,Etchojoa,2036,60507.212425583886,alto
+27,Fronteras,2036,11290.958207643129,alto
+28,Granados,2036,936.6761845170083,alto
+29,Guaymas,2036,161942.56053199383,alto
+30,Hermosillo,2036,1234862.6064540802,alto
+31,Huachinera,2036,1109.1387752164997,alto
+32,Huásabas,2036,826.0475535908779,alto
+33,Huatabampo,2036,74231.63981452057,alto
+34,Huépac,2036,1077.846812660826,alto
+35,Imuris,2036,12260.774879588122,alto
+36,Magdalena,2036,41821.676866825226,alto
+37,Mazatán,2036,747.1243711326614,alto
+38,Moctezuma,2036,6411.211693757521,alto
+39,Naco,2036,5301.503510756754,alto
+40,Nácori Chico,2036,964.6639533514445,alto
+41,Nacozari de García,2036,17604.15482797116,alto
+42,Navojoa,2036,176790.92831285516,alto
+43,Nogales,2036,382772.3589727836,alto
+44,Onavas,2036,238.4191619207923,alto
+45,Opodepe,2036,1967.0432562989274,alto
+46,Oquitoa,2036,1530.5120072191987,alto
+47,Pitiquito,2036,8531.200848615747,alto
+48,Puerto Peñasco,2036,68743.40750159146,alto
+49,Quiriego,2036,4532.473435774567,alto
+50,Rayón,2036,1817.47954575148,alto
+51,Rosario,2036,4412.239202489682,alto
+52,Sahuaripa,2036,4297.843096854751,alto
+53,San Felipe de Jesús,2036,299.9246734685874,alto
+54,San Javier,2036,499.5116619932433,alto
+55,San Luis Río Colorado,2036,239076.72284004526,alto
+56,San Miguel de Horcasitas,2036,18418.966298106643,alto
+57,San Pedro de la Cueva,2036,1457.598503934601,alto
+58,Santa Ana,2036,16603.073390020687,alto
+59,Santa Cruz,2036,2239.007838765601,alto
+60,Sáric,2036,6027.247226260245,alto
+61,Soyopa,2036,1265.9416773774872,alto
+62,Suaqui Grande,2036,1093.194011275903,alto
+63,Tepache,2036,1058.73292550513,alto
+64,Trincheras,2036,975.0448862228785,alto
+65,Tubutama,2036,3454.347055299525,alto
+66,Ures,2036,8472.21962179236,alto
+67,Villa Hidalgo,2036,1187.441733817062,alto
+68,Villa Pesqueira,2036,704.3057583227743,alto
+69,Yécora,2036,3412.337800639836,alto
+70,General Plutarco Elías Calles,2036,8686.527651693845,alto
+71,Benito Juárez,2036,21468.567324460833,alto
+72,San Ignacio Río Muerto,2036,14309.696572967696,alto
+1,Aconchi,2037,2348.0521929717534,alto
+2,Agua Prieta,2037,127256.93939321816,alto
+3,Alamos,2037,23693.762114911504,alto
+4,Altar,2037,9737.509358674582,alto
+5,Arivechi,2037,1327.0461179361253,alto
+6,Arizpe,2037,3512.0418354226094,alto
+7,Atil,2037,900.116525695573,alto
+8,Bacadéhuachi,2037,698.5464736696676,alto
+9,Bacanora,2037,686.134911368159,alto
+10,Bacerac,2037,970.8417918638195,alto
+11,Bacoachi,2037,1331.146204350844,alto
+12,Bácum,2037,25095.68759686794,alto
+13,Banámichi,2037,3202.469275371647,alto
+14,Baviácora,2037,2917.8612431597035,alto
+15,Bavispe,2037,832.3118185197668,alto
+16,Benjamín Hill,2037,4369.979897822421,alto
+17,Caborca,2037,111695.51756709986,alto
+18,Cajeme,2037,473597.4541892142,alto
+19,Cananea,2037,58275.35770269729,alto
+20,Carbó,2037,5751.543918271539,alto
+21,La Colorada,2037,1409.1867814939178,alto
+22,Cucurpe,2037,745.05223508628,alto
+23,Cumpas,2037,5192.610164248936,alto
+24,Divisaderos,2037,962.152875033608,alto
+25,Empalme,2037,45824.138398465715,alto
+26,Etchojoa,2037,60325.45963508159,alto
+27,Fronteras,2037,11438.537822884551,alto
+28,Granados,2037,929.8628166096197,alto
+29,Guaymas,2037,162024.95336301823,alto
+30,Hermosillo,2037,1255518.1745206947,alto
+31,Huachinera,2037,1102.3189347118193,alto
+32,Huásabas,2037,821.9921046560497,alto
+33,Huatabampo,2037,73863.78358556969,alto
+34,Huépac,2037,1085.5139146789904,alto
+35,Imuris,2037,12223.445432477365,alto
+36,Magdalena,2037,42431.200807906585,alto
+37,Mazatán,2037,727.3200450685564,alto
+38,Moctezuma,2037,6491.600450308558,alto
+39,Naco,2037,5256.558408421932,alto
+40,Nácori Chico,2037,927.8491061784102,alto
+41,Nacozari de García,2037,17811.77633009674,alto
+42,Navojoa,2037,177366.9338667981,alto
+43,Nogales,2037,392345.33066972013,alto
+44,Onavas,2037,230.30169401875605,alto
+45,Opodepe,2037,1935.4895188464825,alto
+46,Oquitoa,2037,1645.6877054895494,alto
+47,Pitiquito,2037,8476.728648090422,alto
+48,Puerto Peñasco,2037,69050.51981351389,alto
+49,Quiriego,2037,4640.491118672776,alto
+50,Rayón,2037,1837.6183494207532,alto
+51,Rosario,2037,4379.078979205203,alto
+52,Sahuaripa,2037,4234.681132004301,alto
+53,San Felipe de Jesús,2037,294.9133733189266,alto
+54,San Javier,2037,496.23624482971906,alto
+55,San Luis Río Colorado,2037,241584.8304350348,alto
+56,San Miguel de Horcasitas,2037,19091.063657692248,alto
+57,San Pedro de la Cueva,2037,1455.400209113025,alto
+58,Santa Ana,2037,16608.727963244473,alto
+59,Santa Cruz,2037,2264.796112677159,alto
+60,Sáric,2037,6458.135878172399,alto
+61,Soyopa,2037,1257.384731233806,alto
+62,Suaqui Grande,2037,1090.0835914443805,alto
+63,Tepache,2037,1049.6487786478745,alto
+64,Trincheras,2037,950.2119842280446,alto
+65,Tubutama,2037,3647.612321938065,alto
+66,Ures,2037,8453.84460475082,alto
+67,Villa Hidalgo,2037,1171.1749836207737,alto
+68,Villa Pesqueira,2037,685.0767473817201,alto
+69,Yécora,2037,3311.707079366172,alto
+70,General Plutarco Elías Calles,2037,8385.304237127095,alto
+71,Benito Juárez,2037,21426.83698907197,alto
+72,San Ignacio Río Muerto,2037,14286.531934108196,alto
+1,Aconchi,2038,2327.969098122392,alto
+2,Agua Prieta,2038,129871.22618316916,alto
+3,Alamos,2038,23581.917606820814,alto
+4,Altar,2038,9738.385650931017,alto
+5,Arivechi,2038,1335.1998067342715,alto
+6,Arizpe,2038,3557.1845141276035,alto
+7,Atil,2038,918.848729973488,alto
+8,Bacadéhuachi,2038,683.2585085197621,alto
+9,Bacanora,2038,680.4630434884017,alto
+10,Bacerac,2038,954.0467487900513,alto
+11,Bacoachi,2038,1320.0354277205508,alto
+12,Bácum,2038,25183.022101368086,alto
+13,Banámichi,2038,3310.590880971664,alto
+14,Baviácora,2038,2897.473314934884,alto
+15,Bavispe,2038,809.1964993049316,alto
+16,Benjamín Hill,2038,4328.048283929716,alto
+17,Caborca,2038,113089.4248728061,alto
+18,Cajeme,2038,475350.1872211159,alto
+19,Cananea,2038,59641.584555291054,alto
+20,Carbó,2038,5796.731356564445,alto
+21,La Colorada,2038,1381.6323273009298,alto
+22,Cucurpe,2038,735.2070495942996,alto
+23,Cumpas,2038,5147.260530645821,alto
+24,Divisaderos,2038,975.2552871787587,alto
+25,Empalme,2038,45336.89801449119,alto
+26,Etchojoa,2038,60144.25279729353,alto
+27,Fronteras,2038,11588.046392465745,alto
+28,Granados,2038,923.0990090337616,alto
+29,Guaymas,2038,162107.388113712,alto
+30,Hermosillo,2038,1276519.2486297828,alto
+31,Huachinera,2038,1095.541027845696,alto
+32,Huásabas,2038,817.9565657929741,alto
+33,Huatabampo,2038,73497.7502747911,alto
+34,Huépac,2038,1093.2355554800936,alto
+35,Imuris,2038,12186.229639490046,alto
+36,Magdalena,2038,43049.608166932536,alto
+37,Mazatán,2038,708.0406802371559,alto
+38,Moctezuma,2038,6572.9971835866945,alto
+39,Naco,2038,5211.9943418102375,alto
+40,Nácori Chico,2038,892.4392383950019,alto
+41,Nacozari de García,2038,18021.846497810995,alto
+42,Navojoa,2038,177944.81611430968,alto
+43,Nogales,2038,402157.7182621939,alto
+44,Onavas,2038,222.46060191055162,alto
+45,Opodepe,2038,1904.441941258102,alto
+46,Oquitoa,2038,1769.5307264659561,alto
+47,Pitiquito,2038,8422.604255650114,alto
+48,Puerto Peñasco,2038,69359.00415477793,alto
+49,Quiriego,2038,4751.083073650904,alto
+50,Rayón,2038,1857.9803035591349,alto
+51,Rosario,2038,4346.167971876118,alto
+52,Sahuaripa,2038,4172.447408067691,alto
+53,San Felipe de Jesús,2038,289.98580462389907,alto
+54,San Javier,2038,492.9823053581315,alto
+55,San Luis Río Colorado,2038,244119.25010103366,alto
+56,San Miguel de Horcasitas,2038,19787.685458739496,alto
+57,San Pedro de la Cueva,2038,1453.2052296763852,alto
+58,Santa Ana,2038,16614.384462268234,alto
+59,Santa Cruz,2038,2290.881408805353,alto
+60,Sáric,2038,6919.828813263409,alto
+61,Soyopa,2038,1248.8856245061218,alto
+62,Suaqui Grande,2038,1086.982021562116,alto
+63,Tepache,2038,1040.642575644197,alto
+64,Trincheras,2038,926.0115382669774,alto
+65,Tubutama,2038,3851.690475264284,alto
+66,Ures,2038,8435.50944045937,alto
+67,Villa Hidalgo,2038,1155.1310714420592,alto
+68,Villa Pesqueira,2038,666.3727284024693,alto
+69,Yécora,2038,3214.0439840005165,alto
+70,General Plutarco Elías Calles,2038,8094.526371014401,alto
+71,Benito Juárez,2038,21385.187768592426,alto
+72,San Ignacio Río Muerto,2038,14263.404794331274,alto
+1,Aconchi,2039,2308.057775731895,alto
+2,Agua Prieta,2039,132539.21924212758,alto
+3,Alamos,2039,23470.601051780777,alto
+4,Altar,2039,9739.262022046232,alto
+5,Arivechi,2039,1343.4035937468798,alto
+6,Arizpe,2039,3602.907442595032,alto
+7,Atil,2039,937.9707676419614,alto
+8,Bacadéhuachi,2039,668.3051265182004,alto
+9,Bacanora,2039,674.8380615558721,alto
+10,Bacerac,2039,937.5422509670273,alto
+11,Bacoachi,2039,1309.0173902326037,alto
+12,Bácum,2039,25270.66053520457,alto
+13,Banámichi,2039,3422.362882747978,alto
+14,Baviácora,2039,2877.2278429760286,alto
+15,Bavispe,2039,786.7231486053988,alto
+16,Benjamín Hill,2039,4286.5190197696775,alto
+17,Caborca,2039,114500.72748334841,alto
+18,Cajeme,2039,477109.40692868264,alto
+19,Cananea,2039,61039.8416842543,alto
+20,Carbó,2039,5842.273813372116,alto
+21,La Colorada,2039,1354.6166575727439,alto
+22,Cucurpe,2039,725.4919592457292,alto
+23,Cumpas,2039,5102.306957829648,alto
+24,Divisaderos,2039,988.5361254435793,alto
+25,Empalme,2039,44854.83837586341,alto
+26,Etchojoa,2039,59963.590272275906,alto
+27,Fronteras,2039,11739.509128980191,alto
+28,Granados,2039,916.3844012883582,alto
+29,Guaymas,2039,162189.86480540302,alto
+30,Hermosillo,2039,1297871.6080668622,alto
+31,Huachinera,2039,1088.8047967777825,alto
+32,Huásabas,2039,813.9408392539136,alto
+33,Huatabampo,2039,73133.53084868097,alto
+34,Huépac,2039,1101.012123017607,alto
+35,Imuris,2039,12149.127154592114,alto
+36,Magdalena,2039,43677.02841398465,alto
+37,Mazatán,2039,689.27236128002,alto
+38,Moctezuma,2039,6655.414532387777,alto
+39,Naco,2039,5167.808080575877,alto
+40,Nácori Chico,2039,858.3807312240996,alto
+41,Nacozari de García,2039,18234.3942104116,alto
+42,Navojoa,2039,178524.5811698775,alto
+43,Nogales,2039,412215.50943854766,alto
+44,Onavas,2039,214.88647581712755,alto
+45,Opodepe,2039,1873.8924041213593,alto
+46,Oquitoa,2039,1902.6933126268166,alto
+47,Pitiquito,2039,8368.825450520508,alto
+48,Puerto Peñasco,2039,69668.86665494739,alto
+49,Quiriego,2039,4864.310650633926,alto
+50,Rayón,2039,1878.5678808126015,alto
+51,Rosario,2039,4313.50430751768,alto
+52,Sahuaripa,2039,4111.128283430127,alto
+53,San Felipe de Jesús,2039,285.14056835405455,alto
+54,San Javier,2039,489.7497027441296,alto
+55,San Luis Río Colorado,2039,246680.25787288268,alto
+56,San Miguel de Horcasitas,2039,20509.726583843043,alto
+57,San Pedro de la Cueva,2039,1451.0135606245433,alto
+58,Santa Ana,2039,16620.042887747848,alto
+59,Santa Cruz,2039,2317.267148170044,alto
+60,Sáric,2039,7414.528233559134,alto
+61,Soyopa,2039,1240.4439662374289,alto
+62,Suaqui Grande,2039,1083.889276448713,alto
+63,Tepache,2039,1031.713647719759,alto
+64,Trincheras,2039,902.4274406517902,alto
+65,Tubutama,2039,4067.1864792251636,alto
+66,Ures,2039,8417.214042483165,alto
+67,Villa Hidalgo,2039,1139.3069446255652,alto
+68,Villa Pesqueira,2039,648.1793680133884,alto
+69,Yécora,2039,3119.260998489935,alto
+70,General Plutarco Elías Calles,2039,7813.831832236056,alto
+71,Benito Juárez,2039,21343.61950535204,alto
+72,San Ignacio Río Muerto,2039,14240.315092933155,alto
+1,Aconchi,2040,2288.316756615466,alto
+2,Agua Prieta,2040,135262.02187801732,alto
+3,Alamos,2040,23359.80995763127,alto
+4,Altar,2040,9740.138472027324,alto
+5,Arivechi,2040,1351.6577867893636,alto
+6,Arizpe,2040,3649.218079172438,alto
+7,Atil,2040,957.4907514713931,alto
+8,Bacadéhuachi,2040,653.6790051807889,alto
+9,Bacanora,2040,669.2595779924221,alto
+10,Bacerac,2040,921.323272117508,alto
+11,Bacoachi,2040,1298.0913178143328,alto
+12,Bácum,2040,25358.603956069786,alto
+13,Banámichi,2040,3537.908525191548,alto
+14,Baviácora,2040,2857.1238319006,alto
+15,Bavispe,2040,764.8739373974456,alto
+16,Benjamín Hill,2040,4245.38824464408,alto
+17,Caborca,2040,115929.64248391538,alto
+18,Cajeme,2040,478875.13731840055,alto
+19,Cananea,2040,62470.880018030846,alto
+20,Carbó,2040,5888.174077924273,alto
+21,La Colorada,2040,1328.1292372177381,alto
+22,Cucurpe,2040,715.905244951949,alto
+23,Cumpas,2040,5057.745986805616,alto
+24,Divisaderos,2040,1001.9978196005288,alto
+25,Empalme,2040,44377.904396585305,alto
+26,Etchojoa,2040,59783.47042501097,alto
+27,Fronteras,2040,11892.951574565126,alto
+28,Granados,2040,909.7186354946126,alto
+29,Guaymas,2040,162272.38345942996,alto
+30,Hermosillo,2040,1319581.1287876589,alto
+31,Huachinera,2040,1082.1099852531327,alto
+32,Huásabas,2040,809.9448277710198,alto
+33,Huatabampo,2040,72771.11631850111,alto
+34,Huépac,2040,1108.8440080046514,alto
+35,Imuris,2040,12112.13763280306,alto
+36,Magdalena,2040,44313.59290608737,alto
+37,Mazatán,2040,671.0015416987093,alto
+38,Moctezuma,2040,6738.8652939827025,alto
+39,Naco,2040,5123.996421759292,alto
+40,Nácori Chico,2040,825.622012162914,alto
+41,Nacozari de García,2040,18449.44868779556,alto
+42,Navojoa,2040,179106.23516791075,alto
+43,Nogales,2040,422524.84163662855,alto
+44,Onavas,2040,207.57022633460176,alto
+45,Opodepe,2040,1843.8329182689592,alto
+46,Oquitoa,2040,2045.8767896870752,alto
+47,Pitiquito,2040,8315.390026107054,alto
+48,Puerto Peñasco,2040,69980.11347097001,alto
+49,Quiriego,2040,4980.236661635192,alto
+50,Rayón,2040,1899.3835812255847,alto
+51,Rosario,2040,4281.086127221575,alto
+52,Sahuaripa,2040,4050.7103169567263,alto
+53,San Felipe de Jesús,2040,280.3762888556667,alto
+54,San Javier,2040,486.5382970768466,alto
+55,San Luis Río Colorado,2040,249268.1326812508,alto
+56,San Miguel de Horcasitas,2040,21258.11456934256,alto
+57,San Pedro de la Cueva,2040,1448.8251969649023,alto
+58,Santa Ana,2040,16625.70324033942,alto
+59,Santa Cruz,2040,2343.9567911934505,alto
+60,Sáric,2040,7944.593776781464,alto
+61,Soyopa,2040,1232.0593681133375,alto
+62,Suaqui Grande,2040,1080.8053309954207,alto
+63,Tepache,2040,1022.8613318384429,alto
+64,Trincheras,2040,879.4439939327718,alto
+65,Tubutama,2040,4294.739144545864,alto
+66,Ures,2040,8398.958324574829,alto
+67,Villa Hidalgo,2040,1123.699592334227,alto
+68,Villa Pesqueira,2040,630.4827241736784,alto
+69,Yécora,2040,3027.273187652451,alto
+70,General Plutarco Elías Calles,2040,7542.87096044311,alto
+71,Benito Juárez,2040,21302.132041987134,alto
+72,San Ignacio Río Muerto,2040,14217.262769308316,alto

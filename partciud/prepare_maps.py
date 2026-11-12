@@ -30,19 +30,21 @@ for p in pages:
     download_pages += [ul for ul in useful_links if not ul.split("/")[1].startswith("Area")]
 
 
-# Downlaod File Links
+# Download File Links
 
-logger = get_logger()
+def download_maps():
+    logger = get_logger()
 
-logger.info("=== INICIO lote: %d archivos ===", len(download_pages))
-t0 = time.perf_counter()
-k = 0
-for page in download_pages:
-        year = page.split("/")[0].split("_")[-1]
-        filename = page.split("/")[1]
-        down_link = link_ine_maps / page
-        dest = savepath("input", f"ine_maps/{year}", down_link.name)
-        print(f"Progreso {k} / {len(download_pages)}")
-        download(down_link, dest, logger)
-        k+= 1 
-logger.info("=== FIN lote | total %.1f s ===", time.perf_counter() - t0)
+    logger.info("=== INICIO lote: %d archivos ===", len(download_pages))
+    t0 = time.perf_counter()
+    k = 0
+    for page in download_pages:
+            year = page.split("/")[0].split("_")[-1]
+            filename = page.split("/")[1]
+            down_link = link_ine_maps / page
+            dest = savepath("input", f"ine_maps/{year}", down_link.name)
+            if not os.path.exists(dest):
+                print(f"Progreso {k} / {len(download_pages)}")
+                download(down_link, dest, logger)
+                k += 1
+    logger.info("=== FIN lote | total %.1f s ===", time.perf_counter() - t0)
