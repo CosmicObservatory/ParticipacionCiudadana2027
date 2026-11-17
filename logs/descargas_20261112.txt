@@ -1,0 +1,22 @@
+2026-11-12 10:46:34 | INFO    | === INICIO lote: 63 archivos ===
+2026-11-12 10:46:34 | INFO    | === FIN lote | total 0.0 s ===
+2026-11-12 10:48:00 | INFO    | === INICIO lote: 63 archivos ===
+2026-11-12 10:48:00 | INFO    | === FIN lote | total 0.0 s ===
+2026-11-12 10:48:40 | INFO    | === INICIO lote: 63 archivos ===
+2026-11-12 10:48:40 | INFO    | === FIN lote | total 0.0 s ===
+2026-11-12 10:51:08 | INFO    | === INICIO lote: 63 archivos ===
+2026-11-12 10:51:08 | INFO    | === FIN lote | total 0.0 s ===
+2026-11-12 10:51:56 | INFO    | === INICIO lote: 63 archivos ===
+2026-11-12 10:51:56 | INFO    | === FIN lote | total 0.0 s ===
+2026-11-12 10:53:27 | INFO    | === INICIO lote: 63 archivos ===
+2026-11-12 10:53:27 | INFO    | === FIN lote | total 0.0 s ===
+2026-11-12 10:56:54 | INFO    | === INICIO lote: 63 archivos ===
+2026-11-12 10:56:54 | INFO    | === FIN lote | total 0.0 s ===
+2026-11-12 11:22:35 | INFO    | === INICIO lote: 63 archivos ===
+2026-11-12 11:22:35 | INFO    | === FIN lote | total 0.0 s ===
+2026-11-12 11:32:25 | INFO    | === INICIO lote: 63 archivos ===
+2026-11-12 11:32:25 | INFO    | === FIN lote | total 0.0 s ===
+2026-11-12 12:00:04 | INFO    | === INICIO lote: 63 archivos ===
+2026-11-12 12:00:04 | INFO    | === FIN lote | total 0.0 s ===
+2026-11-12 12:05:32 | INFO    | === INICIO lote: 63 archivos ===
+2026-11-12 12:05:32 | INFO    | === FIN lote | total 0.0 s ===

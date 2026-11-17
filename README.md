@@ -6,6 +6,11 @@
 
 Estimación de Personas Votantes para las elecciones de 2027.
 
+    El CVEGEO hasta municipios consta de 5 digitos EEMMM 
+    usando el relleno con ceros a la izquierda. EE corresponde 
+    al estado y (MMM) al municipio como clave numérica.
+
+
 ## Tablero Streamlit
 
 El análisis electoral y poblacional de Sonora está disponible como un

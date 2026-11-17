@@ -27,6 +27,24 @@ def get_logger():
         logger.addHandler(fh)
     return logger
 
+
+def filenorm(files):
+    norm_names = []
+    for name in files:
+        try:
+            name.index("Ñ")
+            name = name.replace("Ñ","N")
+            norm_names.append(name)
+        except:
+            try:
+                name.index("Ó")
+                name= name.replace("Ó","O")
+                norm_names.append(name)
+            except:
+                norm_names.append(name)
+    return norm_names
+
+
 def download(url, dest, logger):
     start = time.perf_counter()
     try:
